@@ -1,0 +1,2 @@
+중간발표/하나둘SAT[[:space:]]중간.pptx filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
