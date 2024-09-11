@@ -1,0 +1,3239 @@
+[2024-08-07 06:50:02.294] Log file generated
+[2024-08-07 06:50:42.503] Log file generated
+[2024-08-07 06:50:42.515] Starting Apps
+
+[2024-08-07 06:50:42.516] Starting Communication Core App
+[2024-08-07 06:50:42.540] Waiting Until Server Starts
+[2024-08-07 06:50:42.544] Communication Core AppStarted
+[2024-08-07 06:50:43.042] Server Connected
+[2024-08-07 06:50:43.143] Starting Telemetry App
+[2024-08-07 06:50:43.149] Telemetry AppStarted
+[2024-08-07 06:50:43.246] Starting BerryimuAccGyro App
+[2024-08-07 06:50:43.253] BerryimuAccGyro AppStarted
+[2024-08-07 06:50:43.349] Starting BerryimuBarometer App
+[2024-08-07 06:50:43.359] BerryimuBarometer AppStarted
+[2024-08-07 06:50:43.454] Starting BerryimuGps App
+[2024-08-07 06:50:43.463] BerryimuGps AppStarted
+[2024-08-07 06:50:43.559] Starting Motor App
+[2024-08-07 06:50:43.574] Motor AppStarted
+[2024-08-07 06:50:43.668] Starting Camera App
+[2024-08-07 06:50:43.681] Camera AppStarted
+[2024-08-07 06:51:10.067] Terminating apps
+[2024-08-07 06:51:10.073] msg to send : 0|7|1001|Terminate
+[2024-08-07 06:51:10.574] msg to send : 0|6|1001|Terminate
+[2024-08-07 06:51:11.075] msg to send : 0|5|1001|Terminate
+[2024-08-07 06:51:11.576] msg to send : 0|4|1001|Terminate
+[2024-08-07 06:51:12.077] msg to send : 0|3|1001|Terminate
+[2024-08-07 06:51:12.577] msg to send : 0|2|1001|Terminate
+[2024-08-07 06:51:13.078] msg to send : 0|1|1001|Terminate
+[2024-08-07 06:51:13.579] Terminaton operated
+[2024-08-07 06:51:13.582] Terminaton operated
+[2024-08-07 06:51:13.582] Terminaton operated
+[2024-08-07 06:51:13.582] Terminaton operated
+[2024-08-07 06:51:13.583] Terminaton operated
+[2024-08-07 06:51:13.583] Terminaton operated
+[2024-08-07 06:51:13.585] Terminaton operated
+[2024-08-07 06:51:13.586] All Apps Terminated
+[2024-08-07 06:51:13.586] Keyboard Interrupt!!!
+[2024-08-07 06:51:13.586] Terminating apps
+[2024-08-07 06:51:13.586] msg to send : 0|7|1001|Terminate
+[2024-08-07 06:51:14.087] msg to send : 0|6|1001|Terminate
+[2024-08-07 06:51:14.587] msg to send : 0|5|1001|Terminate
+[2024-08-07 06:51:15.088] msg to send : 0|4|1001|Terminate
+[2024-08-07 06:51:15.589] msg to send : 0|3|1001|Terminate
+[2024-08-07 06:51:16.090] msg to send : 0|2|1001|Terminate
+[2024-08-07 06:51:16.590] msg to send : 0|1|1001|Terminate
+[2024-08-07 06:51:17.091] Terminaton operated
+[2024-08-07 06:51:17.092] Terminaton operated
+[2024-08-07 06:51:17.092] Terminaton operated
+[2024-08-07 06:51:17.092] Terminaton operated
+[2024-08-07 06:51:17.093] Terminaton operated
+[2024-08-07 06:51:17.093] Terminaton operated
+[2024-08-07 06:51:17.093] Terminaton operated
+[2024-08-07 06:51:17.093] All Apps Terminated
+[2024-08-07 07:00:24.603] Log file generated
+[2024-08-07 07:00:24.604] Starting Apps
+
+[2024-08-07 07:00:24.604] Starting Communication Core App
+[2024-08-07 07:00:24.620] Waiting Until Server Starts
+[2024-08-07 07:00:24.624] Communication Core App Started
+[2024-08-07 07:00:25.122] Server Connected
+[2024-08-07 07:00:25.222] Starting Telemetry App
+[2024-08-07 07:00:25.230] Telemetry App Started
+[2024-08-07 07:00:25.326] Starting BerryimuAccGyro App
+[2024-08-07 07:00:25.335] BerryimuAccGyro App Started
+[2024-08-07 07:00:25.434] Starting BerryimuBarometer App
+[2024-08-07 07:00:25.452] BerryimuBarometer App Started
+[2024-08-07 07:00:25.546] Starting BerryimuGps App
+[2024-08-07 07:00:25.557] BerryimuGps App Started
+[2024-08-07 07:00:25.652] Starting Motor App
+[2024-08-07 07:00:25.669] Motor App Started
+[2024-08-07 07:00:25.767] Starting Camera App
+[2024-08-07 07:00:25.791] Camera App Started
+[2024-08-07 07:00:36.607] Terminating apps
+[2024-08-07 07:00:36.608] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:00:37.109] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:00:37.610] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:00:38.110] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:00:38.611] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:00:39.112] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:00:39.612] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:00:40.113] Terminaton operated
+[2024-08-07 07:00:40.116] Terminaton operated
+[2024-08-07 07:00:40.117] Terminaton operated
+[2024-08-07 07:00:40.117] Terminaton operated
+[2024-08-07 07:00:40.118] Terminaton operated
+[2024-08-07 07:00:40.118] Terminaton operated
+[2024-08-07 07:00:40.118] Terminaton operated
+[2024-08-07 07:00:40.119] All Apps Terminated
+[2024-08-07 07:00:40.119] Keyboard Interrupt!!!
+[2024-08-07 07:00:40.119] Terminating apps
+[2024-08-07 07:00:40.119] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:00:40.620] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:00:41.121] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:00:41.621] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:00:42.122] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:00:42.623] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:00:43.124] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:00:43.624] Terminaton operated
+[2024-08-07 07:00:43.625] Terminaton operated
+[2024-08-07 07:00:43.625] Terminaton operated
+[2024-08-07 07:00:43.625] Terminaton operated
+[2024-08-07 07:00:43.625] Terminaton operated
+[2024-08-07 07:00:43.625] Terminaton operated
+[2024-08-07 07:00:43.625] Terminaton operated
+[2024-08-07 07:00:43.625] All Apps Terminated
+[2024-08-07 07:02:12.947] Log file generated
+[2024-08-07 07:02:12.958] Starting Apps
+
+[2024-08-07 07:02:12.958] Starting Communication Core App
+[2024-08-07 07:02:12.973] Waiting Until Server Starts
+[2024-08-07 07:02:12.976] Communication Core App Started
+[2024-08-07 07:02:13.477] Server Connected
+[2024-08-07 07:02:13.577] Starting Telemetry App
+[2024-08-07 07:02:13.584] Telemetry App Started
+[2024-08-07 07:02:13.680] Starting BerryimuAccGyro App
+[2024-08-07 07:02:13.687] BerryimuAccGyro App Started
+[2024-08-07 07:02:13.784] Starting BerryimuBarometer App
+[2024-08-07 07:02:13.792] BerryimuBarometer App Started
+[2024-08-07 07:02:13.888] Starting BerryimuGps App
+[2024-08-07 07:02:13.898] BerryimuGps App Started
+[2024-08-07 07:02:13.996] Starting Motor App
+[2024-08-07 07:02:14.004] Motor App Started
+[2024-08-07 07:02:14.100] Starting Camera App
+[2024-08-07 07:02:14.111] Camera App Started
+[2024-08-07 07:03:00.836] Terminating apps
+[2024-08-07 07:03:00.837] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:03:01.338] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:03:01.839] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:03:02.340] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:03:02.840] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:03:03.341] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:03:03.842] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:03:04.343] Terminaton operated
+[2024-08-07 07:03:04.347] Terminaton operated
+[2024-08-07 07:03:04.348] Terminaton operated
+[2024-08-07 07:03:04.348] Terminaton operated
+[2024-08-07 07:03:04.351] Terminaton operated
+[2024-08-07 07:03:04.352] Terminaton operated
+[2024-08-07 07:03:04.355] Terminaton operated
+[2024-08-07 07:03:04.356] All Apps Terminated
+[2024-08-07 07:03:04.356] Keyboard Interrupt!!!
+[2024-08-07 07:03:04.356] Terminating apps
+[2024-08-07 07:03:04.357] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:03:04.857] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:03:05.358] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:03:05.859] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:03:06.359] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:03:06.860] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:03:07.361] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:03:07.862] Terminaton operated
+[2024-08-07 07:03:07.862] Terminaton operated
+[2024-08-07 07:03:07.863] Terminaton operated
+[2024-08-07 07:03:07.863] Terminaton operated
+[2024-08-07 07:03:07.863] Terminaton operated
+[2024-08-07 07:03:07.863] Terminaton operated
+[2024-08-07 07:03:07.863] Terminaton operated
+[2024-08-07 07:03:07.863] All Apps Terminated
+[2024-08-07 07:04:12.202] Log file generated
+[2024-08-07 07:04:12.203] Starting Apps
+
+[2024-08-07 07:04:12.203] Starting Communication Core App
+[2024-08-07 07:04:12.218] Waiting Until Server Starts
+[2024-08-07 07:04:12.221] Communication Core App Started
+[2024-08-07 07:04:12.719] Server Connected
+[2024-08-07 07:04:12.819] Starting Telemetry App
+[2024-08-07 07:04:12.828] Telemetry App Started
+[2024-08-07 07:04:12.925] Starting BerryimuAccGyro App
+[2024-08-07 07:04:12.932] BerryimuAccGyro App Started
+[2024-08-07 07:04:13.032] Starting BerryimuBarometer App
+[2024-08-07 07:04:13.041] BerryimuBarometer App Started
+[2024-08-07 07:04:13.136] Starting BerryimuGps App
+[2024-08-07 07:04:13.144] BerryimuGps App Started
+[2024-08-07 07:04:13.240] Starting Motor App
+[2024-08-07 07:04:13.249] Motor App Started
+[2024-08-07 07:04:13.344] Starting Camera App
+[2024-08-07 07:04:13.354] Camera App Started
+[2024-08-07 07:04:47.702] Terminating apps
+[2024-08-07 07:04:47.704] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:04:48.205] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:04:48.705] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:04:49.206] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:04:49.707] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:04:50.208] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:04:50.709] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:04:51.209] Terminaton operated
+[2024-08-07 07:04:51.213] Terminaton operated
+[2024-08-07 07:04:51.214] Terminaton operated
+[2024-08-07 07:04:51.214] Terminaton operated
+[2024-08-07 07:04:51.215] Terminaton operated
+[2024-08-07 07:04:51.215] Terminaton operated
+[2024-08-07 07:04:51.215] Terminaton operated
+[2024-08-07 07:04:51.215] All Apps Terminated
+[2024-08-07 07:04:51.216] Keyboard Interrupt!!!
+[2024-08-07 07:04:51.216] Terminating apps
+[2024-08-07 07:04:51.216] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:04:51.717] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:04:52.218] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:04:52.719] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:04:53.220] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:04:53.721] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:04:54.221] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:04:54.722] Terminaton operated
+[2024-08-07 07:04:54.722] Terminaton operated
+[2024-08-07 07:04:54.723] Terminaton operated
+[2024-08-07 07:04:54.723] Terminaton operated
+[2024-08-07 07:04:54.723] Terminaton operated
+[2024-08-07 07:04:54.723] Terminaton operated
+[2024-08-07 07:04:54.723] Terminaton operated
+[2024-08-07 07:04:54.723] All Apps Terminated
+[2024-08-07 07:05:19.461] Log file generated
+[2024-08-07 07:05:19.462] Starting Apps
+
+[2024-08-07 07:05:19.462] Starting Communication Core App
+[2024-08-07 07:05:19.474] Waiting Until Server Starts
+[2024-08-07 07:05:19.477] Communication Core App Started
+[2024-08-07 07:05:19.975] Server Connected
+[2024-08-07 07:05:20.075] Starting Telemetry App
+[2024-08-07 07:05:20.082] Telemetry App Started
+[2024-08-07 07:05:20.178] Starting BerryimuAccGyro App
+[2024-08-07 07:05:20.185] BerryimuAccGyro App Started
+[2024-08-07 07:05:20.281] Starting BerryimuBarometer App
+[2024-08-07 07:05:20.289] BerryimuBarometer App Started
+[2024-08-07 07:05:20.386] Starting BerryimuGps App
+[2024-08-07 07:05:20.396] BerryimuGps App Started
+[2024-08-07 07:05:20.491] Starting Motor App
+[2024-08-07 07:05:20.499] Motor App Started
+[2024-08-07 07:05:20.595] Starting Camera App
+[2024-08-07 07:05:20.603] Camera App Started
+[2024-08-07 07:05:25.394] Terminating apps
+[2024-08-07 07:05:25.394] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:05:25.895] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:05:26.395] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:05:26.896] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:05:27.396] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:05:27.897] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:05:28.397] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:05:28.898] Terminaton operated
+[2024-08-07 07:05:28.900] Terminaton operated
+[2024-08-07 07:05:28.901] Terminaton operated
+[2024-08-07 07:05:28.901] Terminaton operated
+[2024-08-07 07:05:28.901] Terminaton operated
+[2024-08-07 07:05:28.901] Terminaton operated
+[2024-08-07 07:05:28.901] Terminaton operated
+[2024-08-07 07:05:28.901] All Apps Terminated
+[2024-08-07 07:05:28.901] Keyboard Interrupt!!!
+[2024-08-07 07:05:28.901] Terminating apps
+[2024-08-07 07:05:28.901] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:05:29.402] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:05:29.902] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:05:30.403] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:05:30.903] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:05:31.404] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:05:31.904] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:05:32.405] Terminaton operated
+[2024-08-07 07:05:32.405] Terminaton operated
+[2024-08-07 07:05:32.405] Terminaton operated
+[2024-08-07 07:05:32.405] Terminaton operated
+[2024-08-07 07:05:32.405] Terminaton operated
+[2024-08-07 07:05:32.405] Terminaton operated
+[2024-08-07 07:05:32.406] Terminaton operated
+[2024-08-07 07:05:32.406] All Apps Terminated
+[2024-08-07 07:06:12.192] Log file generated
+[2024-08-07 07:06:12.206] Starting Apps
+
+[2024-08-07 07:06:12.206] Starting Communication Core App
+[2024-08-07 07:06:12.221] Waiting Until Server Starts
+[2024-08-07 07:06:12.224] Communication Core App Started
+[2024-08-07 07:06:12.725] Server Connected
+[2024-08-07 07:06:12.825] Starting Telemetry App
+[2024-08-07 07:06:12.831] Telemetry App Started
+[2024-08-07 07:06:12.928] Starting BerryimuAccGyro App
+[2024-08-07 07:06:12.935] BerryimuAccGyro App Started
+[2024-08-07 07:06:13.031] Starting BerryimuBarometer App
+[2024-08-07 07:06:13.039] BerryimuBarometer App Started
+[2024-08-07 07:06:13.135] Starting BerryimuGps App
+[2024-08-07 07:06:13.142] BerryimuGps App Started
+[2024-08-07 07:06:13.238] Starting Motor App
+[2024-08-07 07:06:13.251] Motor App Started
+[2024-08-07 07:06:13.345] Starting Camera App
+[2024-08-07 07:06:13.352] Camera App Started
+[2024-08-07 07:42:52.989] Log file generated
+[2024-08-07 07:42:52.989] Starting Apps
+
+[2024-08-07 07:42:52.989] Starting Communication Core App
+[2024-08-07 07:42:52.999] Waiting Until Server Starts
+[2024-08-07 07:42:53.002] Communication Core App Started
+[2024-08-07 07:42:53.500] Server Connected
+[2024-08-07 07:42:53.600] Starting Telemetry App
+[2024-08-07 07:42:53.607] Telemetry App Started
+[2024-08-07 07:42:53.704] Starting BerryimuAccGyro App
+[2024-08-07 07:42:53.711] BerryimuAccGyro App Started
+[2024-08-07 07:42:53.807] Starting BerryimuBarometer App
+[2024-08-07 07:42:53.815] BerryimuBarometer App Started
+[2024-08-07 07:42:53.911] Starting BerryimuGps App
+[2024-08-07 07:42:53.919] BerryimuGps App Started
+[2024-08-07 07:42:54.015] Starting Motor App
+[2024-08-07 07:42:54.023] Motor App Started
+[2024-08-07 07:42:54.119] Starting Camera App
+[2024-08-07 07:42:54.127] Camera App Started
+[2024-08-07 07:43:14.383] Terminating apps
+[2024-08-07 07:43:14.383] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:43:14.885] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:43:15.385] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:43:15.885] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:43:16.386] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:43:16.886] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:43:17.387] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:43:17.887] Terminaton operated
+[2024-08-07 07:43:17.890] Terminaton operated
+[2024-08-07 07:43:17.890] Terminaton operated
+[2024-08-07 07:43:17.890] Terminaton operated
+[2024-08-07 07:43:17.890] Terminaton operated
+[2024-08-07 07:43:17.890] Terminaton operated
+[2024-08-07 07:43:17.892] Terminaton operated
+[2024-08-07 07:43:17.893] All Apps Terminated
+[2024-08-07 07:43:17.893] Keyboard Interrupt!!!
+[2024-08-07 07:43:17.893] Terminating apps
+[2024-08-07 07:43:17.893] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:43:18.393] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:43:18.894] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:43:19.394] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:43:19.895] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:43:20.395] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:43:20.896] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.397] Terminaton operated
+[2024-08-07 07:43:21.398] All Apps Terminated
+[2024-08-07 07:51:17.162] Log file generated
+[2024-08-07 07:51:17.174] Starting Apps
+
+[2024-08-07 07:51:17.174] Starting Communication Core App
+[2024-08-07 07:51:17.190] Waiting Until Server Starts
+[2024-08-07 07:51:17.194] Communication Core App Started
+[2024-08-07 07:51:17.691] Server Connected
+[2024-08-07 07:51:17.791] Starting Telemetry App
+[2024-08-07 07:51:17.798] Telemetry App Started
+[2024-08-07 07:51:17.895] Starting BerryimuAccGyro App
+[2024-08-07 07:51:17.903] BerryimuAccGyro App Started
+[2024-08-07 07:51:17.999] Starting BerryimuBarometer App
+[2024-08-07 07:51:18.009] BerryimuBarometer App Started
+[2024-08-07 07:51:18.104] Starting BerryimuGps App
+[2024-08-07 07:51:18.112] BerryimuGps App Started
+[2024-08-07 07:51:18.207] Starting Motor App
+[2024-08-07 07:51:18.217] Motor App Started
+[2024-08-07 07:51:18.312] Starting Camera App
+[2024-08-07 07:51:18.321] Camera App Started
+[2024-08-07 07:51:29.645] Terminating apps
+[2024-08-07 07:51:29.646] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:51:30.147] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:51:30.647] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:51:31.148] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:51:31.649] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:51:32.149] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:51:32.650] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:51:33.150] Terminaton operated
+[2024-08-07 07:51:33.153] Terminaton operated
+[2024-08-07 07:51:33.154] Terminaton operated
+[2024-08-07 07:51:33.154] Terminaton operated
+[2024-08-07 07:51:33.154] Terminaton operated
+[2024-08-07 07:51:33.155] Terminaton operated
+[2024-08-07 07:51:33.155] Terminaton operated
+[2024-08-07 07:51:33.155] All Apps Terminated
+[2024-08-07 07:51:33.155] Keyboard Interrupt!!!
+[2024-08-07 07:51:33.155] Terminating apps
+[2024-08-07 07:51:33.155] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:51:33.656] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:51:34.156] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:51:34.657] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:51:35.157] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:51:35.658] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:51:36.158] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:51:36.659] Terminaton operated
+[2024-08-07 07:51:36.659] Terminaton operated
+[2024-08-07 07:51:36.659] Terminaton operated
+[2024-08-07 07:51:36.659] Terminaton operated
+[2024-08-07 07:51:36.660] Terminaton operated
+[2024-08-07 07:51:36.660] Terminaton operated
+[2024-08-07 07:51:36.660] Terminaton operated
+[2024-08-07 07:51:36.660] All Apps Terminated
+[2024-08-07 07:54:49.212] Log file generated
+[2024-08-07 07:54:49.224] Starting Apps
+
+[2024-08-07 07:54:49.224] Starting Communication Core App
+[2024-08-07 07:54:49.239] Waiting Until Server Starts
+[2024-08-07 07:54:49.243] Communication Core App Started
+[2024-08-07 07:54:49.740] Server Connected
+[2024-08-07 07:54:49.841] Starting Telemetry App
+[2024-08-07 07:54:49.848] Telemetry App Started
+[2024-08-07 07:54:49.944] Starting BerryimuAccGyro App
+[2024-08-07 07:54:49.953] BerryimuAccGyro App Started
+[2024-08-07 07:54:50.049] Starting BerryimuBarometer App
+[2024-08-07 07:54:50.064] BerryimuBarometer App Started
+[2024-08-07 07:54:50.155] Starting BerryimuGps App
+[2024-08-07 07:54:50.163] BerryimuGps App Started
+[2024-08-07 07:54:50.258] Starting Motor App
+[2024-08-07 07:54:50.266] Motor App Started
+[2024-08-07 07:54:50.362] Starting Camera App
+[2024-08-07 07:54:50.369] Camera App Started
+[2024-08-07 07:55:01.579] Terminating apps
+[2024-08-07 07:55:01.580] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:55:02.080] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:55:02.581] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:55:03.081] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:55:03.582] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:55:04.082] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:55:04.583] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:55:05.084] Terminaton operated
+[2024-08-07 07:55:05.087] Terminaton operated
+[2024-08-07 07:55:05.088] Terminaton operated
+[2024-08-07 07:55:05.088] Terminaton operated
+[2024-08-07 07:55:05.088] Terminaton operated
+[2024-08-07 07:55:05.088] Terminaton operated
+[2024-08-07 07:55:05.091] Terminaton operated
+[2024-08-07 07:55:05.091] All Apps Terminated
+[2024-08-07 07:55:05.091] Keyboard Interrupt!!!
+[2024-08-07 07:55:05.091] Terminating apps
+[2024-08-07 07:55:05.091] msg to send : 0|7|1001|Terminate
+[2024-08-07 07:55:05.592] msg to send : 0|6|1001|Terminate
+[2024-08-07 07:55:06.092] msg to send : 0|5|1001|Terminate
+[2024-08-07 07:55:06.593] msg to send : 0|4|1001|Terminate
+[2024-08-07 07:55:07.094] msg to send : 0|3|1001|Terminate
+[2024-08-07 07:55:07.594] msg to send : 0|2|1001|Terminate
+[2024-08-07 07:55:08.095] msg to send : 0|1|1001|Terminate
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] Terminaton operated
+[2024-08-07 07:55:08.596] All Apps Terminated
+[2024-08-07 14:28:33.087] Log file generated
+[2024-08-07 14:29:22.895] Log file generated
+[2024-08-07 14:29:22.895] Starting Apps
+
+[2024-08-07 14:29:22.895] Starting Communication Core App
+[2024-08-07 14:29:22.910] Waiting Until Server Starts
+[2024-08-07 14:29:22.914] Communication Core App Started
+[2024-08-07 14:29:23.412] Server Connected
+[2024-08-07 14:29:23.513] Starting Telemetry App
+[2024-08-07 14:29:23.519] Telemetry App Started
+[2024-08-07 14:29:23.616] Starting BerryimuAccGyro App
+[2024-08-07 14:29:23.624] BerryimuAccGyro App Started
+[2024-08-07 14:29:23.719] Starting BerryimuBarometer App
+[2024-08-07 14:29:23.728] BerryimuBarometer App Started
+[2024-08-07 14:29:23.824] Starting BerryimuGps App
+[2024-08-07 14:29:23.833] BerryimuGps App Started
+[2024-08-07 14:29:23.929] Starting Motor App
+[2024-08-07 14:29:23.941] Motor App Started
+[2024-08-07 14:29:24.036] Starting Camera App
+[2024-08-07 14:29:24.051] Camera App Started
+[2024-08-07 14:29:24.141] Starting Logic App
+[2024-08-07 14:29:24.229] Logic App Started
+[2024-08-07 14:29:27.015] Log file generated
+[2024-08-07 14:29:53.243] Terminating apps
+[2024-08-07 14:29:53.244] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:29:53.744] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:29:54.245] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:29:54.746] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:29:55.246] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:29:55.747] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:29:56.248] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:29:56.748] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:29:57.249] Terminaton operated
+[2024-08-07 14:29:57.252] Terminaton operated
+[2024-08-07 14:29:57.253] Terminaton operated
+[2024-08-07 14:29:57.255] Terminaton operated
+[2024-08-07 14:29:57.259] Terminaton operated
+[2024-08-07 14:29:57.259] Terminaton operated
+[2024-08-07 14:29:57.260] Terminaton operated
+[2024-08-07 14:29:57.260] Terminaton operated
+[2024-08-07 14:29:57.260] All Apps Terminated
+[2024-08-07 14:29:57.260] Keyboard Interrupt!!!
+[2024-08-07 14:29:57.260] Terminating apps
+[2024-08-07 14:29:57.260] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:29:57.761] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:29:58.261] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:29:58.762] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:29:59.263] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:29:59.764] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:30:00.265] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:30:00.765] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:30:01.266] Terminaton operated
+[2024-08-07 14:30:01.267] Terminaton operated
+[2024-08-07 14:30:01.267] Terminaton operated
+[2024-08-07 14:30:01.267] Terminaton operated
+[2024-08-07 14:30:01.267] Terminaton operated
+[2024-08-07 14:30:01.267] Terminaton operated
+[2024-08-07 14:30:01.267] Terminaton operated
+[2024-08-07 14:30:01.269] Terminaton operated
+[2024-08-07 14:30:01.269] All Apps Terminated
+[2024-08-07 14:32:29.059] Log file generated
+[2024-08-07 14:32:29.060] Starting Apps
+
+[2024-08-07 14:32:29.060] Starting Communication Core App
+[2024-08-07 14:32:29.073] Waiting Until Server Starts
+[2024-08-07 14:32:29.077] Communication Core App Started
+[2024-08-07 14:32:29.574] Server Connected
+[2024-08-07 14:32:29.674] Starting Telemetry App
+[2024-08-07 14:32:29.681] Telemetry App Started
+[2024-08-07 14:32:29.777] Starting BerryimuAccGyro App
+[2024-08-07 14:32:29.785] BerryimuAccGyro App Started
+[2024-08-07 14:32:29.882] Starting BerryimuBarometer App
+[2024-08-07 14:32:29.894] BerryimuBarometer App Started
+[2024-08-07 14:32:29.990] Starting BerryimuGps App
+[2024-08-07 14:32:30.000] BerryimuGps App Started
+[2024-08-07 14:32:30.096] Starting Motor App
+[2024-08-07 14:32:30.106] Motor App Started
+[2024-08-07 14:32:30.201] Starting Camera App
+[2024-08-07 14:32:30.212] Camera App Started
+[2024-08-07 14:32:30.308] Starting Logic App
+[2024-08-07 14:32:30.317] Logic App Started
+[2024-08-07 14:32:31.254] Log file generated
+[2024-08-07 14:32:41.945] Terminating apps
+[2024-08-07 14:32:41.946] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:32:42.447] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:32:42.948] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:32:43.448] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:32:43.949] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:32:44.450] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:32:44.950] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:32:45.451] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:32:45.952] Terminaton operated
+[2024-08-07 14:32:45.955] Terminaton operated
+[2024-08-07 14:32:45.956] Terminaton operated
+[2024-08-07 14:32:45.956] Terminaton operated
+[2024-08-07 14:32:45.957] Terminaton operated
+[2024-08-07 14:32:45.957] Terminaton operated
+[2024-08-07 14:32:45.958] Terminaton operated
+[2024-08-07 14:32:45.958] Terminaton operated
+[2024-08-07 14:32:45.959] All Apps Terminated
+[2024-08-07 14:32:45.960] Keyboard Interrupt!!!
+[2024-08-07 14:32:45.960] Terminating apps
+[2024-08-07 14:32:45.961] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:32:46.462] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:32:46.962] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:32:47.463] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:32:47.964] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:32:48.465] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:32:48.965] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:32:49.466] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:32:49.967] Terminaton operated
+[2024-08-07 14:32:49.967] Terminaton operated
+[2024-08-07 14:32:49.967] Terminaton operated
+[2024-08-07 14:32:49.968] Terminaton operated
+[2024-08-07 14:32:49.968] Terminaton operated
+[2024-08-07 14:32:49.968] Terminaton operated
+[2024-08-07 14:32:49.968] Terminaton operated
+[2024-08-07 14:32:49.968] Terminaton operated
+[2024-08-07 14:32:49.968] All Apps Terminated
+[2024-08-07 14:34:38.220] Log file generated
+[2024-08-07 14:34:38.220] Starting Apps
+
+[2024-08-07 14:34:38.220] Starting Communication Core App
+[2024-08-07 14:34:38.231] Waiting Until Server Starts
+[2024-08-07 14:34:38.235] Communication Core App Started
+[2024-08-07 14:34:38.732] Server Connected
+[2024-08-07 14:34:38.833] Starting Telemetry App
+[2024-08-07 14:34:38.840] Telemetry App Started
+[2024-08-07 14:34:38.936] Starting BerryimuAccGyro App
+[2024-08-07 14:34:38.943] BerryimuAccGyro App Started
+[2024-08-07 14:34:39.039] Starting BerryimuBarometer App
+[2024-08-07 14:34:39.048] BerryimuBarometer App Started
+[2024-08-07 14:34:39.144] Starting BerryimuGps App
+[2024-08-07 14:34:39.151] BerryimuGps App Started
+[2024-08-07 14:34:39.248] Starting Motor App
+[2024-08-07 14:34:39.255] Motor App Started
+[2024-08-07 14:34:39.351] Starting Camera App
+[2024-08-07 14:34:39.359] Camera App Started
+[2024-08-07 14:34:39.455] Starting Logic App
+[2024-08-07 14:34:39.462] Logic App Started
+[2024-08-07 14:34:41.479] Log file generated
+[2024-08-07 14:34:48.502] Terminating apps
+[2024-08-07 14:34:48.503] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:34:49.004] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:34:49.504] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:34:50.005] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:34:50.506] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:34:51.007] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:34:51.507] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:34:52.008] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:34:52.509] Terminaton operated
+[2024-08-07 14:34:52.512] Terminaton operated
+[2024-08-07 14:34:52.512] Terminaton operated
+[2024-08-07 14:34:52.513] Terminaton operated
+[2024-08-07 14:34:52.513] Terminaton operated
+[2024-08-07 14:34:52.513] Terminaton operated
+[2024-08-07 14:34:52.513] Terminaton operated
+[2024-08-07 14:34:52.513] Terminaton operated
+[2024-08-07 14:34:52.513] All Apps Terminated
+[2024-08-07 14:34:52.513] Keyboard Interrupt!!!
+[2024-08-07 14:34:52.513] Terminating apps
+[2024-08-07 14:34:52.513] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:34:53.014] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:34:53.515] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:34:54.015] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:34:54.517] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:34:55.017] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:34:55.518] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:34:56.019] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] Terminaton operated
+[2024-08-07 14:34:56.520] All Apps Terminated
+[2024-08-07 14:35:30.590] Log file generated
+[2024-08-07 14:35:30.590] Starting Apps
+
+[2024-08-07 14:35:30.590] Starting Communication Core App
+[2024-08-07 14:35:30.603] Waiting Until Server Starts
+[2024-08-07 14:35:30.607] Communication Core App Started
+[2024-08-07 14:35:31.104] Server Connected
+[2024-08-07 14:35:31.205] Starting Telemetry App
+[2024-08-07 14:35:31.212] Telemetry App Started
+[2024-08-07 14:35:31.308] Starting BerryimuAccGyro App
+[2024-08-07 14:35:31.317] BerryimuAccGyro App Started
+[2024-08-07 14:35:31.413] Starting BerryimuBarometer App
+[2024-08-07 14:35:31.423] BerryimuBarometer App Started
+[2024-08-07 14:35:31.517] Starting BerryimuGps App
+[2024-08-07 14:35:31.527] BerryimuGps App Started
+[2024-08-07 14:35:31.622] Starting Motor App
+[2024-08-07 14:35:31.632] Motor App Started
+[2024-08-07 14:35:31.728] Starting Camera App
+[2024-08-07 14:35:31.740] Camera App Started
+[2024-08-07 14:35:31.835] Starting Logic App
+[2024-08-07 14:35:31.846] Logic App Started
+[2024-08-07 14:35:32.479] Log file generated
+[2024-08-07 14:35:40.534] Terminating apps
+[2024-08-07 14:35:40.535] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:35:41.036] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:35:41.537] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:35:42.038] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:35:42.538] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:35:43.039] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:35:43.540] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:35:44.041] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:35:44.541] Terminaton operated
+[2024-08-07 14:35:44.544] Terminaton operated
+[2024-08-07 14:35:44.545] Terminaton operated
+[2024-08-07 14:35:44.545] Terminaton operated
+[2024-08-07 14:35:44.548] Terminaton operated
+[2024-08-07 14:35:44.548] Terminaton operated
+[2024-08-07 14:35:44.549] Terminaton operated
+[2024-08-07 14:35:44.549] Terminaton operated
+[2024-08-07 14:35:44.550] All Apps Terminated
+[2024-08-07 14:35:44.550] Keyboard Interrupt!!!
+[2024-08-07 14:35:44.550] Terminating apps
+[2024-08-07 14:35:44.550] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:35:45.051] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:35:45.552] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:35:46.052] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:35:46.553] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:35:47.054] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:35:47.555] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:35:48.056] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:35:48.556] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] Terminaton operated
+[2024-08-07 14:35:48.557] All Apps Terminated
+[2024-08-07 14:35:55.484] Log file generated
+[2024-08-07 14:35:55.484] Starting Apps
+
+[2024-08-07 14:35:55.484] Starting Communication Core App
+[2024-08-07 14:35:55.494] Waiting Until Server Starts
+[2024-08-07 14:35:55.498] Communication Core App Started
+[2024-08-07 14:35:55.996] Server Connected
+[2024-08-07 14:35:56.096] Starting Telemetry App
+[2024-08-07 14:35:56.103] Telemetry App Started
+[2024-08-07 14:35:56.200] Starting BerryimuAccGyro App
+[2024-08-07 14:35:56.208] BerryimuAccGyro App Started
+[2024-08-07 14:35:56.304] Starting BerryimuBarometer App
+[2024-08-07 14:35:56.314] BerryimuBarometer App Started
+[2024-08-07 14:35:56.410] Starting BerryimuGps App
+[2024-08-07 14:35:56.419] BerryimuGps App Started
+[2024-08-07 14:35:56.515] Starting Motor App
+[2024-08-07 14:35:56.525] Motor App Started
+[2024-08-07 14:35:56.622] Starting Camera App
+[2024-08-07 14:35:56.632] Camera App Started
+[2024-08-07 14:35:56.726] Starting Logic App
+[2024-08-07 14:35:56.737] Logic App Started
+[2024-08-07 14:35:57.364] Log file generated
+[2024-08-07 14:36:12.159] Terminating apps
+[2024-08-07 14:36:12.160] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:36:12.660] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:36:13.161] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:36:13.662] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:36:14.163] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:36:14.664] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:36:15.165] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:36:15.666] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:36:16.166] Terminaton operated
+[2024-08-07 14:36:16.169] Terminaton operated
+[2024-08-07 14:36:16.170] Terminaton operated
+[2024-08-07 14:36:16.171] Terminaton operated
+[2024-08-07 14:36:16.171] Terminaton operated
+[2024-08-07 14:36:16.171] Terminaton operated
+[2024-08-07 14:36:16.171] Terminaton operated
+[2024-08-07 14:36:16.171] Terminaton operated
+[2024-08-07 14:36:16.171] All Apps Terminated
+[2024-08-07 14:36:16.171] Keyboard Interrupt!!!
+[2024-08-07 14:36:16.172] Terminating apps
+[2024-08-07 14:36:16.172] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:36:16.672] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:36:17.173] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:36:17.674] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:36:18.175] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:36:18.676] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:36:19.177] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:36:19.678] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:36:20.178] Terminaton operated
+[2024-08-07 14:36:20.179] Terminaton operated
+[2024-08-07 14:36:20.180] Terminaton operated
+[2024-08-07 14:36:20.180] Terminaton operated
+[2024-08-07 14:36:20.180] Terminaton operated
+[2024-08-07 14:36:20.180] Terminaton operated
+[2024-08-07 14:36:20.180] Terminaton operated
+[2024-08-07 14:36:20.180] Terminaton operated
+[2024-08-07 14:36:20.181] All Apps Terminated
+[2024-08-07 14:39:44.561] Log file generated
+[2024-08-07 14:39:44.561] Starting Apps
+
+[2024-08-07 14:39:44.561] Starting Communication Core App
+[2024-08-07 14:39:44.571] Waiting Until Server Starts
+[2024-08-07 14:39:44.575] Communication Core App Started
+[2024-08-07 14:39:45.073] Server Connected
+[2024-08-07 14:39:45.173] Starting Telemetry App
+[2024-08-07 14:39:45.180] Telemetry App Started
+[2024-08-07 14:39:45.276] Starting BerryimuAccGyro App
+[2024-08-07 14:39:45.284] BerryimuAccGyro App Started
+[2024-08-07 14:39:45.380] Starting BerryimuBarometer App
+[2024-08-07 14:39:45.389] BerryimuBarometer App Started
+[2024-08-07 14:39:45.485] Starting BerryimuGps App
+[2024-08-07 14:39:45.495] BerryimuGps App Started
+[2024-08-07 14:39:45.592] Starting Motor App
+[2024-08-07 14:39:45.601] Motor App Started
+[2024-08-07 14:39:45.696] Starting Camera App
+[2024-08-07 14:39:45.708] Camera App Started
+[2024-08-07 14:39:45.803] Starting Logic App
+[2024-08-07 14:39:45.813] Logic App Started
+[2024-08-07 14:39:46.447] Log file generated
+[2024-08-07 14:39:50.319] Terminating apps
+[2024-08-07 14:39:50.320] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:39:50.821] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:39:51.321] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:39:51.822] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:39:52.323] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:39:52.824] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:39:53.325] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:39:53.825] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:39:54.326] Terminaton operated
+[2024-08-07 14:39:54.331] Terminaton operated
+[2024-08-07 14:39:54.332] Terminaton operated
+[2024-08-07 14:39:54.332] Terminaton operated
+[2024-08-07 14:39:54.336] Terminaton operated
+[2024-08-07 14:39:54.337] Terminaton operated
+[2024-08-07 14:39:54.338] Terminaton operated
+[2024-08-07 14:39:54.338] Terminaton operated
+[2024-08-07 14:39:54.339] All Apps Terminated
+[2024-08-07 14:39:54.340] Keyboard Interrupt!!!
+[2024-08-07 14:39:54.340] Terminating apps
+[2024-08-07 14:39:54.340] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:39:54.841] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:39:55.342] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:39:55.843] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:39:56.343] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:39:56.844] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:39:57.344] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:39:57.845] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:39:58.345] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] Terminaton operated
+[2024-08-07 14:39:58.346] All Apps Terminated
+[2024-08-07 14:40:07.904] Log file generated
+[2024-08-07 14:40:07.905] Starting Apps
+
+[2024-08-07 14:40:07.905] Starting Communication Core App
+[2024-08-07 14:40:07.918] Waiting Until Server Starts
+[2024-08-07 14:40:07.922] Communication Core App Started
+[2024-08-07 14:40:08.419] Server Connected
+[2024-08-07 14:40:08.520] Starting Telemetry App
+[2024-08-07 14:40:08.526] Telemetry App Started
+[2024-08-07 14:40:08.623] Starting BerryimuAccGyro App
+[2024-08-07 14:40:08.630] BerryimuAccGyro App Started
+[2024-08-07 14:40:08.726] Starting BerryimuBarometer App
+[2024-08-07 14:40:08.734] BerryimuBarometer App Started
+[2024-08-07 14:40:08.830] Starting BerryimuGps App
+[2024-08-07 14:40:08.840] BerryimuGps App Started
+[2024-08-07 14:40:08.936] Starting Motor App
+[2024-08-07 14:40:08.946] Motor App Started
+[2024-08-07 14:40:09.042] Starting Camera App
+[2024-08-07 14:40:09.055] Camera App Started
+[2024-08-07 14:40:09.151] Starting Logic App
+[2024-08-07 14:40:09.161] Logic App Started
+[2024-08-07 14:40:10.192] Log file generated
+[2024-08-07 14:45:25.599] Terminating apps
+[2024-08-07 14:45:25.601] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:45:26.102] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:45:26.603] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:45:27.103] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:45:27.604] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:45:28.105] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:45:28.606] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:45:29.106] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:45:29.607] Terminaton operated
+[2024-08-07 14:45:29.610] Terminaton operated
+[2024-08-07 14:45:29.611] Terminaton operated
+[2024-08-07 14:45:29.611] Terminaton operated
+[2024-08-07 14:45:29.614] Terminaton operated
+[2024-08-07 14:45:29.615] Terminaton operated
+[2024-08-07 14:45:29.615] Terminaton operated
+[2024-08-07 14:45:29.615] Terminaton operated
+[2024-08-07 14:45:29.617] All Apps Terminated
+[2024-08-07 14:45:29.617] Keyboard Interrupt!!!
+[2024-08-07 14:45:29.617] Terminating apps
+[2024-08-07 14:45:29.617] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:45:30.118] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:45:30.618] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:45:31.119] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:45:31.620] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:45:32.121] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:45:32.623] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:45:33.123] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:45:33.625] Terminaton operated
+[2024-08-07 14:45:33.625] Terminaton operated
+[2024-08-07 14:45:33.625] Terminaton operated
+[2024-08-07 14:45:33.625] Terminaton operated
+[2024-08-07 14:45:33.625] Terminaton operated
+[2024-08-07 14:45:33.625] Terminaton operated
+[2024-08-07 14:45:33.626] Terminaton operated
+[2024-08-07 14:45:33.626] Terminaton operated
+[2024-08-07 14:45:33.626] All Apps Terminated
+[2024-08-07 14:48:31.600] Log file generated
+[2024-08-07 14:48:31.616] Starting Apps
+
+[2024-08-07 14:48:31.616] Starting Communication Core App
+[2024-08-07 14:48:31.631] Waiting Until Server Starts
+[2024-08-07 14:48:31.635] Communication Core App Started
+[2024-08-07 14:48:32.133] Server Connected
+[2024-08-07 14:48:32.233] Starting Telemetry App
+[2024-08-07 14:48:32.240] Telemetry App Started
+[2024-08-07 14:48:32.336] Starting BerryimuAccGyro App
+[2024-08-07 14:48:32.344] BerryimuAccGyro App Started
+[2024-08-07 14:48:32.440] Starting BerryimuBarometer App
+[2024-08-07 14:48:32.449] BerryimuBarometer App Started
+[2024-08-07 14:48:32.544] Starting BerryimuGps App
+[2024-08-07 14:48:32.554] BerryimuGps App Started
+[2024-08-07 14:48:32.650] Starting Motor App
+[2024-08-07 14:48:32.665] Motor App Started
+[2024-08-07 14:48:32.756] Starting Camera App
+[2024-08-07 14:48:32.767] Camera App Started
+[2024-08-07 14:48:32.863] Starting Logic App
+[2024-08-07 14:48:32.872] Logic App Started
+[2024-08-07 14:48:34.791] Log file generated
+[2024-08-07 14:48:54.115] Terminating apps
+[2024-08-07 14:48:54.116] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:48:54.617] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:48:55.118] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:48:55.618] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:48:56.119] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:48:56.620] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:48:57.121] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:48:57.622] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:48:58.122] Terminaton operated
+[2024-08-07 14:48:58.126] Terminaton operated
+[2024-08-07 14:48:58.126] Terminaton operated
+[2024-08-07 14:48:58.130] Terminaton operated
+[2024-08-07 14:48:58.130] Terminaton operated
+[2024-08-07 14:48:58.131] Terminaton operated
+[2024-08-07 14:48:58.131] Terminaton operated
+[2024-08-07 14:48:58.131] Terminaton operated
+[2024-08-07 14:48:58.131] All Apps Terminated
+[2024-08-07 14:48:58.132] Keyboard Interrupt!!!
+[2024-08-07 14:48:58.132] Terminating apps
+[2024-08-07 14:48:58.132] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:48:58.633] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:48:59.134] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:48:59.634] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:49:00.135] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:49:00.636] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:49:01.137] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:49:01.638] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:49:02.139] Terminaton operated
+[2024-08-07 14:49:02.139] Terminaton operated
+[2024-08-07 14:49:02.140] Terminaton operated
+[2024-08-07 14:49:02.140] Terminaton operated
+[2024-08-07 14:49:02.140] Terminaton operated
+[2024-08-07 14:49:02.140] Terminaton operated
+[2024-08-07 14:49:02.142] Terminaton operated
+[2024-08-07 14:49:02.142] Terminaton operated
+[2024-08-07 14:49:02.142] All Apps Terminated
+[2024-08-07 14:49:06.955] Log file generated
+[2024-08-07 14:49:06.955] Starting Apps
+
+[2024-08-07 14:49:06.955] Starting Communication Core App
+[2024-08-07 14:49:06.968] Waiting Until Server Starts
+[2024-08-07 14:49:06.972] Communication Core App Started
+[2024-08-07 14:49:07.470] Server Connected
+[2024-08-07 14:49:07.570] Starting Telemetry App
+[2024-08-07 14:49:07.580] Telemetry App Started
+[2024-08-07 14:49:07.674] Starting BerryimuAccGyro App
+[2024-08-07 14:49:07.684] BerryimuAccGyro App Started
+[2024-08-07 14:49:07.778] Starting BerryimuBarometer App
+[2024-08-07 14:49:07.787] BerryimuBarometer App Started
+[2024-08-07 14:49:07.882] Starting BerryimuGps App
+[2024-08-07 14:49:07.895] BerryimuGps App Started
+[2024-08-07 14:49:07.988] Starting Motor App
+[2024-08-07 14:49:07.997] Motor App Started
+[2024-08-07 14:49:08.094] Starting Camera App
+[2024-08-07 14:49:08.106] Camera App Started
+[2024-08-07 14:49:08.201] Starting Logic App
+[2024-08-07 14:49:08.211] Logic App Started
+[2024-08-07 14:49:08.846] Log file generated
+[2024-08-07 14:49:32.978] Terminating apps
+[2024-08-07 14:49:32.979] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:49:33.480] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:49:33.981] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:49:34.482] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:49:34.983] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:49:35.483] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:49:35.984] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:49:36.485] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:49:36.985] Terminaton operated
+[2024-08-07 14:49:36.988] Terminaton operated
+[2024-08-07 14:49:36.989] Terminaton operated
+[2024-08-07 14:49:36.989] Terminaton operated
+[2024-08-07 14:49:36.989] Terminaton operated
+[2024-08-07 14:49:36.990] Terminaton operated
+[2024-08-07 14:49:36.990] Terminaton operated
+[2024-08-07 14:49:36.990] Terminaton operated
+[2024-08-07 14:49:36.991] All Apps Terminated
+[2024-08-07 14:49:36.991] Keyboard Interrupt!!!
+[2024-08-07 14:49:36.991] Terminating apps
+[2024-08-07 14:49:36.992] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:49:37.492] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:49:37.993] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:49:38.494] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:49:38.994] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:49:39.495] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:49:39.996] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:49:40.497] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:49:40.998] Terminaton operated
+[2024-08-07 14:49:40.998] Terminaton operated
+[2024-08-07 14:49:40.999] Terminaton operated
+[2024-08-07 14:49:40.999] Terminaton operated
+[2024-08-07 14:49:40.999] Terminaton operated
+[2024-08-07 14:49:40.999] Terminaton operated
+[2024-08-07 14:49:40.999] Terminaton operated
+[2024-08-07 14:49:40.999] Terminaton operated
+[2024-08-07 14:49:41.000] All Apps Terminated
+[2024-08-07 14:54:00.867] Log file generated
+[2024-08-07 14:54:00.868] Starting Apps
+
+[2024-08-07 14:54:00.868] Starting Communication Core App
+[2024-08-07 14:54:00.878] Waiting Until Server Starts
+[2024-08-07 14:54:00.882] Communication Core App Started
+[2024-08-07 14:54:01.380] Server Connected
+[2024-08-07 14:54:01.480] Starting Telemetry App
+[2024-08-07 14:54:01.487] Telemetry App Started
+[2024-08-07 14:54:01.584] Starting BerryimuAccGyro App
+[2024-08-07 14:54:01.593] BerryimuAccGyro App Started
+[2024-08-07 14:54:01.689] Starting BerryimuBarometer App
+[2024-08-07 14:54:01.699] BerryimuBarometer App Started
+[2024-08-07 14:54:01.794] Starting BerryimuGps App
+[2024-08-07 14:54:01.803] BerryimuGps App Started
+[2024-08-07 14:54:01.898] Starting Motor App
+[2024-08-07 14:54:01.909] Motor App Started
+[2024-08-07 14:54:02.006] Starting Camera App
+[2024-08-07 14:54:02.016] Camera App Started
+[2024-08-07 14:54:02.114] Starting Logic App
+[2024-08-07 14:54:02.125] Logic App Started
+[2024-08-07 14:54:03.351] Log file generated
+[2024-08-07 14:54:31.299] Terminating apps
+[2024-08-07 14:54:31.300] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:54:31.801] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:54:32.302] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:54:32.802] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:54:33.303] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:54:33.804] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:54:34.305] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:54:34.805] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:54:35.306] Terminaton operated
+[2024-08-07 14:54:35.310] Terminaton operated
+[2024-08-07 14:54:35.310] Terminaton operated
+[2024-08-07 14:54:35.311] Terminaton operated
+[2024-08-07 14:54:35.311] Terminaton operated
+[2024-08-07 14:54:35.311] Terminaton operated
+[2024-08-07 14:54:35.311] Terminaton operated
+[2024-08-07 14:54:35.311] Terminaton operated
+[2024-08-07 14:54:35.311] All Apps Terminated
+[2024-08-07 14:54:35.312] Keyboard Interrupt!!!
+[2024-08-07 14:54:35.312] Terminating apps
+[2024-08-07 14:54:35.313] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:54:35.813] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:54:36.314] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:54:36.815] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:54:37.316] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:54:37.816] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:54:38.317] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:54:38.818] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:54:39.319] Terminaton operated
+[2024-08-07 14:54:39.319] Terminaton operated
+[2024-08-07 14:54:39.320] Terminaton operated
+[2024-08-07 14:54:39.320] Terminaton operated
+[2024-08-07 14:54:39.320] Terminaton operated
+[2024-08-07 14:54:39.320] Terminaton operated
+[2024-08-07 14:54:39.320] Terminaton operated
+[2024-08-07 14:54:39.320] Terminaton operated
+[2024-08-07 14:54:39.321] All Apps Terminated
+[2024-08-07 14:56:14.056] Log file generated
+[2024-08-07 14:56:14.056] Starting Apps
+
+[2024-08-07 14:56:14.056] Starting Communication Core App
+[2024-08-07 14:56:14.069] Waiting Until Server Starts
+[2024-08-07 14:56:14.073] Communication Core App Started
+[2024-08-07 14:56:14.571] Server Connected
+[2024-08-07 14:56:14.671] Starting Telemetry App
+[2024-08-07 14:56:14.679] Telemetry App Started
+[2024-08-07 14:56:14.775] Starting BerryimuAccGyro App
+[2024-08-07 14:56:14.783] BerryimuAccGyro App Started
+[2024-08-07 14:56:14.879] Starting BerryimuBarometer App
+[2024-08-07 14:56:14.888] BerryimuBarometer App Started
+[2024-08-07 14:56:14.984] Starting BerryimuGps App
+[2024-08-07 14:56:14.993] BerryimuGps App Started
+[2024-08-07 14:56:15.089] Starting Motor App
+[2024-08-07 14:56:15.099] Motor App Started
+[2024-08-07 14:56:15.195] Starting Camera App
+[2024-08-07 14:56:15.207] Camera App Started
+[2024-08-07 14:56:15.302] Starting Logic App
+[2024-08-07 14:56:15.313] Logic App Started
+[2024-08-07 14:56:15.934] Log file generated
+[2024-08-07 14:59:40.821] Terminating apps
+[2024-08-07 14:59:40.824] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:59:41.325] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:59:41.826] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:59:42.327] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:59:42.827] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:59:43.328] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:59:43.829] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:59:44.330] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:59:44.830] Terminaton operated
+[2024-08-07 14:59:44.833] Terminaton operated
+[2024-08-07 14:59:44.834] Terminaton operated
+[2024-08-07 14:59:44.834] Terminaton operated
+[2024-08-07 14:59:44.835] Terminaton operated
+[2024-08-07 14:59:44.835] Terminaton operated
+[2024-08-07 14:59:44.835] Terminaton operated
+[2024-08-07 14:59:44.835] Terminaton operated
+[2024-08-07 14:59:44.835] All Apps Terminated
+[2024-08-07 14:59:44.836] Keyboard Interrupt!!!
+[2024-08-07 14:59:44.836] Terminating apps
+[2024-08-07 14:59:44.836] msg to send : 0|8|1001|Terminate
+[2024-08-07 14:59:45.336] msg to send : 0|7|1001|Terminate
+[2024-08-07 14:59:45.837] msg to send : 0|6|1001|Terminate
+[2024-08-07 14:59:46.338] msg to send : 0|5|1001|Terminate
+[2024-08-07 14:59:46.839] msg to send : 0|4|1001|Terminate
+[2024-08-07 14:59:47.340] msg to send : 0|3|1001|Terminate
+[2024-08-07 14:59:47.842] msg to send : 0|2|1001|Terminate
+[2024-08-07 14:59:48.343] msg to send : 0|1|1001|Terminate
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.844] Terminaton operated
+[2024-08-07 14:59:48.845] All Apps Terminated
+[2024-08-07 23:01:24.911] Log file generated
+[2024-08-07 23:01:24.912] Starting Apps
+
+[2024-08-07 23:01:24.912] Starting Communication Core App
+[2024-08-07 23:01:24.927] Waiting Until Server Starts
+[2024-08-07 23:01:24.931] Communication Core App Started
+[2024-08-07 23:01:25.428] Server Connected
+[2024-08-07 23:01:25.529] Starting Telemetry App
+[2024-08-07 23:01:25.535] Telemetry App Started
+[2024-08-07 23:01:25.632] Starting BerryimuAccGyro App
+[2024-08-07 23:01:25.640] BerryimuAccGyro App Started
+[2024-08-07 23:01:25.736] Starting BerryimuBarometer App
+[2024-08-07 23:01:25.746] BerryimuBarometer App Started
+[2024-08-07 23:01:25.842] Starting BerryimuGps App
+[2024-08-07 23:01:25.852] BerryimuGps App Started
+[2024-08-07 23:01:25.948] Starting Motor App
+[2024-08-07 23:01:25.957] Motor App Started
+[2024-08-07 23:01:26.053] Starting Camera App
+[2024-08-07 23:01:26.063] Camera App Started
+[2024-08-07 23:01:26.158] Starting Logic App
+[2024-08-07 23:01:26.167] Logic App Started
+[2024-08-07 23:01:27.098] Log file generated
+[2024-08-07 23:02:45.465] Terminating apps
+[2024-08-07 23:02:45.466] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:02:45.967] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:02:46.467] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:02:46.968] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:02:47.469] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:02:47.969] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:02:48.471] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:02:48.972] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:02:49.472] Terminaton operated
+[2024-08-07 23:02:49.476] Terminaton operated
+[2024-08-07 23:02:49.477] Terminaton operated
+[2024-08-07 23:02:49.478] Terminaton operated
+[2024-08-07 23:02:49.478] Terminaton operated
+[2024-08-07 23:02:49.479] Terminaton operated
+[2024-08-07 23:02:49.479] Terminaton operated
+[2024-08-07 23:02:49.479] Terminaton operated
+[2024-08-07 23:02:49.479] All Apps Terminated
+[2024-08-07 23:02:49.480] Keyboard Interrupt!!!
+[2024-08-07 23:02:49.480] Terminating apps
+[2024-08-07 23:02:49.480] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:02:49.981] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:02:50.481] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:02:50.982] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:02:51.483] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:02:51.983] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:02:52.484] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:02:52.985] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:02:53.485] Terminaton operated
+[2024-08-07 23:02:53.486] Terminaton operated
+[2024-08-07 23:02:53.486] Terminaton operated
+[2024-08-07 23:02:53.487] Terminaton operated
+[2024-08-07 23:02:53.487] Terminaton operated
+[2024-08-07 23:02:53.487] Terminaton operated
+[2024-08-07 23:02:53.488] Terminaton operated
+[2024-08-07 23:02:53.488] Terminaton operated
+[2024-08-07 23:02:53.489] All Apps Terminated
+[2024-08-07 23:06:17.312] Log file generated
+[2024-08-07 23:06:17.312] Starting Apps
+
+[2024-08-07 23:06:17.312] Starting Communication Core App
+[2024-08-07 23:06:17.323] Waiting Until Server Starts
+[2024-08-07 23:06:17.327] Communication Core App Started
+[2024-08-07 23:06:17.824] Server Connected
+[2024-08-07 23:06:17.925] Starting Telemetry App
+[2024-08-07 23:06:17.932] Telemetry App Started
+[2024-08-07 23:06:18.028] Starting BerryimuAccGyro App
+[2024-08-07 23:06:18.037] BerryimuAccGyro App Started
+[2024-08-07 23:06:18.132] Starting BerryimuBarometer App
+[2024-08-07 23:06:18.143] BerryimuBarometer App Started
+[2024-08-07 23:06:18.238] Starting BerryimuGps App
+[2024-08-07 23:06:18.247] BerryimuGps App Started
+[2024-08-07 23:06:18.342] Starting Motor App
+[2024-08-07 23:06:18.352] Motor App Started
+[2024-08-07 23:06:18.448] Starting Camera App
+[2024-08-07 23:06:18.458] Camera App Started
+[2024-08-07 23:06:18.553] Starting Logic App
+[2024-08-07 23:06:18.562] Logic App Started
+[2024-08-07 23:06:19.199] Log file generated
+[2024-08-07 23:07:24.005] Terminating apps
+[2024-08-07 23:07:24.006] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:07:24.507] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:07:25.007] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:07:25.508] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:07:26.009] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:07:26.509] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:07:27.010] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:07:27.511] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:07:28.012] Terminaton operated
+[2024-08-07 23:07:28.015] Terminaton operated
+[2024-08-07 23:07:28.016] Terminaton operated
+[2024-08-07 23:07:28.019] Terminaton operated
+[2024-08-07 23:07:28.019] Terminaton operated
+[2024-08-07 23:07:28.019] Terminaton operated
+[2024-08-07 23:07:28.020] Terminaton operated
+[2024-08-07 23:07:28.020] Terminaton operated
+[2024-08-07 23:07:28.020] All Apps Terminated
+[2024-08-07 23:07:28.020] Keyboard Interrupt!!!
+[2024-08-07 23:07:28.020] Terminating apps
+[2024-08-07 23:07:28.020] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:07:28.521] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:07:29.022] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:07:29.523] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:07:30.024] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:07:30.525] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:07:31.026] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:07:31.527] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:07:32.028] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] Terminaton operated
+[2024-08-07 23:07:32.029] All Apps Terminated
+[2024-08-07 23:08:09.657] Log file generated
+[2024-08-07 23:08:09.657] Starting Apps
+
+[2024-08-07 23:08:09.657] Starting Communication Core App
+[2024-08-07 23:08:09.667] Waiting Until Server Starts
+[2024-08-07 23:08:09.671] Communication Core App Started
+[2024-08-07 23:08:10.169] Server Connected
+[2024-08-07 23:08:10.269] Starting Telemetry App
+[2024-08-07 23:08:10.276] Telemetry App Started
+[2024-08-07 23:08:10.373] Starting BerryimuAccGyro App
+[2024-08-07 23:08:10.380] BerryimuAccGyro App Started
+[2024-08-07 23:08:10.476] Starting BerryimuBarometer App
+[2024-08-07 23:08:10.486] BerryimuBarometer App Started
+[2024-08-07 23:08:10.581] Starting BerryimuGps App
+[2024-08-07 23:08:10.590] BerryimuGps App Started
+[2024-08-07 23:08:10.685] Starting Motor App
+[2024-08-07 23:08:10.694] Motor App Started
+[2024-08-07 23:08:10.790] Starting Camera App
+[2024-08-07 23:08:10.802] Camera App Started
+[2024-08-07 23:08:10.896] Starting Logic App
+[2024-08-07 23:08:10.907] Logic App Started
+[2024-08-07 23:08:11.530] Log file generated
+[2024-08-07 23:10:14.498] Log file generated
+[2024-08-07 23:10:14.510] Starting Apps
+
+[2024-08-07 23:10:14.510] Starting Communication Core App
+[2024-08-07 23:10:14.525] Waiting Until Server Starts
+[2024-08-07 23:10:14.528] Communication Core App Started
+[2024-08-07 23:10:15.029] Server Connected
+[2024-08-07 23:10:15.129] Starting Telemetry App
+[2024-08-07 23:10:15.136] Telemetry App Started
+[2024-08-07 23:10:15.233] Starting BerryimuAccGyro App
+[2024-08-07 23:10:15.240] BerryimuAccGyro App Started
+[2024-08-07 23:10:15.336] Starting BerryimuBarometer App
+[2024-08-07 23:10:15.345] BerryimuBarometer App Started
+[2024-08-07 23:10:15.441] Starting BerryimuGps App
+[2024-08-07 23:10:15.451] BerryimuGps App Started
+[2024-08-07 23:10:15.548] Starting Motor App
+[2024-08-07 23:10:15.558] Motor App Started
+[2024-08-07 23:10:15.655] Starting Camera App
+[2024-08-07 23:10:15.665] Camera App Started
+[2024-08-07 23:10:15.760] Starting Logic App
+[2024-08-07 23:10:15.770] Logic App Started
+[2024-08-07 23:10:16.592] Log file generated
+[2024-08-07 23:10:49.841] Terminating apps
+[2024-08-07 23:10:49.842] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:10:50.343] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:10:50.844] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:10:51.344] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:10:51.845] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:10:52.345] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:10:52.846] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:10:53.347] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:10:53.848] Terminaton operated
+[2024-08-07 23:10:53.850] Terminaton operated
+[2024-08-07 23:10:53.851] Terminaton operated
+[2024-08-07 23:10:53.851] Terminaton operated
+[2024-08-07 23:10:53.851] Terminaton operated
+[2024-08-07 23:10:53.852] Terminaton operated
+[2024-08-07 23:10:53.852] Terminaton operated
+[2024-08-07 23:10:53.852] Terminaton operated
+[2024-08-07 23:10:53.852] All Apps Terminated
+[2024-08-07 23:10:53.852] Keyboard Interrupt!!!
+[2024-08-07 23:10:53.853] Terminating apps
+[2024-08-07 23:10:53.853] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:10:54.353] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:10:54.854] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:10:55.355] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:10:55.855] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:10:56.356] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:10:56.857] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:10:57.357] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:10:57.858] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.859] Terminaton operated
+[2024-08-07 23:10:57.860] All Apps Terminated
+[2024-08-07 23:12:26.259] Log file generated
+[2024-08-07 23:12:26.260] Starting Apps
+
+[2024-08-07 23:12:26.260] Starting Communication Core App
+[2024-08-07 23:12:26.270] Waiting Until Server Starts
+[2024-08-07 23:12:26.274] Communication Core App Started
+[2024-08-07 23:12:26.771] Server Connected
+[2024-08-07 23:12:26.872] Starting Telemetry App
+[2024-08-07 23:12:26.878] Telemetry App Started
+[2024-08-07 23:12:26.975] Starting BerryimuAccGyro App
+[2024-08-07 23:12:26.982] BerryimuAccGyro App Started
+[2024-08-07 23:12:27.078] Starting BerryimuBarometer App
+[2024-08-07 23:12:27.086] BerryimuBarometer App Started
+[2024-08-07 23:12:27.183] Starting BerryimuGps App
+[2024-08-07 23:12:27.191] BerryimuGps App Started
+[2024-08-07 23:12:27.287] Starting Motor App
+[2024-08-07 23:12:27.295] Motor App Started
+[2024-08-07 23:12:27.390] Starting Camera App
+[2024-08-07 23:12:27.399] Camera App Started
+[2024-08-07 23:12:27.494] Starting Logic App
+[2024-08-07 23:12:27.501] Logic App Started
+[2024-08-07 23:12:28.137] Log file generated
+[2024-08-07 23:12:49.574] Terminating apps
+[2024-08-07 23:12:49.576] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:12:50.077] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:12:50.577] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:12:51.078] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:12:51.579] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:12:52.080] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:12:52.580] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:12:53.081] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:12:53.582] Terminaton operated
+[2024-08-07 23:12:53.585] Terminaton operated
+[2024-08-07 23:12:53.585] Terminaton operated
+[2024-08-07 23:12:53.585] Terminaton operated
+[2024-08-07 23:12:53.585] Terminaton operated
+[2024-08-07 23:12:53.585] Terminaton operated
+[2024-08-07 23:12:53.586] Terminaton operated
+[2024-08-07 23:12:53.586] Terminaton operated
+[2024-08-07 23:12:53.586] All Apps Terminated
+[2024-08-07 23:12:53.586] Keyboard Interrupt!!!
+[2024-08-07 23:12:53.586] Terminating apps
+[2024-08-07 23:12:53.587] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:12:54.087] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:12:54.588] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:12:55.089] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:12:55.589] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:12:56.090] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:12:56.591] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:12:57.092] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:12:57.593] Terminaton operated
+[2024-08-07 23:12:57.594] Terminaton operated
+[2024-08-07 23:12:57.594] Terminaton operated
+[2024-08-07 23:12:57.594] Terminaton operated
+[2024-08-07 23:12:57.594] Terminaton operated
+[2024-08-07 23:12:57.594] Terminaton operated
+[2024-08-07 23:12:57.595] Terminaton operated
+[2024-08-07 23:12:57.595] Terminaton operated
+[2024-08-07 23:12:57.595] All Apps Terminated
+[2024-08-07 23:41:23.698] Log file generated
+[2024-08-07 23:41:23.710] Starting Apps
+
+[2024-08-07 23:41:23.711] Starting Communication Core App
+[2024-08-07 23:41:23.727] Waiting Until Server Starts
+[2024-08-07 23:41:23.731] Communication Core App Started
+[2024-08-07 23:41:24.228] Server Connected
+[2024-08-07 23:41:24.329] Starting Telemetry App
+[2024-08-07 23:41:24.336] Telemetry App Started
+[2024-08-07 23:41:24.433] Starting BerryimuAccGyro App
+[2024-08-07 23:41:24.442] BerryimuAccGyro App Started
+[2024-08-07 23:41:24.536] Starting BerryimuBarometer App
+[2024-08-07 23:41:24.545] BerryimuBarometer App Started
+[2024-08-07 23:41:24.641] Starting BerryimuGps App
+[2024-08-07 23:41:24.653] BerryimuGps App Started
+[2024-08-07 23:41:24.749] Starting Motor App
+[2024-08-07 23:41:24.762] Motor App Started
+[2024-08-07 23:41:24.854] Starting Camera App
+[2024-08-07 23:41:24.882] Camera App Started
+[2024-08-07 23:41:24.967] Starting Logic App
+[2024-08-07 23:41:24.981] Logic App Started
+[2024-08-07 23:41:26.931] Log file generated
+[2024-08-07 23:41:36.003] Terminating apps
+[2024-08-07 23:41:36.005] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:41:36.506] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:41:37.007] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:41:37.508] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:41:38.009] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:41:38.510] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:41:39.011] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:41:39.511] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:41:40.012] Terminaton operated
+[2024-08-07 23:41:40.015] Terminaton operated
+[2024-08-07 23:41:40.016] Terminaton operated
+[2024-08-07 23:41:40.016] Terminaton operated
+[2024-08-07 23:41:40.017] Terminaton operated
+[2024-08-07 23:41:40.017] Terminaton operated
+[2024-08-07 23:41:40.017] Terminaton operated
+[2024-08-07 23:41:40.018] Terminaton operated
+[2024-08-07 23:41:40.018] All Apps Terminated
+[2024-08-07 23:41:40.018] Keyboard Interrupt!!!
+[2024-08-07 23:41:40.019] Terminating apps
+[2024-08-07 23:41:40.019] msg to send : 0|8|1001|Terminate
+[2024-08-07 23:41:40.519] msg to send : 0|7|1001|Terminate
+[2024-08-07 23:41:41.021] msg to send : 0|6|1001|Terminate
+[2024-08-07 23:41:41.521] msg to send : 0|5|1001|Terminate
+[2024-08-07 23:41:42.022] msg to send : 0|4|1001|Terminate
+[2024-08-07 23:41:42.523] msg to send : 0|3|1001|Terminate
+[2024-08-07 23:41:43.024] msg to send : 0|2|1001|Terminate
+[2024-08-07 23:41:43.524] msg to send : 0|1|1001|Terminate
+[2024-08-07 23:41:44.025] Terminaton operated
+[2024-08-07 23:41:44.025] Terminaton operated
+[2024-08-07 23:41:44.026] Terminaton operated
+[2024-08-07 23:41:44.026] Terminaton operated
+[2024-08-07 23:41:44.026] Terminaton operated
+[2024-08-07 23:41:44.026] Terminaton operated
+[2024-08-07 23:41:44.027] Terminaton operated
+[2024-08-07 23:41:44.027] Terminaton operated
+[2024-08-07 23:41:44.028] All Apps Terminated
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [2024-08-07 23:45:04.209] Log file generated
+[2024-08-07 23:45:04.268] Starting Apps
+
+[2024-08-07 23:45:04.268] Starting Communication Core App
+[2024-08-07 23:45:04.318] Waiting Until Server Starts
+[2024-08-07 23:45:04.323] Communication Core App Started
+[2024-08-07 23:45:04.824] Server Connected
+[2024-08-07 23:45:04.924] Starting Telemetry App
+[2024-08-07 23:45:04.955] Telemetry App Started
+[2024-08-07 23:45:05.042] Starting BerryimuAccGyro App
+[2024-08-07 23:45:05.085] BerryimuAccGyro App Started
+[2024-08-07 23:45:05.172] Starting BerryimuBarometer App
+[2024-08-07 23:45:05.192] BerryimuBarometer App Started
+[2024-08-07 23:45:05.292] Starting BerryimuGps App
+[2024-08-07 23:45:05.308] BerryimuGps App Started
+[2024-08-07 23:45:05.397] Starting Motor App
+[2024-08-07 23:45:05.435] Motor App Started
+[2024-08-07 23:45:05.507] Starting Camera App
+[2024-08-07 23:45:05.518] Camera App Started
+[2024-08-07 23:45:05.613] Starting Logic App
+[2024-08-07 23:45:05.635] Logic App Started
+[2024-08-07 23:45:06.812] Log file generated
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   [2024-08-07 23:47:00.936] Log file generated
+[2024-08-07 23:47:01.008] Starting Apps
+
+[2024-08-07 23:47:01.008] Starting Communication Core App
+[2024-08-07 23:47:01.054] Waiting Until Server Starts
+[2024-08-07 23:47:01.058] Communication Core App Started
+[2024-08-07 23:47:01.559] Server Connected
+[2024-08-07 23:47:01.660] Starting Telemetry App
+[2024-08-07 23:47:01.668] Telemetry App Started
+[2024-08-07 23:47:01.764] Starting BerryimuAccGyro App
+[2024-08-07 23:47:01.809] BerryimuAccGyro App Started
+[2024-08-07 23:47:01.873] Starting BerryimuBarometer App
+[2024-08-07 23:47:01.906] BerryimuBarometer App Started
+[2024-08-07 23:47:01.989] Starting BerryimuGps App
+[2024-08-07 23:47:02.003] BerryimuGps App Started
+[2024-08-07 23:47:02.099] Starting Motor App
+[2024-08-07 23:47:02.124] Motor App Started
+[2024-08-07 23:47:02.210] Starting Camera App
+[2024-08-07 23:47:02.221] Camera App Started
+[2024-08-07 23:47:02.316] Starting Logic App
+[2024-08-07 23:47:02.335] Logic App Started
+[2024-08-07 23:47:03.487] Log file generated
+[2024-08-08 00:48:46.431] Log file generated
+[2024-08-08 00:48:46.531] Starting Apps
+
+[2024-08-08 00:48:46.531] Starting Communication Core App
+[2024-08-08 00:48:46.564] Waiting Until Server Starts
+[2024-08-08 00:48:46.567] Communication Core App Started
+[2024-08-08 00:48:47.065] Server Connected
+[2024-08-08 00:48:47.165] Starting Telemetry App
+[2024-08-08 00:48:47.172] Telemetry App Started
+[2024-08-08 00:48:47.269] Starting BerryimuAccGyro App
+[2024-08-08 00:48:47.277] BerryimuAccGyro App Started
+[2024-08-08 00:48:47.372] Starting BerryimuBarometer App
+[2024-08-08 00:48:47.381] BerryimuBarometer App Started
+[2024-08-08 00:48:47.477] Starting BerryimuGps App
+[2024-08-08 00:48:47.485] BerryimuGps App Started
+[2024-08-08 00:48:47.581] Starting Motor App
+[2024-08-08 00:48:47.589] Motor App Started
+[2024-08-08 00:48:47.685] Starting Camera App
+[2024-08-08 00:48:47.693] Camera App Started
+[2024-08-08 00:48:47.789] Starting Logic App
+[2024-08-08 00:48:47.799] Logic App Started
+[2024-08-08 00:48:51.075] Log file generated
+[2024-08-08 00:48:53.143] Terminating apps
+[2024-08-08 00:48:53.144] msg to send : 0|8|1001|Terminate
+[2024-08-08 00:48:53.645] msg to send : 0|7|1001|Terminate
+[2024-08-08 00:48:54.146] msg to send : 0|6|1001|Terminate
+[2024-08-08 00:48:54.647] msg to send : 0|5|1001|Terminate
+[2024-08-08 00:48:55.148] msg to send : 0|4|1001|Terminate
+[2024-08-08 00:48:55.649] msg to send : 0|3|1001|Terminate
+[2024-08-08 00:48:56.149] msg to send : 0|2|1001|Terminate
+[2024-08-08 00:48:56.650] msg to send : 0|1|1001|Terminate
+[2024-08-08 00:48:57.151] Terminaton operated
+[2024-08-08 00:48:57.155] Terminaton operated
+[2024-08-08 00:48:57.156] Terminaton operated
+[2024-08-08 00:48:57.156] Terminaton operated
+[2024-08-08 00:48:57.156] Terminaton operated
+[2024-08-08 00:48:57.157] Terminaton operated
+[2024-08-08 00:48:57.157] Terminaton operated
+[2024-08-08 00:48:57.161] Terminaton operated
+[2024-08-08 00:48:57.162] All Apps Terminated
+[2024-08-08 00:48:57.162] Keyboard Interrupt!!!
+[2024-08-08 00:48:57.162] Terminating apps
+[2024-08-08 00:48:57.162] msg to send : 0|8|1001|Terminate
+[2024-08-08 00:48:57.663] msg to send : 0|7|1001|Terminate
+[2024-08-08 00:48:58.164] msg to send : 0|6|1001|Terminate
+[2024-08-08 00:48:58.665] msg to send : 0|5|1001|Terminate
+[2024-08-08 00:48:59.165] msg to send : 0|4|1001|Terminate
+[2024-08-08 00:48:59.667] msg to send : 0|3|1001|Terminate
+[2024-08-08 00:49:00.168] msg to send : 0|2|1001|Terminate
+[2024-08-08 00:49:00.669] msg to send : 0|1|1001|Terminate
+[2024-08-08 00:49:01.169] Terminaton operated
+[2024-08-08 00:49:01.170] Terminaton operated
+[2024-08-08 00:49:01.170] Terminaton operated
+[2024-08-08 00:49:01.170] Terminaton operated
+[2024-08-08 00:49:01.170] Terminaton operated
+[2024-08-08 00:49:01.170] Terminaton operated
+[2024-08-08 00:49:01.170] Terminaton operated
+[2024-08-08 00:49:01.171] Terminaton operated
+[2024-08-08 00:49:01.171] All Apps Terminated
+[2024-08-08 00:50:50.702] Log file generated
+[2024-08-08 00:50:50.702] Starting Apps
+
+[2024-08-08 00:50:50.702] Starting Communication Core App
+[2024-08-08 00:50:50.717] Waiting Until Server Starts
+[2024-08-08 00:50:50.720] Communication Core App Started
+[2024-08-08 00:50:51.218] Server Connected
+[2024-08-08 00:50:51.319] Starting Telemetry App
+[2024-08-08 00:50:51.325] Telemetry App Started
+[2024-08-08 00:50:51.422] Starting BerryimuAccGyro App
+[2024-08-08 00:50:51.429] BerryimuAccGyro App Started
+[2024-08-08 00:50:51.525] Starting BerryimuBarometer App
+[2024-08-08 00:50:51.534] BerryimuBarometer App Started
+[2024-08-08 00:50:51.630] Starting BerryimuGps App
+[2024-08-08 00:50:51.641] BerryimuGps App Started
+[2024-08-08 00:50:51.738] Starting Motor App
+[2024-08-08 00:50:51.758] Motor App Started
+[2024-08-08 00:50:51.852] Starting Camera App
+[2024-08-08 00:50:51.863] Camera App Started
+[2024-08-08 00:50:51.957] Starting Logic App
+[2024-08-08 00:50:51.968] Logic App Started
+[2024-08-08 00:50:53.264] Log file generated
+[2024-08-08 00:51:43.310] Terminating apps
+[2024-08-08 00:51:43.314] msg to send : 0|8|1001|Terminate
+[2024-08-08 00:51:43.815] msg to send : 0|7|1001|Terminate
+[2024-08-08 00:51:44.316] msg to send : 0|6|1001|Terminate
+[2024-08-08 00:51:44.817] msg to send : 0|5|1001|Terminate
+[2024-08-08 00:51:45.317] msg to send : 0|4|1001|Terminate
+[2024-08-08 00:51:45.818] msg to send : 0|3|1001|Terminate
+[2024-08-08 00:51:46.319] msg to send : 0|2|1001|Terminate
+[2024-08-08 00:51:46.820] msg to send : 0|1|1001|Terminate
+[2024-08-08 00:51:47.321] Terminaton operated
+[2024-08-08 00:51:47.324] Terminaton operated
+[2024-08-08 00:51:47.325] Terminaton operated
+[2024-08-08 00:51:47.326] Terminaton operated
+[2024-08-08 00:51:47.326] Terminaton operated
+[2024-08-08 00:51:47.327] Terminaton operated
+[2024-08-08 00:51:47.327] Terminaton operated
+[2024-08-08 00:51:47.328] Terminaton operated
+[2024-08-08 00:51:47.329] All Apps Terminated
+[2024-08-08 00:51:47.329] Keyboard Interrupt!!!
+[2024-08-08 00:51:47.330] Terminating apps
+[2024-08-08 00:51:47.330] msg to send : 0|8|1001|Terminate
+[2024-08-08 00:51:47.831] msg to send : 0|7|1001|Terminate
+[2024-08-08 00:51:48.332] msg to send : 0|6|1001|Terminate
+[2024-08-08 00:51:48.833] msg to send : 0|5|1001|Terminate
+[2024-08-08 00:51:49.334] msg to send : 0|4|1001|Terminate
+[2024-08-08 00:51:49.835] msg to send : 0|3|1001|Terminate
+[2024-08-08 00:51:50.336] msg to send : 0|2|1001|Terminate
+[2024-08-08 00:51:50.837] msg to send : 0|1|1001|Terminate
+[2024-08-08 00:51:51.338] Terminaton operated
+[2024-08-08 00:51:51.338] Terminaton operated
+[2024-08-08 00:51:51.338] Terminaton operated
+[2024-08-08 00:51:51.339] Terminaton operated
+[2024-08-08 00:51:51.339] Terminaton operated
+[2024-08-08 00:51:51.339] Terminaton operated
+[2024-08-08 00:51:51.339] Terminaton operated
+[2024-08-08 00:51:51.339] Terminaton operated
+[2024-08-08 00:51:51.340] All Apps Terminated
+[2024-08-08 00:56:18.412] Log file generated
+[2024-08-08 00:56:18.461] Starting Apps
+
+[2024-08-08 00:56:18.461] Starting Communication Core App
+[2024-08-08 00:56:18.511] Waiting Until Server Starts
+[2024-08-08 00:56:18.515] Communication Core App Started
+[2024-08-08 00:56:19.016] Server Connected
+[2024-08-08 00:56:19.120] Starting Telemetry App
+[2024-08-08 00:56:19.131] Telemetry App Started
+[2024-08-08 00:56:19.225] Starting BerryimuAccGyro App
+[2024-08-08 00:56:19.253] BerryimuAccGyro App Started
+[2024-08-08 00:56:19.353] Starting BerryimuBarometer App
+[2024-08-08 00:56:19.380] BerryimuBarometer App Started
+[2024-08-08 00:56:19.459] Starting BerryimuGps App
+[2024-08-08 00:56:19.474] BerryimuGps App Started
+[2024-08-08 00:56:19.572] Starting Motor App
+[2024-08-08 00:56:19.583] Motor App Started
+[2024-08-08 00:56:19.680] Starting Camera App
+[2024-08-08 00:56:19.699] Camera App Started
+[2024-08-08 00:56:19.788] Starting Logic App
+[2024-08-08 00:56:19.810] Logic App Started
+[2024-08-08 00:56:21.295] Log file generated
+[2024-08-08 01:02:22.169] Log file generated
+[2024-08-08 01:02:22.264] Starting Apps
+
+[2024-08-08 01:02:22.264] Starting Communication Core App
+[2024-08-08 01:02:22.324] Waiting Until Server Starts
+[2024-08-08 01:02:22.328] Communication Core App Started
+[2024-08-08 01:02:22.832] Server Connected
+[2024-08-08 01:02:22.932] Starting Telemetry App
+[2024-08-08 01:02:22.940] Telemetry App Started
+[2024-08-08 01:02:23.041] Starting BerryimuAccGyro App
+[2024-08-08 01:02:23.051] BerryimuAccGyro App Started
+[2024-08-08 01:02:23.153] Starting BerryimuBarometer App
+[2024-08-08 01:02:23.177] BerryimuBarometer App Started
+[2024-08-08 01:02:23.270] Starting BerryimuGps App
+[2024-08-08 01:02:23.330] BerryimuGps App Started
+[2024-08-08 01:02:23.408] Starting Motor App
+[2024-08-08 01:02:23.434] Motor App Started
+[2024-08-08 01:02:23.525] Starting Camera App
+[2024-08-08 01:02:23.551] Camera App Started
+[2024-08-08 01:02:23.645] Starting Logic App
+[2024-08-08 01:02:23.657] Logic App Started
+[2024-08-08 01:02:25.269] Log file generated
+[2024-08-08 03:18:35.266] Log file generated
+[2024-08-08 03:18:35.309] Starting Apps
+
+[2024-08-08 03:18:35.309] Starting Communication Core App
+[2024-08-08 03:18:35.359] Waiting Until Server Starts
+[2024-08-08 03:18:35.365] Communication Core App Started
+[2024-08-08 03:18:35.864] Server Connected
+[2024-08-08 03:18:35.965] Starting Telemetry App
+[2024-08-08 03:18:35.972] Telemetry App Started
+[2024-08-08 03:18:36.068] Starting BerryimuAccGyro App
+[2024-08-08 03:18:36.111] BerryimuAccGyro App Started
+[2024-08-08 03:18:36.207] Starting BerryimuBarometer App
+[2024-08-08 03:18:36.226] BerryimuBarometer App Started
+[2024-08-08 03:18:36.318] Starting BerryimuGps App
+[2024-08-08 03:18:36.379] BerryimuGps App Started
+[2024-08-08 03:18:36.431] Starting Motor App
+[2024-08-08 03:18:36.507] Motor App Started
+[2024-08-08 03:18:36.561] Starting Camera App
+[2024-08-08 03:18:36.576] Camera App Started
+[2024-08-08 03:18:36.673] Starting Logic App
+[2024-08-08 03:18:36.711] Logic App Started
+[2024-08-08 03:18:38.371] Log file generated
+[2024-08-08 04:03:25.243] Log file generated
+[2024-08-08 04:03:25.327] Starting Apps
+
+[2024-08-08 04:03:25.327] Starting Communication Core App
+[2024-08-08 04:03:25.389] Waiting Until Server Starts
+[2024-08-08 04:03:25.397] Communication Core App Started
+[2024-08-08 04:03:25.894] Server Connected
+[2024-08-08 04:03:25.995] Starting Telemetry App
+[2024-08-08 04:03:26.002] Telemetry App Started
+[2024-08-08 04:03:26.099] Starting BerryimuAccGyro App
+[2024-08-08 04:03:26.134] BerryimuAccGyro App Started
+[2024-08-08 04:03:26.215] Starting BerryimuBarometer App
+[2024-08-08 04:03:26.245] BerryimuBarometer App Started
+[2024-08-08 04:03:26.328] Starting BerryimuGps App
+[2024-08-08 04:03:26.341] BerryimuGps App Started
+[2024-08-08 04:03:26.443] Starting Motor App
+[2024-08-08 04:03:26.485] Motor App Started
+[2024-08-08 04:03:26.569] Starting Camera App
+[2024-08-08 04:03:26.591] Camera App Started
+[2024-08-08 04:03:26.697] Starting Logic App
+[2024-08-08 04:03:26.719] Logic App Started
+[2024-08-08 04:03:28.352] Log file generated
+[2024-08-08 04:09:35.497] Log file generated
+[2024-08-08 04:09:35.509] Starting Apps
+
+[2024-08-08 04:09:35.509] Starting Communication Core App
+[2024-08-08 04:09:35.525] Waiting Until Server Starts
+[2024-08-08 04:09:35.529] Communication Core App Started
+[2024-08-08 04:09:36.026] Server Connected
+[2024-08-08 04:09:36.127] Starting Telemetry App
+[2024-08-08 04:09:36.133] Telemetry App Started
+[2024-08-08 04:09:36.230] Starting BerryimuAccGyro App
+[2024-08-08 04:09:36.237] BerryimuAccGyro App Started
+[2024-08-08 04:09:36.333] Starting BerryimuBarometer App
+[2024-08-08 04:09:36.342] BerryimuBarometer App Started
+[2024-08-08 04:09:36.438] Starting BerryimuGps App
+[2024-08-08 04:09:36.447] BerryimuGps App Started
+[2024-08-08 04:09:36.543] Starting Motor App
+[2024-08-08 04:09:36.557] Motor App Started
+[2024-08-08 04:09:36.649] Starting Camera App
+[2024-08-08 04:09:36.666] Camera App Started
+[2024-08-08 04:09:36.761] Starting Logic App
+[2024-08-08 04:09:36.771] Logic App Started
+[2024-08-08 04:09:41.179] Log file generated
+[2024-08-08 04:10:25.676] Terminating apps
+[2024-08-08 04:10:25.754] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:10:26.269] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:10:26.772] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:10:27.273] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:10:27.774] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:10:28.275] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:10:28.775] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:10:29.276] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:10:29.777] Terminaton operated
+[2024-08-08 04:10:29.993] Terminaton operated
+[2024-08-08 04:10:29.998] Terminaton operated
+[2024-08-08 04:10:29.998] Terminaton operated
+[2024-08-08 04:10:29.999] Terminaton operated
+[2024-08-08 04:10:29.999] Terminaton operated
+[2024-08-08 04:10:29.999] Terminaton operated
+[2024-08-08 04:10:29.999] Terminaton operated
+[2024-08-08 04:10:29.999] All Apps Terminated
+[2024-08-08 04:10:30.003] Keyboard Interrupt!!!
+[2024-08-08 04:10:30.004] Terminating apps
+[2024-08-08 04:10:30.005] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:10:30.507] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:10:31.009] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:10:31.510] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:10:32.011] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:10:32.512] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:10:33.018] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:10:33.519] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:10:34.019] Terminaton operated
+[2024-08-08 04:10:34.020] Terminaton operated
+[2024-08-08 04:10:34.021] Terminaton operated
+[2024-08-08 04:10:34.022] Terminaton operated
+[2024-08-08 04:10:34.023] Terminaton operated
+[2024-08-08 04:10:34.023] Terminaton operated
+[2024-08-08 04:10:34.024] Terminaton operated
+[2024-08-08 04:10:34.024] Terminaton operated
+[2024-08-08 04:10:34.025] All Apps Terminated
+[2024-08-08 04:12:17.158] Log file generated
+[2024-08-08 04:12:17.174] Starting Apps
+
+[2024-08-08 04:12:17.175] Starting Communication Core App
+[2024-08-08 04:12:17.213] Waiting Until Server Starts
+[2024-08-08 04:12:17.217] Communication Core App Started
+[2024-08-08 04:12:17.715] Server Connected
+[2024-08-08 04:12:17.817] Starting Telemetry App
+[2024-08-08 04:12:17.826] Telemetry App Started
+[2024-08-08 04:12:17.921] Starting BerryimuAccGyro App
+[2024-08-08 04:12:17.929] BerryimuAccGyro App Started
+[2024-08-08 04:12:18.025] Starting BerryimuBarometer App
+[2024-08-08 04:12:18.033] BerryimuBarometer App Started
+[2024-08-08 04:12:18.129] Starting BerryimuGps App
+[2024-08-08 04:12:18.144] BerryimuGps App Started
+[2024-08-08 04:12:18.234] Starting Motor App
+[2024-08-08 04:12:18.244] Motor App Started
+[2024-08-08 04:12:18.340] Starting Camera App
+[2024-08-08 04:12:18.352] Camera App Started
+[2024-08-08 04:12:18.448] Starting Logic App
+[2024-08-08 04:12:18.457] Logic App Started
+[2024-08-08 04:12:19.907] Log file generated
+[2024-08-08 04:12:52.079] Terminating apps
+[2024-08-08 04:12:52.127] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:12:52.646] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:12:53.146] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:12:53.648] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:12:54.149] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:12:54.650] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:12:55.150] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:12:55.651] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:12:56.152] Terminaton operated
+[2024-08-08 04:12:56.332] Terminaton operated
+[2024-08-08 04:12:56.341] Terminaton operated
+[2024-08-08 04:12:56.347] Terminaton operated
+[2024-08-08 04:12:56.358] Terminaton operated
+[2024-08-08 04:12:56.359] Terminaton operated
+[2024-08-08 04:12:56.373] Terminaton operated
+[2024-08-08 04:12:56.374] Terminaton operated
+[2024-08-08 04:12:56.377] All Apps Terminated
+[2024-08-08 04:12:56.407] Keyboard Interrupt!!!
+[2024-08-08 04:12:56.407] Terminating apps
+[2024-08-08 04:12:56.407] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:12:56.908] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:12:57.410] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:12:57.911] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:12:58.413] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:12:58.913] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:12:59.414] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:12:59.917] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:13:00.417] Terminaton operated
+[2024-08-08 04:13:00.418] Terminaton operated
+[2024-08-08 04:13:00.418] Terminaton operated
+[2024-08-08 04:13:00.418] Terminaton operated
+[2024-08-08 04:13:00.418] Terminaton operated
+[2024-08-08 04:13:00.418] Terminaton operated
+[2024-08-08 04:13:00.418] Terminaton operated
+[2024-08-08 04:13:00.419] Terminaton operated
+[2024-08-08 04:13:00.419] All Apps Terminated
+[2024-08-08 04:13:59.293] Log file generated
+[2024-08-08 04:13:59.293] Starting Apps
+
+[2024-08-08 04:13:59.293] Starting Communication Core App
+[2024-08-08 04:13:59.308] Waiting Until Server Starts
+[2024-08-08 04:13:59.312] Communication Core App Started
+[2024-08-08 04:13:59.810] Server Connected
+[2024-08-08 04:13:59.910] Starting Telemetry App
+[2024-08-08 04:13:59.917] Telemetry App Started
+[2024-08-08 04:14:00.013] Starting BerryimuAccGyro App
+[2024-08-08 04:14:00.021] BerryimuAccGyro App Started
+[2024-08-08 04:14:00.118] Starting BerryimuBarometer App
+[2024-08-08 04:14:00.126] BerryimuBarometer App Started
+[2024-08-08 04:14:00.221] Starting BerryimuGps App
+[2024-08-08 04:14:00.231] BerryimuGps App Started
+[2024-08-08 04:14:00.327] Starting Motor App
+[2024-08-08 04:14:00.337] Motor App Started
+[2024-08-08 04:14:00.434] Starting Camera App
+[2024-08-08 04:14:00.443] Camera App Started
+[2024-08-08 04:14:00.542] Starting Logic App
+[2024-08-08 04:14:00.553] Logic App Started
+[2024-08-08 04:14:43.411] Terminating apps
+[2024-08-08 04:14:43.411] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:14:43.912] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:14:44.414] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:14:44.915] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:14:45.416] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:14:45.916] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:14:46.417] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:14:46.918] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:14:47.418] Terminaton operated
+[2024-08-08 04:14:47.421] Terminaton operated
+[2024-08-08 04:14:47.422] Terminaton operated
+[2024-08-08 04:14:47.422] Terminaton operated
+[2024-08-08 04:14:47.423] Terminaton operated
+[2024-08-08 04:14:47.423] Terminaton operated
+[2024-08-08 04:14:47.423] Terminaton operated
+[2024-08-08 04:14:47.423] Terminaton operated
+[2024-08-08 04:14:47.424] All Apps Terminated
+[2024-08-08 04:14:47.424] Keyboard Interrupt!!!
+[2024-08-08 04:14:47.424] Terminating apps
+[2024-08-08 04:14:47.425] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:14:47.925] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:14:48.426] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:14:48.927] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:14:49.427] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:14:49.928] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:14:50.429] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:14:50.930] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:14:51.431] Terminaton operated
+[2024-08-08 04:14:51.431] Terminaton operated
+[2024-08-08 04:14:51.432] Terminaton operated
+[2024-08-08 04:14:51.432] Terminaton operated
+[2024-08-08 04:14:51.432] Terminaton operated
+[2024-08-08 04:14:51.432] Terminaton operated
+[2024-08-08 04:14:51.433] Terminaton operated
+[2024-08-08 04:14:51.433] Terminaton operated
+[2024-08-08 04:14:51.433] All Apps Terminated
+[2024-08-08 04:15:34.950] Log file generated
+[2024-08-08 04:15:34.950] Starting Apps
+
+[2024-08-08 04:15:34.950] Starting Communication Core App
+[2024-08-08 04:15:34.961] Waiting Until Server Starts
+[2024-08-08 04:15:34.965] Communication Core App Started
+[2024-08-08 04:15:35.462] Server Connected
+[2024-08-08 04:15:35.563] Starting Telemetry App
+[2024-08-08 04:15:35.570] Telemetry App Started
+[2024-08-08 04:15:35.666] Starting BerryimuAccGyro App
+[2024-08-08 04:15:35.673] BerryimuAccGyro App Started
+[2024-08-08 04:15:35.769] Starting BerryimuBarometer App
+[2024-08-08 04:15:35.778] BerryimuBarometer App Started
+[2024-08-08 04:15:35.874] Starting BerryimuGps App
+[2024-08-08 04:15:35.883] BerryimuGps App Started
+[2024-08-08 04:15:35.979] Starting Motor App
+[2024-08-08 04:15:35.988] Motor App Started
+[2024-08-08 04:15:36.084] Starting Camera App
+[2024-08-08 04:15:36.095] Camera App Started
+[2024-08-08 04:15:36.190] Starting Logic App
+[2024-08-08 04:15:36.200] Logic App Started
+[2024-08-08 04:15:37.613] Log file generated
+[2024-08-08 04:15:43.485] Terminating apps
+[2024-08-08 04:15:43.486] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:15:43.987] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:15:44.488] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:15:45.083] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:15:45.584] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:15:46.085] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:15:46.585] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:15:47.086] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:15:47.589] Terminaton operated
+[2024-08-08 04:15:47.592] Terminaton operated
+[2024-08-08 04:15:47.593] Terminaton operated
+[2024-08-08 04:15:47.594] Terminaton operated
+[2024-08-08 04:15:47.594] Terminaton operated
+[2024-08-08 04:15:47.594] Terminaton operated
+[2024-08-08 04:15:47.595] Terminaton operated
+[2024-08-08 04:15:47.601] Terminaton operated
+[2024-08-08 04:15:47.602] All Apps Terminated
+[2024-08-08 04:15:47.603] Keyboard Interrupt!!!
+[2024-08-08 04:15:47.604] Terminating apps
+[2024-08-08 04:15:47.605] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:15:48.107] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:15:48.607] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:15:49.108] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:15:49.609] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:15:50.110] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:15:50.611] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:15:51.111] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:15:51.612] Terminaton operated
+[2024-08-08 04:15:51.613] Terminaton operated
+[2024-08-08 04:15:51.613] Terminaton operated
+[2024-08-08 04:15:51.613] Terminaton operated
+[2024-08-08 04:15:51.613] Terminaton operated
+[2024-08-08 04:15:51.614] Terminaton operated
+[2024-08-08 04:15:51.614] Terminaton operated
+[2024-08-08 04:15:51.614] Terminaton operated
+[2024-08-08 04:15:51.614] All Apps Terminated
+[2024-08-08 04:17:10.860] Log file generated
+[2024-08-08 04:17:10.862] Starting Apps
+
+[2024-08-08 04:17:10.862] Starting Communication Core App
+[2024-08-08 04:17:10.879] Waiting Until Server Starts
+[2024-08-08 04:17:10.883] Communication Core App Started
+[2024-08-08 04:17:11.381] Server Connected
+[2024-08-08 04:17:11.481] Starting Telemetry App
+[2024-08-08 04:17:11.488] Telemetry App Started
+[2024-08-08 04:17:11.584] Starting BerryimuAccGyro App
+[2024-08-08 04:17:11.592] BerryimuAccGyro App Started
+[2024-08-08 04:17:11.688] Starting BerryimuBarometer App
+[2024-08-08 04:17:11.698] BerryimuBarometer App Started
+[2024-08-08 04:17:11.792] Starting BerryimuGps App
+[2024-08-08 04:17:11.800] BerryimuGps App Started
+[2024-08-08 04:17:11.896] Starting Motor App
+[2024-08-08 04:17:11.907] Motor App Started
+[2024-08-08 04:17:12.003] Starting Camera App
+[2024-08-08 04:17:12.110] Starting Logic App
+[2024-08-08 04:17:12.019] Camera App Started
+[2024-08-08 04:17:12.206] Logic App Started
+[2024-08-08 04:17:13.844] Log file generated
+[2024-08-08 04:17:42.304] Terminating apps
+[2024-08-08 04:17:42.337] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:17:42.857] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:17:43.358] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:17:44.134] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:17:44.635] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:17:45.136] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:17:45.637] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:17:46.137] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:17:46.638] Terminaton operated
+[2024-08-08 04:17:46.656] Terminaton operated
+[2024-08-08 04:17:46.657] Terminaton operated
+[2024-08-08 04:17:46.657] Terminaton operated
+[2024-08-08 04:17:46.657] Terminaton operated
+[2024-08-08 04:17:46.657] Terminaton operated
+[2024-08-08 04:17:46.657] Terminaton operated
+[2024-08-08 04:17:46.657] Terminaton operated
+[2024-08-08 04:17:46.658] All Apps Terminated
+[2024-08-08 04:17:46.662] Keyboard Interrupt!!!
+[2024-08-08 04:17:46.662] Terminating apps
+[2024-08-08 04:17:46.663] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:17:47.163] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:17:47.665] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:17:48.165] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:17:48.666] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:17:49.167] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:17:49.668] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:17:50.169] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:17:50.670] Terminaton operated
+[2024-08-08 04:17:50.670] Terminaton operated
+[2024-08-08 04:17:50.671] Terminaton operated
+[2024-08-08 04:17:50.671] Terminaton operated
+[2024-08-08 04:17:50.671] Terminaton operated
+[2024-08-08 04:17:50.671] Terminaton operated
+[2024-08-08 04:17:50.671] Terminaton operated
+[2024-08-08 04:17:50.671] Terminaton operated
+[2024-08-08 04:17:50.671] All Apps Terminated
+[2024-08-08 04:20:35.297] Log file generated
+[2024-08-08 04:20:35.297] Starting Apps
+
+[2024-08-08 04:20:35.297] Starting Communication Core App
+[2024-08-08 04:20:35.312] Waiting Until Server Starts
+[2024-08-08 04:20:35.316] Communication Core App Started
+[2024-08-08 04:20:35.813] Server Connected
+[2024-08-08 04:20:35.914] Starting Telemetry App
+[2024-08-08 04:20:35.921] Telemetry App Started
+[2024-08-08 04:20:36.017] Starting BerryimuAccGyro App
+[2024-08-08 04:20:36.024] BerryimuAccGyro App Started
+[2024-08-08 04:20:36.122] Starting BerryimuBarometer App
+[2024-08-08 04:20:36.132] BerryimuBarometer App Started
+[2024-08-08 04:20:36.231] Starting BerryimuGps App
+[2024-08-08 04:20:36.243] BerryimuGps App Started
+[2024-08-08 04:20:36.338] Starting Motor App
+[2024-08-08 04:20:36.370] Motor App Started
+[2024-08-08 04:20:36.455] Starting Camera App
+[2024-08-08 04:20:36.465] Camera App Started
+[2024-08-08 04:20:36.560] Starting Logic App
+[2024-08-08 04:20:36.572] Logic App Started
+[2024-08-08 04:20:38.048] Log file generated
+[2024-08-08 04:20:56.215] Terminating apps
+[2024-08-08 04:20:56.254] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:20:56.767] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:20:57.268] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:20:57.769] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:20:58.271] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:20:58.772] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:20:59.272] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:20:59.773] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:21:00.274] Terminaton operated
+[2024-08-08 04:21:00.355] Terminaton operated
+[2024-08-08 04:21:00.356] Terminaton operated
+[2024-08-08 04:21:00.357] Terminaton operated
+[2024-08-08 04:21:00.358] Terminaton operated
+[2024-08-08 04:21:00.358] Terminaton operated
+[2024-08-08 04:21:00.359] Terminaton operated
+[2024-08-08 04:21:00.359] Terminaton operated
+[2024-08-08 04:21:00.360] All Apps Terminated
+[2024-08-08 04:21:00.372] Keyboard Interrupt!!!
+[2024-08-08 04:21:00.373] Terminating apps
+[2024-08-08 04:21:00.373] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:21:00.874] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:21:01.376] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:21:01.878] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:21:02.379] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:21:02.880] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:21:03.382] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:21:03.883] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:21:04.384] Terminaton operated
+[2024-08-08 04:21:04.384] Terminaton operated
+[2024-08-08 04:21:04.385] Terminaton operated
+[2024-08-08 04:21:04.385] Terminaton operated
+[2024-08-08 04:21:04.385] Terminaton operated
+[2024-08-08 04:21:04.385] Terminaton operated
+[2024-08-08 04:21:04.385] Terminaton operated
+[2024-08-08 04:21:04.385] Terminaton operated
+[2024-08-08 04:21:04.386] All Apps Terminated
+[2024-08-08 04:24:16.466] Log file generated
+[2024-08-08 04:24:16.467] Starting Apps
+
+[2024-08-08 04:24:16.467] Starting Communication Core App
+[2024-08-08 04:24:16.482] Waiting Until Server Starts
+[2024-08-08 04:24:16.486] Communication Core App Started
+[2024-08-08 04:24:16.983] Server Connected
+[2024-08-08 04:24:17.084] Starting Telemetry App
+[2024-08-08 04:24:17.090] Telemetry App Started
+[2024-08-08 04:24:17.187] Starting BerryimuAccGyro App
+[2024-08-08 04:24:17.195] BerryimuAccGyro App Started
+[2024-08-08 04:24:17.290] Starting BerryimuBarometer App
+[2024-08-08 04:24:17.299] BerryimuBarometer App Started
+[2024-08-08 04:24:17.398] Starting BerryimuGps App
+[2024-08-08 04:24:17.406] BerryimuGps App Started
+[2024-08-08 04:24:17.502] Starting Motor App
+[2024-08-08 04:24:17.511] Motor App Started
+[2024-08-08 04:24:17.607] Starting Camera App
+[2024-08-08 04:24:17.636] Camera App Started
+[2024-08-08 04:24:17.724] Starting Logic App
+[2024-08-08 04:24:17.735] Logic App Started
+[2024-08-08 04:25:03.705] Terminating apps
+[2024-08-08 04:25:03.744] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:25:04.257] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:25:04.759] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:25:05.259] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:25:05.760] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:25:06.261] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:25:06.763] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:25:07.265] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:25:07.767] Terminaton operated
+[2024-08-08 04:25:07.786] Terminaton operated
+[2024-08-08 04:25:07.787] Terminaton operated
+[2024-08-08 04:25:07.787] Terminaton operated
+[2024-08-08 04:25:07.787] Terminaton operated
+[2024-08-08 04:25:07.788] Terminaton operated
+[2024-08-08 04:25:07.788] Terminaton operated
+[2024-08-08 04:25:07.788] Terminaton operated
+[2024-08-08 04:25:07.789] All Apps Terminated
+[2024-08-08 04:25:07.792] Keyboard Interrupt!!!
+[2024-08-08 04:25:07.792] Terminating apps
+[2024-08-08 04:25:07.793] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:25:08.294] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:25:08.796] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:25:09.297] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:25:09.798] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:25:10.299] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:25:10.801] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:25:11.302] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:25:11.803] Terminaton operated
+[2024-08-08 04:25:11.803] Terminaton operated
+[2024-08-08 04:25:11.804] Terminaton operated
+[2024-08-08 04:25:11.804] Terminaton operated
+[2024-08-08 04:25:11.804] Terminaton operated
+[2024-08-08 04:25:11.805] Terminaton operated
+[2024-08-08 04:25:11.805] Terminaton operated
+[2024-08-08 04:25:11.806] Terminaton operated
+[2024-08-08 04:25:11.806] All Apps Terminated
+[2024-08-08 04:47:04.550] Log file generated
+[2024-08-08 04:47:04.562] Starting Apps
+
+[2024-08-08 04:47:04.563] Starting Communication Core App
+[2024-08-08 04:47:04.578] Waiting Until Server Starts
+[2024-08-08 04:47:04.582] Communication Core App Started
+[2024-08-08 04:47:05.080] Server Connected
+[2024-08-08 04:47:05.180] Starting Telemetry App
+[2024-08-08 04:47:05.187] Telemetry App Started
+[2024-08-08 04:47:05.283] Starting BerryimuAccGyro App
+[2024-08-08 04:47:05.291] BerryimuAccGyro App Started
+[2024-08-08 04:47:05.387] Starting BerryimuBarometer App
+[2024-08-08 04:47:05.396] BerryimuBarometer App Started
+[2024-08-08 04:47:05.492] Starting BerryimuGps App
+[2024-08-08 04:47:05.501] BerryimuGps App Started
+[2024-08-08 04:47:05.597] Starting Motor App
+[2024-08-08 04:47:05.615] Motor App Started
+[2024-08-08 04:47:05.704] Starting Camera App
+[2024-08-08 04:47:05.723] Camera App Started
+[2024-08-08 04:47:05.814] Starting Logic App
+[2024-08-08 04:47:05.823] Logic App Started
+[2024-08-08 04:47:44.672] Terminating apps
+[2024-08-08 04:47:44.718] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:47:45.237] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:47:45.738] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:47:46.241] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:47:46.742] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:47:47.246] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:47:47.746] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:47:48.247] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:47:48.748] Terminaton operated
+[2024-08-08 04:47:48.796] Terminaton operated
+[2024-08-08 04:47:48.801] Terminaton operated
+[2024-08-08 04:47:48.802] Terminaton operated
+[2024-08-08 04:47:48.804] Terminaton operated
+[2024-08-08 04:47:48.804] Terminaton operated
+[2024-08-08 04:47:48.806] Terminaton operated
+[2024-08-08 04:47:48.808] Terminaton operated
+[2024-08-08 04:47:48.809] All Apps Terminated
+[2024-08-08 04:47:48.814] Keyboard Interrupt!!!
+[2024-08-08 04:47:48.814] Terminating apps
+[2024-08-08 04:47:48.815] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:47:49.316] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:47:49.818] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:47:50.319] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:47:50.821] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:47:51.322] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:47:51.822] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:47:52.324] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:47:52.825] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] Terminaton operated
+[2024-08-08 04:47:52.826] All Apps Terminated
+[2024-08-08 04:50:55.706] Log file generated
+[2024-08-08 04:50:55.708] Starting Apps
+
+[2024-08-08 04:50:55.708] Starting Communication Core App
+[2024-08-08 04:50:55.723] Waiting Until Server Starts
+[2024-08-08 04:50:55.727] Communication Core App Started
+[2024-08-08 04:50:56.224] Server Connected
+[2024-08-08 04:50:56.325] Starting Telemetry App
+[2024-08-08 04:50:56.332] Telemetry App Started
+[2024-08-08 04:50:56.428] Starting BerryimuAccGyro App
+[2024-08-08 04:50:56.435] BerryimuAccGyro App Started
+[2024-08-08 04:50:56.531] Starting BerryimuBarometer App
+[2024-08-08 04:50:56.539] BerryimuBarometer App Started
+[2024-08-08 04:50:56.635] Starting BerryimuGps App
+[2024-08-08 04:50:56.644] BerryimuGps App Started
+[2024-08-08 04:50:56.740] Starting Motor App
+[2024-08-08 04:50:56.762] Motor App Started
+[2024-08-08 04:50:56.850] Starting Camera App
+[2024-08-08 04:50:56.863] Camera App Started
+[2024-08-08 04:50:56.957] Starting Logic App
+[2024-08-08 04:50:56.968] Logic App Started
+[2024-08-08 04:51:19.858] Terminating apps
+[2024-08-08 04:51:19.868] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:51:20.369] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:51:20.870] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:51:21.370] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:51:21.871] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:51:22.372] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:51:22.872] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:51:23.373] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:51:23.874] Terminaton operated
+[2024-08-08 04:51:23.878] Terminaton operated
+[2024-08-08 04:51:23.878] Terminaton operated
+[2024-08-08 04:51:23.879] Terminaton operated
+[2024-08-08 04:51:23.879] Terminaton operated
+[2024-08-08 04:51:23.879] Terminaton operated
+[2024-08-08 04:51:23.879] Terminaton operated
+[2024-08-08 04:51:23.880] Terminaton operated
+[2024-08-08 04:51:23.880] All Apps Terminated
+[2024-08-08 04:51:23.881] Keyboard Interrupt!!!
+[2024-08-08 04:51:23.881] Terminating apps
+[2024-08-08 04:51:23.881] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:51:24.382] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:51:24.883] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:51:25.384] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:51:25.885] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:51:26.386] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:51:26.887] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:51:27.388] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:51:27.888] Terminaton operated
+[2024-08-08 04:51:27.889] Terminaton operated
+[2024-08-08 04:51:27.889] Terminaton operated
+[2024-08-08 04:51:27.889] Terminaton operated
+[2024-08-08 04:51:27.889] Terminaton operated
+[2024-08-08 04:51:27.889] Terminaton operated
+[2024-08-08 04:51:27.889] Terminaton operated
+[2024-08-08 04:51:27.890] Terminaton operated
+[2024-08-08 04:51:27.890] All Apps Terminated
+[2024-08-08 04:52:00.089] Log file generated
+[2024-08-08 04:52:00.102] Starting Apps
+
+[2024-08-08 04:52:00.102] Starting Communication Core App
+[2024-08-08 04:52:00.118] Waiting Until Server Starts
+[2024-08-08 04:52:00.121] Communication Core App Started
+[2024-08-08 04:52:00.622] Server Connected
+[2024-08-08 04:52:00.723] Starting Telemetry App
+[2024-08-08 04:52:00.729] Telemetry App Started
+[2024-08-08 04:52:00.826] Starting BerryimuAccGyro App
+[2024-08-08 04:52:00.833] BerryimuAccGyro App Started
+[2024-08-08 04:52:00.929] Starting BerryimuBarometer App
+[2024-08-08 04:52:00.937] BerryimuBarometer App Started
+[2024-08-08 04:52:01.033] Starting BerryimuGps App
+[2024-08-08 04:52:01.041] BerryimuGps App Started
+[2024-08-08 04:52:01.137] Starting Motor App
+[2024-08-08 04:52:01.147] Motor App Started
+[2024-08-08 04:52:01.241] Starting Camera App
+[2024-08-08 04:52:01.256] Camera App Started
+[2024-08-08 04:52:01.351] Starting Logic App
+[2024-08-08 04:52:01.372] Logic App Started
+[2024-08-08 04:52:40.591] Terminating apps
+[2024-08-08 04:52:40.613] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:52:41.126] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:52:41.627] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:52:42.128] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:52:42.629] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:52:43.131] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:52:43.631] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:52:44.132] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:52:44.633] Terminaton operated
+[2024-08-08 04:52:44.656] Terminaton operated
+[2024-08-08 04:52:44.657] Terminaton operated
+[2024-08-08 04:52:44.657] Terminaton operated
+[2024-08-08 04:52:44.658] Terminaton operated
+[2024-08-08 04:52:44.658] Terminaton operated
+[2024-08-08 04:52:44.659] Terminaton operated
+[2024-08-08 04:52:44.660] Terminaton operated
+[2024-08-08 04:52:44.661] All Apps Terminated
+[2024-08-08 04:52:44.664] Keyboard Interrupt!!!
+[2024-08-08 04:52:44.664] Terminating apps
+[2024-08-08 04:52:44.664] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:52:45.164] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:52:45.666] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:52:46.167] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:52:46.668] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:52:47.169] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:52:47.671] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:52:48.172] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.673] Terminaton operated
+[2024-08-08 04:52:48.674] Terminaton operated
+[2024-08-08 04:52:48.674] All Apps Terminated
+[2024-08-08 04:57:17.777] Log file generated
+[2024-08-08 04:57:17.790] Starting Apps
+
+[2024-08-08 04:57:17.791] Starting Communication Core App
+[2024-08-08 04:57:17.808] Waiting Until Server Starts
+[2024-08-08 04:57:17.811] Communication Core App Started
+[2024-08-08 04:57:18.309] Server Connected
+[2024-08-08 04:57:18.410] Starting Telemetry App
+[2024-08-08 04:57:18.417] Telemetry App Started
+[2024-08-08 04:57:18.513] Starting BerryimuAccGyro App
+[2024-08-08 04:57:18.521] BerryimuAccGyro App Started
+[2024-08-08 04:57:18.617] Starting BerryimuBarometer App
+[2024-08-08 04:57:18.626] BerryimuBarometer App Started
+[2024-08-08 04:57:18.721] Starting BerryimuGps App
+[2024-08-08 04:57:18.732] BerryimuGps App Started
+[2024-08-08 04:57:18.828] Starting Motor App
+[2024-08-08 04:57:18.839] Motor App Started
+[2024-08-08 04:57:18.934] Starting Camera App
+[2024-08-08 04:57:18.949] Camera App Started
+[2024-08-08 04:57:19.042] Starting Logic App
+[2024-08-08 04:57:19.049] Logic App Started
+[2024-08-08 04:57:55.723] Terminating apps
+[2024-08-08 04:57:55.812] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:57:56.332] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:57:56.834] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:57:57.335] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:57:57.836] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:57:58.336] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:57:58.837] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:57:59.338] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:57:59.838] Terminaton operated
+[2024-08-08 04:57:59.891] Terminaton operated
+[2024-08-08 04:57:59.892] Terminaton operated
+[2024-08-08 04:57:59.893] Terminaton operated
+[2024-08-08 04:57:59.894] Terminaton operated
+[2024-08-08 04:57:59.894] Terminaton operated
+[2024-08-08 04:57:59.894] Terminaton operated
+[2024-08-08 04:57:59.895] Terminaton operated
+[2024-08-08 04:57:59.895] All Apps Terminated
+[2024-08-08 04:57:59.902] Keyboard Interrupt!!!
+[2024-08-08 04:57:59.902] Terminating apps
+[2024-08-08 04:57:59.902] msg to send : 0|8|1001|Terminate
+[2024-08-08 04:58:00.403] msg to send : 0|7|1001|Terminate
+[2024-08-08 04:58:00.905] msg to send : 0|6|1001|Terminate
+[2024-08-08 04:58:01.406] msg to send : 0|5|1001|Terminate
+[2024-08-08 04:58:01.907] msg to send : 0|4|1001|Terminate
+[2024-08-08 04:58:02.408] msg to send : 0|3|1001|Terminate
+[2024-08-08 04:58:02.910] msg to send : 0|2|1001|Terminate
+[2024-08-08 04:58:03.411] msg to send : 0|1|1001|Terminate
+[2024-08-08 04:58:03.911] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] Terminaton operated
+[2024-08-08 04:58:03.912] All Apps Terminated
+[2024-08-08 05:01:06.751] Log file generated
+[2024-08-08 05:01:06.763] Starting Apps
+
+[2024-08-08 05:01:06.763] Starting Communication Core App
+[2024-08-08 05:01:06.778] Waiting Until Server Starts
+[2024-08-08 05:01:06.781] Communication Core App Started
+[2024-08-08 05:01:07.282] Server Connected
+[2024-08-08 05:01:07.383] Starting Telemetry App
+[2024-08-08 05:01:07.389] Telemetry App Started
+[2024-08-08 05:01:07.485] Starting BerryimuAccGyro App
+[2024-08-08 05:01:07.493] BerryimuAccGyro App Started
+[2024-08-08 05:01:07.589] Starting BerryimuBarometer App
+[2024-08-08 05:01:07.598] BerryimuBarometer App Started
+[2024-08-08 05:01:07.694] Starting BerryimuGps App
+[2024-08-08 05:01:07.703] BerryimuGps App Started
+[2024-08-08 05:01:07.801] Starting Motor App
+[2024-08-08 05:01:07.811] Motor App Started
+[2024-08-08 05:01:07.909] Starting Camera App
+[2024-08-08 05:01:07.919] Camera App Started
+[2024-08-08 05:01:08.015] Starting Logic App
+[2024-08-08 05:01:08.024] Logic App Started
+[2024-08-08 05:01:56.150] Terminating apps
+[2024-08-08 05:01:56.192] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:01:56.706] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:01:57.207] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:01:57.709] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:01:58.209] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:01:58.710] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:01:59.211] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:01:59.713] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:02:00.214] Terminaton operated
+[2024-08-08 05:02:00.243] Terminaton operated
+[2024-08-08 05:02:00.244] Terminaton operated
+[2024-08-08 05:02:00.244] Terminaton operated
+[2024-08-08 05:02:00.246] Terminaton operated
+[2024-08-08 05:02:00.247] Terminaton operated
+[2024-08-08 05:02:00.248] Terminaton operated
+[2024-08-08 05:02:00.249] Terminaton operated
+[2024-08-08 05:02:00.250] All Apps Terminated
+[2024-08-08 05:02:00.254] Keyboard Interrupt!!!
+[2024-08-08 05:02:00.255] Terminating apps
+[2024-08-08 05:02:00.255] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:02:00.756] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:02:01.258] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:02:01.759] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:02:02.261] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:02:02.762] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:02:03.264] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:02:03.765] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] Terminaton operated
+[2024-08-08 05:02:04.266] All Apps Terminated
+[2024-08-08 05:05:56.065] Log file generated
+[2024-08-08 05:05:56.078] Starting Apps
+
+[2024-08-08 05:05:56.078] Starting Communication Core App
+[2024-08-08 05:05:56.095] Waiting Until Server Starts
+[2024-08-08 05:05:56.099] Communication Core App Started
+[2024-08-08 05:05:56.596] Server Connected
+[2024-08-08 05:05:56.697] Starting Telemetry App
+[2024-08-08 05:05:56.704] Telemetry App Started
+[2024-08-08 05:05:56.800] Starting BerryimuAccGyro App
+[2024-08-08 05:05:56.808] BerryimuAccGyro App Started
+[2024-08-08 05:05:56.904] Starting BerryimuBarometer App
+[2024-08-08 05:05:56.913] BerryimuBarometer App Started
+[2024-08-08 05:05:57.009] Starting BerryimuGps App
+[2024-08-08 05:05:57.024] BerryimuGps App Started
+[2024-08-08 05:05:57.119] Starting Motor App
+[2024-08-08 05:05:57.129] Motor App Started
+[2024-08-08 05:05:57.225] Starting Camera App
+[2024-08-08 05:05:57.239] Camera App Started
+[2024-08-08 05:05:57.334] Starting Logic App
+[2024-08-08 05:05:57.342] Logic App Started
+[2024-08-08 05:06:20.694] Terminating apps
+[2024-08-08 05:06:20.751] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:06:21.273] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:06:21.774] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:06:22.276] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:06:22.777] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:06:23.279] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:06:23.780] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:06:24.281] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:06:24.781] Terminaton operated
+[2024-08-08 05:06:24.833] Terminaton operated
+[2024-08-08 05:06:24.838] Terminaton operated
+[2024-08-08 05:06:24.839] Terminaton operated
+[2024-08-08 05:06:24.841] Terminaton operated
+[2024-08-08 05:06:24.841] Terminaton operated
+[2024-08-08 05:06:24.843] Terminaton operated
+[2024-08-08 05:06:24.843] Terminaton operated
+[2024-08-08 05:06:24.844] All Apps Terminated
+[2024-08-08 05:06:24.847] Keyboard Interrupt!!!
+[2024-08-08 05:06:24.847] Terminating apps
+[2024-08-08 05:06:24.848] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:06:25.349] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:06:25.851] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:06:26.351] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:06:26.853] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:06:27.353] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:06:27.854] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:06:28.355] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:06:28.856] Terminaton operated
+[2024-08-08 05:06:28.856] Terminaton operated
+[2024-08-08 05:06:28.856] Terminaton operated
+[2024-08-08 05:06:28.857] Terminaton operated
+[2024-08-08 05:06:28.857] Terminaton operated
+[2024-08-08 05:06:28.857] Terminaton operated
+[2024-08-08 05:06:28.857] Terminaton operated
+[2024-08-08 05:06:28.857] Terminaton operated
+[2024-08-08 05:06:28.857] All Apps Terminated
+[2024-08-08 05:09:27.463] Log file generated
+[2024-08-08 05:09:27.464] Starting Apps
+
+[2024-08-08 05:09:27.464] Starting Communication Core App
+[2024-08-08 05:09:27.480] Waiting Until Server Starts
+[2024-08-08 05:09:27.484] Communication Core App Started
+[2024-08-08 05:09:27.981] Server Connected
+[2024-08-08 05:09:28.481] Starting Telemetry App
+[2024-08-08 05:09:28.489] Telemetry App Started
+[2024-08-08 05:09:28.985] Starting BerryimuAccGyro App
+[2024-08-08 05:09:28.992] BerryimuAccGyro App Started
+[2024-08-08 05:09:29.488] Starting BerryimuBarometer App
+[2024-08-08 05:09:29.495] BerryimuBarometer App Started
+[2024-08-08 05:09:29.991] Starting BerryimuGps App
+[2024-08-08 05:09:29.998] BerryimuGps App Started
+[2024-08-08 05:09:30.494] Starting Motor App
+[2024-08-08 05:09:30.501] Motor App Started
+[2024-08-08 05:09:30.997] Starting Camera App
+[2024-08-08 05:09:31.006] Camera App Started
+[2024-08-08 05:09:31.501] Starting Logic App
+[2024-08-08 05:09:31.510] Logic App Started
+[2024-08-08 05:10:25.387] Terminating apps
+[2024-08-08 05:10:25.435] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:10:25.956] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:10:26.457] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:10:26.958] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:10:27.459] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:10:27.959] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:10:28.460] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:10:28.961] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:10:29.462] Terminaton operated
+[2024-08-08 05:10:29.578] Terminaton operated
+[2024-08-08 05:10:29.588] Terminaton operated
+[2024-08-08 05:10:29.596] Terminaton operated
+[2024-08-08 05:10:29.604] Terminaton operated
+[2024-08-08 05:10:29.604] Terminaton operated
+[2024-08-08 05:10:29.604] Terminaton operated
+[2024-08-08 05:10:29.605] Terminaton operated
+[2024-08-08 05:10:29.605] All Apps Terminated
+[2024-08-08 05:10:29.615] Keyboard Interrupt!!!
+[2024-08-08 05:10:29.615] Terminating apps
+[2024-08-08 05:10:29.615] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:10:30.118] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:10:30.621] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:10:31.122] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:10:31.623] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:10:32.124] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:10:32.625] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:10:33.126] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:10:33.626] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] Terminaton operated
+[2024-08-08 05:10:33.627] All Apps Terminated
+[2024-08-08 05:11:00.595] Log file generated
+[2024-08-08 05:11:00.595] Starting Apps
+
+[2024-08-08 05:11:00.596] Starting Communication Core App
+[2024-08-08 05:11:00.611] Waiting Until Server Starts
+[2024-08-08 05:11:00.614] Communication Core App Started
+[2024-08-08 05:11:01.112] Server Connected
+[2024-08-08 05:11:01.613] Starting Telemetry App
+[2024-08-08 05:11:01.619] Telemetry App Started
+[2024-08-08 05:11:02.116] Starting BerryimuAccGyro App
+[2024-08-08 05:11:02.123] BerryimuAccGyro App Started
+[2024-08-08 05:11:02.619] Starting BerryimuBarometer App
+[2024-08-08 05:11:02.626] BerryimuBarometer App Started
+[2024-08-08 05:11:03.122] Starting BerryimuGps App
+[2024-08-08 05:11:03.129] BerryimuGps App Started
+[2024-08-08 05:11:03.625] Starting Motor App
+[2024-08-08 05:11:03.632] Motor App Started
+[2024-08-08 05:11:04.128] Starting Camera App
+[2024-08-08 05:11:04.137] Camera App Started
+[2024-08-08 05:11:04.632] Starting Logic App
+[2024-08-08 05:11:04.641] Logic App Started
+[2024-08-08 05:11:10.650] Terminating apps
+[2024-08-08 05:11:10.654] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:11:11.159] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:11:11.659] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:11:12.160] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:11:12.662] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:11:13.162] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:11:13.663] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:11:14.164] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:11:14.687] Terminaton operated
+[2024-08-08 05:11:14.690] Terminaton operated
+[2024-08-08 05:11:14.691] Terminaton operated
+[2024-08-08 05:11:14.691] Terminaton operated
+[2024-08-08 05:11:14.691] Terminaton operated
+[2024-08-08 05:11:14.691] Terminaton operated
+[2024-08-08 05:11:14.692] Terminaton operated
+[2024-08-08 05:11:14.694] Terminaton operated
+[2024-08-08 05:11:14.695] All Apps Terminated
+[2024-08-08 05:11:14.695] Keyboard Interrupt!!!
+[2024-08-08 05:11:14.696] Terminating apps
+[2024-08-08 05:11:14.696] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:11:15.197] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:11:15.698] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:11:16.199] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:11:16.699] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:11:17.200] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:11:17.701] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:11:18.201] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:11:18.702] Terminaton operated
+[2024-08-08 05:11:18.702] Terminaton operated
+[2024-08-08 05:11:18.702] Terminaton operated
+[2024-08-08 05:11:18.703] Terminaton operated
+[2024-08-08 05:11:18.703] Terminaton operated
+[2024-08-08 05:11:18.703] Terminaton operated
+[2024-08-08 05:11:18.703] Terminaton operated
+[2024-08-08 05:11:18.703] Terminaton operated
+[2024-08-08 05:11:18.703] All Apps Terminated
+[2024-08-08 05:12:07.721] Log file generated
+[2024-08-08 05:12:07.721] Starting Apps
+
+[2024-08-08 05:12:07.722] Starting Communication Core App
+[2024-08-08 05:12:07.736] Waiting Until Server Starts
+[2024-08-08 05:12:07.740] Communication Core App Started
+[2024-08-08 05:12:08.238] Server Connected
+[2024-08-08 05:12:08.738] Starting Telemetry App
+[2024-08-08 05:12:08.745] Telemetry App Started
+[2024-08-08 05:12:09.241] Starting BerryimuAccGyro App
+[2024-08-08 05:12:09.248] BerryimuAccGyro App Started
+[2024-08-08 05:12:09.745] Starting BerryimuBarometer App
+[2024-08-08 05:12:09.752] BerryimuBarometer App Started
+[2024-08-08 05:12:10.248] Starting BerryimuGps App
+[2024-08-08 05:12:10.255] BerryimuGps App Started
+[2024-08-08 05:12:10.751] Starting Motor App
+[2024-08-08 05:12:10.758] Motor App Started
+[2024-08-08 05:12:11.254] Starting Camera App
+[2024-08-08 05:12:11.263] Camera App Started
+[2024-08-08 05:12:11.758] Starting Logic App
+[2024-08-08 05:12:11.765] Logic App Started
+[2024-08-08 05:12:15.573] Terminating apps
+[2024-08-08 05:12:15.578] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:12:16.080] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:12:16.581] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:12:17.082] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:12:17.583] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:12:18.084] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:12:18.584] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:12:19.085] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:12:19.586] Terminaton operated
+[2024-08-08 05:12:19.589] Terminaton operated
+[2024-08-08 05:12:19.590] Terminaton operated
+[2024-08-08 05:12:19.590] Terminaton operated
+[2024-08-08 05:12:19.590] Terminaton operated
+[2024-08-08 05:12:19.591] Terminaton operated
+[2024-08-08 05:12:19.591] Terminaton operated
+[2024-08-08 05:12:19.593] Terminaton operated
+[2024-08-08 05:12:19.594] All Apps Terminated
+[2024-08-08 05:12:19.594] Keyboard Interrupt!!!
+[2024-08-08 05:12:19.594] Terminating apps
+[2024-08-08 05:12:19.595] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:12:20.095] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:12:20.596] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:12:21.097] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:12:21.598] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:12:22.098] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:12:22.599] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:12:23.100] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:12:23.601] Terminaton operated
+[2024-08-08 05:12:23.601] Terminaton operated
+[2024-08-08 05:12:23.601] Terminaton operated
+[2024-08-08 05:12:23.602] Terminaton operated
+[2024-08-08 05:12:23.602] Terminaton operated
+[2024-08-08 05:12:23.603] Terminaton operated
+[2024-08-08 05:12:23.603] Terminaton operated
+[2024-08-08 05:12:23.603] Terminaton operated
+[2024-08-08 05:12:23.603] All Apps Terminated
+[2024-08-08 05:12:56.353] Log file generated
+[2024-08-08 05:12:56.353] Starting Apps
+
+[2024-08-08 05:12:56.353] Starting Communication Core App
+[2024-08-08 05:12:56.368] Waiting Until Server Starts
+[2024-08-08 05:12:56.372] Communication Core App Started
+[2024-08-08 05:12:56.870] Server Connected
+[2024-08-08 05:12:57.370] Starting Telemetry App
+[2024-08-08 05:12:57.380] Telemetry App Started
+[2024-08-08 05:12:57.874] Starting BerryimuAccGyro App
+[2024-08-08 05:12:57.884] BerryimuAccGyro App Started
+[2024-08-08 05:12:58.380] Starting BerryimuBarometer App
+[2024-08-08 05:12:58.387] BerryimuBarometer App Started
+[2024-08-08 05:12:58.883] Starting BerryimuGps App
+[2024-08-08 05:12:58.891] BerryimuGps App Started
+[2024-08-08 05:12:59.387] Starting Motor App
+[2024-08-08 05:12:59.394] Motor App Started
+[2024-08-08 05:12:59.890] Starting Camera App
+[2024-08-08 05:12:59.898] Camera App Started
+[2024-08-08 05:13:00.394] Starting Logic App
+[2024-08-08 05:13:00.401] Logic App Started
+[2024-08-08 05:13:06.851] Terminating apps
+[2024-08-08 05:13:06.928] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:13:07.430] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:13:07.931] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:13:08.433] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:13:08.934] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:13:09.435] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:13:09.936] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:13:10.438] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:13:10.938] Terminaton operated
+[2024-08-08 05:13:10.942] Terminaton operated
+[2024-08-08 05:13:10.943] Terminaton operated
+[2024-08-08 05:13:10.943] Terminaton operated
+[2024-08-08 05:13:10.943] Terminaton operated
+[2024-08-08 05:13:10.943] Terminaton operated
+[2024-08-08 05:13:10.943] Terminaton operated
+[2024-08-08 05:13:10.946] Terminaton operated
+[2024-08-08 05:13:10.947] All Apps Terminated
+[2024-08-08 05:13:10.949] Keyboard Interrupt!!!
+[2024-08-08 05:13:10.949] Terminating apps
+[2024-08-08 05:13:10.949] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:13:11.450] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:13:11.951] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:13:12.452] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:13:12.953] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:13:13.454] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:13:13.955] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:13:14.456] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:13:14.957] Terminaton operated
+[2024-08-08 05:13:14.957] Terminaton operated
+[2024-08-08 05:13:14.957] Terminaton operated
+[2024-08-08 05:13:14.958] Terminaton operated
+[2024-08-08 05:13:14.958] Terminaton operated
+[2024-08-08 05:13:14.958] Terminaton operated
+[2024-08-08 05:13:14.958] Terminaton operated
+[2024-08-08 05:13:14.958] Terminaton operated
+[2024-08-08 05:13:14.958] All Apps Terminated
+[2024-08-08 05:13:48.297] Log file generated
+[2024-08-08 05:13:48.303] Starting Apps
+
+[2024-08-08 05:13:48.303] Starting Communication Core App
+[2024-08-08 05:13:48.318] Waiting Until Server Starts
+[2024-08-08 05:13:48.327] Communication Core App Started
+[2024-08-08 05:13:48.820] Server Connected
+[2024-08-08 05:13:49.320] Starting Telemetry App
+[2024-08-08 05:13:49.327] Telemetry App Started
+[2024-08-08 05:13:49.823] Starting BerryimuAccGyro App
+[2024-08-08 05:13:49.831] BerryimuAccGyro App Started
+[2024-08-08 05:13:50.327] Starting BerryimuBarometer App
+[2024-08-08 05:13:50.336] BerryimuBarometer App Started
+[2024-08-08 05:13:50.831] Starting BerryimuGps App
+[2024-08-08 05:13:50.839] BerryimuGps App Started
+[2024-08-08 05:13:51.335] Starting Motor App
+[2024-08-08 05:13:51.342] Motor App Started
+[2024-08-08 05:13:51.838] Starting Camera App
+[2024-08-08 05:13:51.848] Camera App Started
+[2024-08-08 05:13:52.344] Starting Logic App
+[2024-08-08 05:13:52.352] Logic App Started
+[2024-08-08 05:14:00.579] Terminating apps
+[2024-08-08 05:14:00.590] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:14:01.092] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:14:01.593] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:14:02.094] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:14:02.595] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:14:03.095] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:14:03.596] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:14:04.097] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:14:04.598] Terminaton operated
+[2024-08-08 05:14:04.614] Terminaton operated
+[2024-08-08 05:14:04.615] Terminaton operated
+[2024-08-08 05:14:04.615] Terminaton operated
+[2024-08-08 05:14:04.616] Terminaton operated
+[2024-08-08 05:14:04.617] Terminaton operated
+[2024-08-08 05:14:04.618] Terminaton operated
+[2024-08-08 05:14:04.622] Terminaton operated
+[2024-08-08 05:14:04.623] All Apps Terminated
+[2024-08-08 05:14:04.628] Keyboard Interrupt!!!
+[2024-08-08 05:14:04.628] Terminating apps
+[2024-08-08 05:14:04.629] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:14:05.129] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:14:05.630] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:14:06.131] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:14:06.632] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:14:07.133] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:14:07.634] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:14:08.135] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:14:08.636] Terminaton operated
+[2024-08-08 05:14:08.636] Terminaton operated
+[2024-08-08 05:14:08.636] Terminaton operated
+[2024-08-08 05:14:08.636] Terminaton operated
+[2024-08-08 05:14:08.637] Terminaton operated
+[2024-08-08 05:14:08.637] Terminaton operated
+[2024-08-08 05:14:08.637] Terminaton operated
+[2024-08-08 05:14:08.637] Terminaton operated
+[2024-08-08 05:14:08.637] All Apps Terminated
+[2024-08-08 05:15:06.857] Log file generated
+[2024-08-08 05:15:06.857] Starting Apps
+
+[2024-08-08 05:15:06.858] Starting Communication Core App
+[2024-08-08 05:15:06.873] Waiting Until Server Starts
+[2024-08-08 05:15:06.877] Communication Core App Started
+[2024-08-08 05:15:07.375] Server Connected
+[2024-08-08 05:15:07.875] Starting Telemetry App
+[2024-08-08 05:15:07.882] Telemetry App Started
+[2024-08-08 05:15:08.378] Starting BerryimuAccGyro App
+[2024-08-08 05:15:08.386] BerryimuAccGyro App Started
+[2024-08-08 05:15:08.883] Starting BerryimuBarometer App
+[2024-08-08 05:15:08.890] BerryimuBarometer App Started
+[2024-08-08 05:15:09.386] Starting BerryimuGps App
+[2024-08-08 05:15:09.396] BerryimuGps App Started
+[2024-08-08 05:15:09.891] Starting Motor App
+[2024-08-08 05:15:09.898] Motor App Started
+[2024-08-08 05:15:10.394] Starting Camera App
+[2024-08-08 05:15:10.402] Camera App Started
+[2024-08-08 05:15:10.898] Starting Logic App
+[2024-08-08 05:15:10.905] Logic App Started
+[2024-08-08 05:15:14.526] Terminating apps
+[2024-08-08 05:15:14.529] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:15:15.031] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:15:15.531] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:15:16.032] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:15:16.533] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:15:17.034] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:15:17.535] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:15:18.036] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:15:18.537] Terminaton operated
+[2024-08-08 05:15:18.540] Terminaton operated
+[2024-08-08 05:15:18.541] Terminaton operated
+[2024-08-08 05:15:18.541] Terminaton operated
+[2024-08-08 05:15:18.541] Terminaton operated
+[2024-08-08 05:15:18.542] Terminaton operated
+[2024-08-08 05:15:18.542] Terminaton operated
+[2024-08-08 05:15:18.545] Terminaton operated
+[2024-08-08 05:15:18.545] All Apps Terminated
+[2024-08-08 05:15:18.546] Keyboard Interrupt!!!
+[2024-08-08 05:15:18.546] Terminating apps
+[2024-08-08 05:15:18.547] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:15:19.047] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:15:19.704] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:15:20.205] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:15:20.706] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:15:21.207] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:15:21.709] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:15:22.209] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:15:22.710] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] Terminaton operated
+[2024-08-08 05:15:22.711] All Apps Terminated
+[2024-08-08 05:17:07.608] Log file generated
+[2024-08-08 05:17:07.608] Starting Apps
+
+[2024-08-08 05:17:07.609] Starting Communication Core App
+[2024-08-08 05:17:07.660] Waiting Until Server Starts
+[2024-08-08 05:17:07.664] Communication Core App Started
+[2024-08-08 05:17:08.161] Server Connected
+[2024-08-08 05:17:08.662] Starting Telemetry App
+[2024-08-08 05:17:08.669] Telemetry App Started
+[2024-08-08 05:17:09.165] Starting BerryimuAccGyro App
+[2024-08-08 05:17:09.172] BerryimuAccGyro App Started
+[2024-08-08 05:17:09.668] Starting BerryimuBarometer App
+[2024-08-08 05:17:09.675] BerryimuBarometer App Started
+[2024-08-08 05:17:10.172] Starting BerryimuGps App
+[2024-08-08 05:17:10.179] BerryimuGps App Started
+[2024-08-08 05:17:10.675] Starting Motor App
+[2024-08-08 05:17:10.682] Motor App Started
+[2024-08-08 05:17:11.178] Starting Camera App
+[2024-08-08 05:17:11.186] Camera App Started
+[2024-08-08 05:17:11.682] Starting Logic App
+[2024-08-08 05:17:11.690] Logic App Started
+[2024-08-08 05:17:42.315] Terminating apps
+[2024-08-08 05:17:42.317] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:17:42.819] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:17:43.319] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:17:43.820] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:17:44.321] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:17:44.823] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:17:45.324] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:17:45.825] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:17:46.326] Terminaton operated
+[2024-08-08 05:17:46.330] Terminaton operated
+[2024-08-08 05:17:46.331] Terminaton operated
+[2024-08-08 05:17:46.331] Terminaton operated
+[2024-08-08 05:17:46.331] Terminaton operated
+[2024-08-08 05:17:46.331] Terminaton operated
+[2024-08-08 05:17:46.331] Terminaton operated
+[2024-08-08 05:17:46.332] Terminaton operated
+[2024-08-08 05:17:46.332] All Apps Terminated
+[2024-08-08 05:17:46.332] Keyboard Interrupt!!!
+[2024-08-08 05:17:46.332] Terminating apps
+[2024-08-08 05:17:46.333] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:17:46.833] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:17:47.334] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:17:47.835] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:17:48.336] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:17:48.836] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:17:49.337] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:17:49.838] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:17:50.338] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] Terminaton operated
+[2024-08-08 05:17:50.339] All Apps Terminated
+[2024-08-08 05:21:16.231] Log file generated
+[2024-08-08 05:21:16.244] Starting Apps
+
+[2024-08-08 05:21:16.244] Starting Communication Core App
+[2024-08-08 05:21:16.259] Waiting Until Server Starts
+[2024-08-08 05:21:16.263] Communication Core App Started
+[2024-08-08 05:21:16.760] Server Connected
+[2024-08-08 05:21:17.261] Starting Telemetry App
+[2024-08-08 05:21:17.268] Telemetry App Started
+[2024-08-08 05:21:17.764] Starting BerryimuAccGyro App
+[2024-08-08 05:21:17.771] BerryimuAccGyro App Started
+[2024-08-08 05:21:18.267] Starting BerryimuBarometer App
+[2024-08-08 05:21:18.275] BerryimuBarometer App Started
+[2024-08-08 05:21:18.772] Starting BerryimuGps App
+[2024-08-08 05:21:18.779] BerryimuGps App Started
+[2024-08-08 05:21:19.275] Starting Motor App
+[2024-08-08 05:21:19.283] Motor App Started
+[2024-08-08 05:21:19.779] Starting Camera App
+[2024-08-08 05:21:19.786] Camera App Started
+[2024-08-08 05:21:20.282] Starting Logic App
+[2024-08-08 05:21:20.292] Logic App Started
+[2024-08-08 05:22:32.756] Terminating apps
+[2024-08-08 05:22:32.761] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:22:33.263] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:22:33.764] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:22:34.264] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:22:34.765] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:22:35.267] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:22:35.768] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:22:36.269] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:22:36.770] Terminaton operated
+[2024-08-08 05:22:36.775] Terminaton operated
+[2024-08-08 05:22:36.776] Terminaton operated
+[2024-08-08 05:22:36.776] Terminaton operated
+[2024-08-08 05:22:36.778] Terminaton operated
+[2024-08-08 05:22:36.779] Terminaton operated
+[2024-08-08 05:22:36.779] Terminaton operated
+[2024-08-08 05:22:36.780] Terminaton operated
+[2024-08-08 05:22:36.780] All Apps Terminated
+[2024-08-08 05:22:36.780] Keyboard Interrupt!!!
+[2024-08-08 05:22:36.780] Terminating apps
+[2024-08-08 05:22:36.780] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:22:37.281] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:22:37.782] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:22:38.282] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:22:38.783] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:22:39.284] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:22:39.785] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:22:40.286] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:22:40.786] Terminaton operated
+[2024-08-08 05:22:40.787] Terminaton operated
+[2024-08-08 05:22:40.787] Terminaton operated
+[2024-08-08 05:22:40.788] Terminaton operated
+[2024-08-08 05:22:40.788] Terminaton operated
+[2024-08-08 05:22:40.788] Terminaton operated
+[2024-08-08 05:22:40.788] Terminaton operated
+[2024-08-08 05:22:40.788] Terminaton operated
+[2024-08-08 05:22:40.788] All Apps Terminated
+[2024-08-08 05:26:38.971] Log file generated
+[2024-08-08 05:26:38.983] Starting Apps
+
+[2024-08-08 05:26:38.983] Starting Communication Core App
+[2024-08-08 05:26:38.998] Waiting Until Server Starts
+[2024-08-08 05:26:39.002] Communication Core App Started
+[2024-08-08 05:26:39.502] Server Connected
+[2024-08-08 05:26:40.003] Starting Telemetry App
+[2024-08-08 05:26:40.010] Telemetry App Started
+[2024-08-08 05:26:40.506] Starting BerryimuAccGyro App
+[2024-08-08 05:26:40.513] BerryimuAccGyro App Started
+[2024-08-08 05:26:41.010] Starting BerryimuBarometer App
+[2024-08-08 05:26:41.017] BerryimuBarometer App Started
+[2024-08-08 05:26:41.513] Starting BerryimuGps App
+[2024-08-08 05:26:41.520] BerryimuGps App Started
+[2024-08-08 05:26:42.017] Starting Motor App
+[2024-08-08 05:26:42.023] Motor App Started
+[2024-08-08 05:26:42.519] Starting Camera App
+[2024-08-08 05:26:42.527] Camera App Started
+[2024-08-08 05:26:43.023] Starting Logic App
+[2024-08-08 05:26:43.031] Logic App Started
+[2024-08-08 05:27:31.767] Terminating apps
+[2024-08-08 05:27:31.791] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:27:32.299] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:27:32.799] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:27:33.301] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:27:33.802] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:27:34.302] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:27:34.803] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:27:35.304] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:27:35.805] Terminaton operated
+[2024-08-08 05:27:35.817] Terminaton operated
+[2024-08-08 05:27:35.818] Terminaton operated
+[2024-08-08 05:27:35.818] Terminaton operated
+[2024-08-08 05:27:35.820] Terminaton operated
+[2024-08-08 05:27:35.820] Terminaton operated
+[2024-08-08 05:27:35.821] Terminaton operated
+[2024-08-08 05:27:35.821] Terminaton operated
+[2024-08-08 05:27:35.822] All Apps Terminated
+[2024-08-08 05:27:35.822] Keyboard Interrupt!!!
+[2024-08-08 05:27:35.822] Terminating apps
+[2024-08-08 05:27:35.823] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:27:36.323] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:27:36.825] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:27:37.325] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:27:37.827] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:27:38.328] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:27:38.829] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:27:39.331] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:27:39.832] Terminaton operated
+[2024-08-08 05:27:39.832] Terminaton operated
+[2024-08-08 05:27:39.832] Terminaton operated
+[2024-08-08 05:27:39.832] Terminaton operated
+[2024-08-08 05:27:39.832] Terminaton operated
+[2024-08-08 05:27:39.832] Terminaton operated
+[2024-08-08 05:27:39.833] Terminaton operated
+[2024-08-08 05:27:39.833] Terminaton operated
+[2024-08-08 05:27:39.833] All Apps Terminated
+[2024-08-08 05:31:10.435] Log file generated
+[2024-08-08 05:31:10.447] Starting Apps
+
+[2024-08-08 05:31:10.447] Starting Communication Core App
+[2024-08-08 05:31:10.463] Waiting Until Server Starts
+[2024-08-08 05:31:10.466] Communication Core App Started
+[2024-08-08 05:31:10.964] Server Connected
+[2024-08-08 05:31:11.464] Starting Telemetry App
+[2024-08-08 05:31:11.471] Telemetry App Started
+[2024-08-08 05:31:11.967] Starting BerryimuAccGyro App
+[2024-08-08 05:31:11.974] BerryimuAccGyro App Started
+[2024-08-08 05:31:12.470] Starting BerryimuBarometer App
+[2024-08-08 05:31:12.477] BerryimuBarometer App Started
+[2024-08-08 05:31:12.973] Starting BerryimuGps App
+[2024-08-08 05:31:12.980] BerryimuGps App Started
+[2024-08-08 05:31:13.477] Starting Motor App
+[2024-08-08 05:31:13.484] Motor App Started
+[2024-08-08 05:31:13.980] Starting Camera App
+[2024-08-08 05:31:13.989] Camera App Started
+[2024-08-08 05:31:14.484] Starting Logic App
+[2024-08-08 05:31:15.053] Logic App Started
+[2024-08-08 05:31:34.359] Terminating apps
+[2024-08-08 05:31:34.410] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:31:34.934] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:31:35.435] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:31:35.937] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:31:36.438] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:31:36.940] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:31:37.441] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:31:37.942] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:31:38.444] Terminaton operated
+[2024-08-08 05:31:38.519] Terminaton operated
+[2024-08-08 05:31:38.525] Terminaton operated
+[2024-08-08 05:31:38.526] Terminaton operated
+[2024-08-08 05:31:38.527] Terminaton operated
+[2024-08-08 05:31:38.527] Terminaton operated
+[2024-08-08 05:31:38.530] Terminaton operated
+[2024-08-08 05:31:38.533] Terminaton operated
+[2024-08-08 05:31:38.535] All Apps Terminated
+[2024-08-08 05:31:38.543] Keyboard Interrupt!!!
+[2024-08-08 05:31:38.545] Terminating apps
+[2024-08-08 05:31:38.546] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:31:39.048] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:31:39.549] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:31:40.050] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:31:40.551] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:31:41.052] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:31:41.554] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:31:42.055] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:31:42.556] Terminaton operated
+[2024-08-08 05:31:42.556] Terminaton operated
+[2024-08-08 05:31:42.556] Terminaton operated
+[2024-08-08 05:31:42.557] Terminaton operated
+[2024-08-08 05:31:42.557] Terminaton operated
+[2024-08-08 05:31:42.557] Terminaton operated
+[2024-08-08 05:31:42.557] Terminaton operated
+[2024-08-08 05:31:42.557] Terminaton operated
+[2024-08-08 05:31:42.557] All Apps Terminated
+[2024-08-08 05:35:17.012] Log file generated
+[2024-08-08 05:35:17.014] Starting Apps
+
+[2024-08-08 05:35:17.015] Starting Communication Core App
+[2024-08-08 05:35:17.031] Waiting Until Server Starts
+[2024-08-08 05:35:17.035] Communication Core App Started
+[2024-08-08 05:35:17.532] Server Connected
+[2024-08-08 05:35:18.033] Starting Telemetry App
+[2024-08-08 05:35:18.040] Telemetry App Started
+[2024-08-08 05:35:18.536] Starting BerryimuAccGyro App
+[2024-08-08 05:35:18.543] BerryimuAccGyro App Started
+[2024-08-08 05:35:19.039] Starting BerryimuBarometer App
+[2024-08-08 05:35:19.050] BerryimuBarometer App Started
+[2024-08-08 05:35:19.545] Starting BerryimuGps App
+[2024-08-08 05:35:19.553] BerryimuGps App Started
+[2024-08-08 05:35:20.049] Starting Motor App
+[2024-08-08 05:35:20.057] Motor App Started
+[2024-08-08 05:35:20.553] Starting Camera App
+[2024-08-08 05:35:20.561] Camera App Started
+[2024-08-08 05:35:21.056] Starting Logic App
+[2024-08-08 05:35:21.064] Logic App Started
+[2024-08-08 05:36:05.027] Terminating apps
+[2024-08-08 05:36:05.078] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:36:05.592] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:36:06.093] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:36:06.599] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:36:07.100] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:36:07.601] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:36:08.102] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:36:08.604] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:36:09.105] Terminaton operated
+[2024-08-08 05:36:09.143] Terminaton operated
+[2024-08-08 05:36:09.147] Terminaton operated
+[2024-08-08 05:36:09.148] Terminaton operated
+[2024-08-08 05:36:09.150] Terminaton operated
+[2024-08-08 05:36:09.153] Terminaton operated
+[2024-08-08 05:36:09.155] Terminaton operated
+[2024-08-08 05:36:09.155] Terminaton operated
+[2024-08-08 05:36:09.156] All Apps Terminated
+[2024-08-08 05:36:09.158] Keyboard Interrupt!!!
+[2024-08-08 05:36:09.159] Terminating apps
+[2024-08-08 05:36:09.159] msg to send : 0|8|1001|Terminate
+[2024-08-08 05:36:09.661] msg to send : 0|7|1001|Terminate
+[2024-08-08 05:36:10.163] msg to send : 0|6|1001|Terminate
+[2024-08-08 05:36:10.663] msg to send : 0|5|1001|Terminate
+[2024-08-08 05:36:11.165] msg to send : 0|4|1001|Terminate
+[2024-08-08 05:36:11.666] msg to send : 0|3|1001|Terminate
+[2024-08-08 05:36:12.168] msg to send : 0|2|1001|Terminate
+[2024-08-08 05:36:12.669] msg to send : 0|1|1001|Terminate
+[2024-08-08 05:36:13.170] Terminaton operated
+[2024-08-08 05:36:13.171] Terminaton operated
+[2024-08-08 05:36:13.172] Terminaton operated
+[2024-08-08 05:36:13.172] Terminaton operated
+[2024-08-08 05:36:13.172] Terminaton operated
+[2024-08-08 05:36:13.172] Terminaton operated
+[2024-08-08 05:36:13.172] Terminaton operated
+[2024-08-08 05:36:13.172] Terminaton operated
+[2024-08-08 05:36:13.172] All Apps Terminated
+[2024-08-08 05:38:10.271] Log file generated
+[2024-08-08 05:38:10.413] Starting Apps
+
+[2024-08-08 05:38:10.414] Starting Communication Core App
+[2024-08-08 05:38:10.478] Waiting Until Server Starts
+[2024-08-08 05:38:10.482] Communication Core App Started
+[2024-08-08 05:38:10.992] Server Connected
+[2024-08-08 05:38:11.492] Starting Telemetry App
+[2024-08-08 05:38:11.499] Telemetry App Started
+[2024-08-08 05:38:11.995] Starting BerryimuAccGyro App
+[2024-08-08 05:38:12.006] BerryimuAccGyro App Started
+[2024-08-08 05:38:12.498] Starting BerryimuBarometer App
+[2024-08-08 05:38:12.507] BerryimuBarometer App Started
+[2024-08-08 05:38:13.002] Starting BerryimuGps App
+[2024-08-08 05:38:13.010] BerryimuGps App Started
+[2024-08-08 05:38:13.506] Starting Motor App
+[2024-08-08 05:38:13.512] Motor App Started
+[2024-08-08 05:38:14.009] Starting Camera App
+[2024-08-08 05:38:14.016] Camera App Started
+[2024-08-08 05:38:14.512] Starting Logic App
+[2024-08-08 05:38:14.523] Logic App Started
+[2024-08-08 05:40:53.117] Log file generated
+[2024-08-08 05:40:53.144] Starting Apps
+
+[2024-08-08 05:40:53.144] Starting Communication Core App
+[2024-08-08 05:40:53.168] Waiting Until Server Starts
+[2024-08-08 05:40:53.175] Communication Core App Started
+[2024-08-08 05:40:53.674] Server Connected
+[2024-08-08 05:40:54.177] Starting Telemetry App
+[2024-08-08 05:40:54.193] Telemetry App Started
+[2024-08-08 05:40:54.682] Starting BerryimuAccGyro App
+[2024-08-08 05:40:54.689] BerryimuAccGyro App Started
+[2024-08-08 05:40:55.185] Starting BerryimuBarometer App
+[2024-08-08 05:40:55.192] BerryimuBarometer App Started
+[2024-08-08 05:40:55.688] Starting BerryimuGps App
+[2024-08-08 05:40:55.698] BerryimuGps App Started
+[2024-08-08 05:40:56.192] Starting Motor App
+[2024-08-08 05:40:56.201] Motor App Started
+[2024-08-08 05:40:56.695] Starting Camera App
+[2024-08-08 05:40:56.703] Camera App Started
+[2024-08-08 05:40:57.199] Starting Logic App
+[2024-08-08 05:40:57.208] Logic App Started
+[2024-08-08 05:43:37.984] Log file generated
+[2024-08-08 05:43:38.019] Starting Apps
+
+[2024-08-08 05:43:38.019] Starting Communication Core App
+[2024-08-08 05:43:38.056] Waiting Until Server Starts
+[2024-08-08 05:43:38.061] Communication Core App Started
+[2024-08-08 05:43:38.561] Server Connected
+[2024-08-08 05:43:39.061] Starting Telemetry App
+[2024-08-08 05:43:39.076] Telemetry App Started
+[2024-08-08 05:43:39.565] Starting BerryimuAccGyro App
+[2024-08-08 05:43:39.572] BerryimuAccGyro App Started
+[2024-08-08 05:43:40.068] Starting BerryimuBarometer App
+[2024-08-08 05:43:40.077] BerryimuBarometer App Started
+[2024-08-08 05:43:40.572] Starting BerryimuGps App
+[2024-08-08 05:43:40.579] BerryimuGps App Started
+[2024-08-08 05:43:41.075] Starting Motor App
+[2024-08-08 05:43:41.082] Motor App Started
+[2024-08-08 05:43:41.579] Starting Camera App
+[2024-08-08 05:43:41.596] Camera App Started
+[2024-08-08 05:43:42.088] Starting Logic App
+[2024-08-08 05:43:42.096] Logic App Started
+[2024-08-08 05:44:38.611] Log file generated
+[2024-08-08 05:44:38.683] Starting Apps
+
+[2024-08-08 05:44:38.684] Starting Communication Core App
+[2024-08-08 05:44:38.761] Waiting Until Server Starts
+[2024-08-08 05:44:38.765] Communication Core App Started
+[2024-08-08 05:44:39.265] Server Connected
+[2024-08-08 05:44:39.766] Starting Telemetry App
+[2024-08-08 05:44:39.781] Telemetry App Started
+[2024-08-08 05:44:40.272] Starting BerryimuAccGyro App
+[2024-08-08 05:44:40.278] BerryimuAccGyro App Started
+[2024-08-08 05:44:40.775] Starting BerryimuBarometer App
+[2024-08-08 05:44:40.782] BerryimuBarometer App Started
+[2024-08-08 05:44:41.277] Starting BerryimuGps App
+[2024-08-08 05:44:41.285] BerryimuGps App Started
+[2024-08-08 05:44:41.781] Starting Motor App
+[2024-08-08 05:44:41.787] Motor App Started
+[2024-08-08 05:44:42.284] Starting Camera App
+[2024-08-08 05:44:42.291] Camera App Started
+[2024-08-08 05:44:42.787] Starting Logic App
+[2024-08-08 05:44:42.796] Logic App Started
+[2024-08-08 05:44:38.536] Log file generated
+[2024-08-08 05:44:38.632] Starting Apps
+
+[2024-08-08 05:44:38.632] Starting Communication Core App
+[2024-08-08 05:44:38.730] Waiting Until Server Starts
+[2024-08-08 05:44:38.737] Communication Core App Started
+[2024-08-08 05:44:39.234] Server Connected
+[2024-08-08 05:44:39.735] Starting Telemetry App
+[2024-08-08 05:44:39.746] Telemetry App Started
+[2024-08-08 05:44:40.240] Starting BerryimuAccGyro App
+[2024-08-08 05:44:40.246] BerryimuAccGyro App Started
+[2024-08-08 05:44:40.743] Starting BerryimuBarometer App
+[2024-08-08 05:44:40.754] BerryimuBarometer App Started
+[2024-08-08 05:44:41.247] Starting BerryimuGps App
+[2024-08-08 05:44:41.254] BerryimuGps App Started
+[2024-08-08 05:44:41.750] Starting Motor App
+[2024-08-08 05:44:41.757] Motor App Started
+[2024-08-08 05:44:42.253] Starting Camera App
+[2024-08-08 05:44:42.263] Camera App Started
+[2024-08-08 05:44:42.759] Starting Logic App
+[2024-08-08 05:44:42.768] Logic App Started
+[2024-08-08 05:53:42.888] Log file generated
+[2024-08-08 05:53:42.916] Starting Apps
+
+[2024-08-08 05:53:42.916] Starting Communication Core App
+[2024-08-08 05:53:42.946] Waiting Until Server Starts
+[2024-08-08 05:53:42.950] Communication Core App Started
+[2024-08-08 05:53:43.450] Server Connected
+[2024-08-08 05:53:43.954] Starting Telemetry App
+[2024-08-08 05:53:43.965] Telemetry App Started
+[2024-08-08 05:53:44.470] Starting BerryimuAccGyro App
+[2024-08-08 05:53:44.477] BerryimuAccGyro App Started
+[2024-08-08 05:53:44.973] Starting BerryimuBarometer App
+[2024-08-08 05:53:44.983] BerryimuBarometer App Started
+[2024-08-08 05:53:45.478] Starting BerryimuGps App
+[2024-08-08 05:53:45.485] BerryimuGps App Started
+[2024-08-08 05:53:45.982] Starting Motor App
+[2024-08-08 05:53:45.990] Motor App Started
+[2024-08-08 05:53:46.485] Starting Camera App
+[2024-08-08 05:53:46.494] Camera App Started
+[2024-08-08 05:53:46.990] Starting Logic App
+[2024-08-08 05:53:47.000] Logic App Started
+[2024-08-08 14:18:15.160] Log file generated
+[2024-08-08 14:18:15.250] Starting Apps
+
+[2024-08-08 14:18:15.250] Starting Communication Core App
+[2024-08-08 14:18:15.336] Waiting Until Server Starts
+[2024-08-08 14:18:15.341] Communication Core App Started
+[2024-08-08 14:18:15.843] Server Connected
+[2024-08-08 14:18:16.344] Starting Telemetry App
+[2024-08-08 14:18:16.350] Telemetry App Started
+[2024-08-08 14:18:16.847] Starting BerryimuAccGyro App
+[2024-08-08 14:18:16.854] BerryimuAccGyro App Started
+[2024-08-08 14:18:17.350] Starting BerryimuBarometer App
+[2024-08-08 14:18:17.356] BerryimuBarometer App Started
+[2024-08-08 14:18:17.853] Starting BerryimuGps App
+[2024-08-08 14:18:17.859] BerryimuGps App Started
+[2024-08-08 14:18:18.356] Starting Motor App
+[2024-08-08 14:18:18.367] Motor App Started
+[2024-08-08 14:18:18.862] Starting Camera App
+[2024-08-08 14:18:18.872] Camera App Started
+[2024-08-08 14:18:19.367] Starting Logic App
+[2024-08-08 14:18:19.376] Logic App Started
+[2024-08-08 14:29:46.355] Log file generated
+[2024-08-08 14:29:46.441] Starting Apps
+
+[2024-08-08 14:29:46.441] Starting Communication Core App
+[2024-08-08 14:29:46.527] Waiting Until Server Starts
+[2024-08-08 14:29:46.532] Communication Core App Started
+[2024-08-08 14:29:47.034] Server Connected
+[2024-08-08 14:29:47.536] Starting Telemetry App
+[2024-08-08 14:29:47.555] Telemetry App Started
+[2024-08-08 14:29:48.039] Starting BerryimuAccGyro App
+[2024-08-08 14:29:48.046] BerryimuAccGyro App Started
+[2024-08-08 14:29:48.543] Starting BerryimuBarometer App
+[2024-08-08 14:29:48.550] BerryimuBarometer App Started
+[2024-08-08 14:29:49.046] Starting BerryimuGps App
+[2024-08-08 14:29:49.057] BerryimuGps App Started
+[2024-08-08 14:29:49.551] Starting Motor App
+[2024-08-08 14:29:49.559] Motor App Started
+[2024-08-08 14:29:50.055] Starting Camera App
+[2024-08-08 14:29:50.063] Camera App Started
+[2024-08-08 14:29:50.558] Starting Logic App
+[2024-08-08 14:29:50.566] Logic App Started
+[2024-08-08 15:01:30.792] Log file generated
+[2024-08-08 15:01:30.919] Starting Apps
+
+[2024-08-08 15:01:30.919] Starting Communication Core App
+[2024-08-08 15:01:30.991] Waiting Until Server Starts
+[2024-08-08 15:01:30.995] Communication Core App Started
+[2024-08-08 15:01:31.501] Server Connected
+[2024-08-08 15:01:32.003] Starting Telemetry App
+[2024-08-08 15:01:32.010] Telemetry App Started
+[2024-08-08 15:01:32.506] Starting BerryimuAccGyro App
+[2024-08-08 15:01:32.513] BerryimuAccGyro App Started
+[2024-08-08 15:01:33.009] Starting BerryimuBarometer App
+[2024-08-08 15:01:33.017] BerryimuBarometer App Started
+[2024-08-08 15:01:33.512] Starting BerryimuGps App
+[2024-08-08 15:01:33.522] BerryimuGps App Started
+[2024-08-08 15:01:34.016] Starting Motor App
+[2024-08-08 15:01:34.023] Motor App Started
+[2024-08-08 15:01:34.519] Starting Camera App
+[2024-08-08 15:01:34.540] Camera App Started
+[2024-08-08 15:01:35.028] Starting Logic App
+[2024-08-08 15:01:35.039] Logic App Started

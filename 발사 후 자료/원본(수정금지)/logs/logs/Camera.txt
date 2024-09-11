@@ -1,0 +1,1928 @@
+[2024-08-07 06:50:43.926] Log file generated
+[2024-08-07 06:50:43.927] Starting Camera App
+[2024-08-07 06:50:43.928] Camera App : Connected to CommsCore App
+[2024-08-07 06:51:10.075] Camera App : Requested termination from main App
+[2024-08-07 06:51:10.077] Terminating Camera App
+[2024-08-07 06:51:10.078] Closing client socket
+[2024-08-07 07:00:26.206] Log file generated
+[2024-08-07 07:00:26.207] Starting Camera App
+[2024-08-07 07:00:26.208] Camera App : Connected to CommsCore App
+[2024-08-07 07:00:36.610] Camera App : Requested termination from main App
+[2024-08-07 07:00:36.610] Terminating Camera App
+[2024-08-07 07:00:36.610] Closing client socket
+[2024-08-07 07:02:14.334] Log file generated
+[2024-08-07 07:02:14.335] Starting Camera App
+[2024-08-07 07:02:14.336] Camera App : Connected to CommsCore App
+[2024-08-07 07:03:00.839] Camera App : Requested termination from main App
+[2024-08-07 07:03:00.840] Terminating Camera App
+[2024-08-07 07:03:00.840] Closing client socket
+[2024-08-07 07:04:14.246] Log file generated
+[2024-08-07 07:04:14.430] Starting Camera App
+[2024-08-07 07:04:14.430] Camera App : Connected to CommsCore App
+[2024-08-07 07:04:47.705] Camera App : Requested termination from main App
+[2024-08-07 07:04:47.705] Terminating Camera App
+[2024-08-07 07:04:47.705] Closing client socket
+[2024-08-07 07:05:20.827] Log file generated
+[2024-08-07 07:05:20.827] Starting Camera App
+[2024-08-07 07:05:20.828] Camera App : Connected to CommsCore App
+[2024-08-07 07:05:25.395] Camera App : Requested termination from main App
+[2024-08-07 07:05:25.396] Terminating Camera App
+[2024-08-07 07:05:25.396] Closing client socket
+[2024-08-07 07:06:13.575] Log file generated
+[2024-08-07 07:06:13.576] Starting Camera App
+[2024-08-07 07:06:13.576] Camera App : Connected to CommsCore App
+[2024-08-07 07:42:54.361] Log file generated
+[2024-08-07 07:42:54.362] Starting Camera App
+[2024-08-07 07:42:54.362] Camera App : Connected to CommsCore App
+[2024-08-07 07:43:14.384] Camera App : Requested termination from main App
+[2024-08-07 07:43:14.385] Terminating Camera App
+[2024-08-07 07:43:14.385] Closing client socket
+[2024-08-07 07:51:19.579] Log file generated
+[2024-08-07 07:51:19.657] Starting Camera App
+[2024-08-07 07:51:19.658] Camera App : Connected to CommsCore App
+[2024-08-07 07:51:29.647] Camera App : Requested termination from main App
+[2024-08-07 07:51:29.647] Terminating Camera App
+[2024-08-07 07:51:29.647] Closing client socket
+[2024-08-07 07:54:54.525] Log file generated
+[2024-08-07 07:54:54.530] Starting Camera App
+[2024-08-07 07:54:54.531] Camera App : Connected to CommsCore App
+[2024-08-07 07:55:01.581] Camera App : Requested termination from main App
+[2024-08-07 07:55:01.582] Terminating Camera App
+[2024-08-07 07:55:01.582] Closing client socket
+[2024-08-07 14:29:26.300] Log file generated
+[2024-08-07 14:29:26.302] Starting Camera App
+[2024-08-07 14:29:26.303] Camera App : Connected to CommsCore App
+[2024-08-07 14:29:53.746] Camera App : Requested termination from main App
+[2024-08-07 14:29:53.746] Terminating Camera App
+[2024-08-07 14:29:53.746] Closing client socket
+[2024-08-07 14:32:30.475] Log file generated
+[2024-08-07 14:32:30.477] Starting Camera App
+[2024-08-07 14:32:30.480] Camera App : Connected to CommsCore App
+[2024-08-07 14:32:42.448] Camera App : Requested termination from main App
+[2024-08-07 14:32:42.448] Terminating Camera App
+[2024-08-07 14:32:42.449] Closing client socket
+[2024-08-07 14:34:40.096] Log file generated
+[2024-08-07 14:34:40.184] Starting Camera App
+[2024-08-07 14:34:40.184] Camera App : Connected to CommsCore App
+[2024-08-07 14:34:49.005] Camera App : Requested termination from main App
+[2024-08-07 14:34:49.005] Terminating Camera App
+[2024-08-07 14:34:49.005] Closing client socket
+[2024-08-07 14:35:32.004] Log file generated
+[2024-08-07 14:35:32.005] Starting Camera App
+[2024-08-07 14:35:32.007] Camera App : Connected to CommsCore App
+[2024-08-07 14:35:41.037] Camera App : Requested termination from main App
+[2024-08-07 14:35:41.038] Terminating Camera App
+[2024-08-07 14:35:41.038] Closing client socket
+[2024-08-07 14:35:56.895] Log file generated
+[2024-08-07 14:35:56.896] Starting Camera App
+[2024-08-07 14:35:56.897] Camera App : Connected to CommsCore App
+[2024-08-07 14:36:12.661] Camera App : Requested termination from main App
+[2024-08-07 14:36:12.662] Terminating Camera App
+[2024-08-07 14:36:12.662] Closing client socket
+[2024-08-07 14:39:45.958] Log file generated
+[2024-08-07 14:39:45.959] Starting Camera App
+[2024-08-07 14:39:45.959] Camera App : Connected to CommsCore App
+[2024-08-07 14:39:50.822] Camera App : Requested termination from main App
+[2024-08-07 14:39:50.822] Terminating Camera App
+[2024-08-07 14:39:50.822] Closing client socket
+[2024-08-07 14:40:09.302] Log file generated
+[2024-08-07 14:40:09.303] Starting Camera App
+[2024-08-07 14:40:09.304] Camera App : Connected to CommsCore App
+[2024-08-07 14:45:26.103] Camera App : Requested termination from main App
+[2024-08-07 14:45:26.104] Terminating Camera App
+[2024-08-07 14:45:26.104] Closing client socket
+[2024-08-07 14:48:33.221] Log file generated
+[2024-08-07 14:48:33.222] Starting Camera App
+[2024-08-07 14:48:33.224] Camera App : Connected to CommsCore App
+[2024-08-07 14:48:54.618] Camera App : Requested termination from main App
+[2024-08-07 14:48:54.618] Terminating Camera App
+[2024-08-07 14:48:54.619] Closing client socket
+[2024-08-07 14:49:08.377] Log file generated
+[2024-08-07 14:49:08.378] Starting Camera App
+[2024-08-07 14:49:08.379] Camera App : Connected to CommsCore App
+[2024-08-07 14:49:11.169] Camera App : Requested camera activation
+[2024-08-07 14:49:33.482] Camera App : Requested termination from main App
+[2024-08-07 14:49:33.482] Terminating Camera App
+[2024-08-07 14:49:33.482] Closing client socket
+[2024-08-07 14:54:02.275] Log file generated
+[2024-08-07 14:54:02.287] Starting Camera App
+[2024-08-07 14:54:02.289] Camera App : Connected to CommsCore App
+[2024-08-07 14:54:31.802] Camera App : Requested termination from main App
+[2024-08-07 14:54:31.803] Terminating Camera App
+[2024-08-07 14:54:31.803] Closing client socket
+[2024-08-07 14:56:15.469] Log file generated
+[2024-08-07 14:56:15.470] Starting Camera App
+[2024-08-07 14:56:15.472] Camera App : Connected to CommsCore App
+[2024-08-07 14:56:17.275] Camera App : Requested camera activation
+[2024-08-07 14:59:41.326] Camera App : Requested termination from main App
+[2024-08-07 14:59:41.328] Terminating Camera App
+[2024-08-07 14:59:41.328] Closing client socket
+[2024-08-07 23:01:26.324] Log file generated
+[2024-08-07 23:01:26.325] Starting Camera App
+[2024-08-07 23:01:26.326] Camera App : Connected to CommsCore App
+[2024-08-07 23:02:45.968] Camera App : Requested termination from main App
+[2024-08-07 23:02:45.970] Terminating Camera App
+[2024-08-07 23:02:45.970] Closing client socket
+[2024-08-07 23:06:18.717] Log file generated
+[2024-08-07 23:06:18.718] Starting Camera App
+[2024-08-07 23:06:18.719] Camera App : Connected to CommsCore App
+[2024-08-07 23:06:19.516] Camera App : Requested camera activation
+[2024-08-07 23:07:24.508] Camera App : Requested termination from main App
+[2024-08-07 23:07:24.508] Terminating Camera App
+[2024-08-07 23:07:24.508] Closing client socket
+[2024-08-07 23:08:11.055] Log file generated
+[2024-08-07 23:08:11.056] Starting Camera App
+[2024-08-07 23:08:11.056] Camera App : Connected to CommsCore App
+[2024-08-07 23:10:15.911] Log file generated
+[2024-08-07 23:10:15.913] Starting Camera App
+[2024-08-07 23:10:15.914] Camera App : Connected to CommsCore App
+[2024-08-07 23:10:50.344] Camera App : Requested termination from main App
+[2024-08-07 23:10:50.344] Terminating Camera App
+[2024-08-07 23:10:50.345] Closing client socket
+[2024-08-07 23:12:27.670] Log file generated
+[2024-08-07 23:12:27.671] Starting Camera App
+[2024-08-07 23:12:27.672] Camera App : Connected to CommsCore App
+[2024-08-07 23:12:28.449] Camera App : Requested camera activation
+[2024-08-07 23:12:50.078] Camera App : Requested termination from main App
+[2024-08-07 23:12:50.078] Terminating Camera App
+[2024-08-07 23:12:50.079] Closing client socket
+[2024-08-07 23:41:25.295] Log file generated
+[2024-08-07 23:41:25.297] Starting Camera App
+[2024-08-07 23:41:25.298] Camera App : Connected to CommsCore App
+[2024-08-07 23:41:25.998] Camera App : Requested camera activation
+[2024-08-07 23:41:36.508] Camera App : Requested termination from main App
+[2024-08-07 23:41:36.509] Terminating Camera App
+[2024-08-07 23:41:36.509] Closing client socket
+                                                                                                                                                             [2024-08-07 23:45:06.022] Log file generated
+[2024-08-07 23:45:06.024] Starting Camera App
+[2024-08-07 23:45:06.025] Camera App : Connected to CommsCore App
+                                                                                                                                                                                                                                                                                                                          [2024-08-07 23:47:02.720] Log file generated
+[2024-08-07 23:47:02.721] Starting Camera App
+[2024-08-07 23:47:02.722] Camera App : Connected to CommsCore App
+[2024-08-08 00:49:02.315] Log file generated
+[2024-08-08 00:49:02.317] Starting Camera App
+[2024-08-08 00:51:03.808] Log file generated
+[2024-08-08 00:51:03.825] Starting Camera App
+[2024-08-08 00:56:33.055] Log file generated
+[2024-08-08 00:56:33.058] Starting Camera App
+[2024-08-08 00:56:33.137] Camera Configuration Complete
+[2024-08-08 00:56:33.141] Camera App : Connected to CommsCore App
+[2024-08-08 01:02:31.811] Log file generated
+[2024-08-08 01:02:31.812] Starting Camera App
+[2024-08-08 01:02:31.929] Camera Configuration Complete
+[2024-08-08 01:02:31.929] Camera App : Connected to CommsCore App
+[2024-08-08 03:18:47.838] Log file generated
+[2024-08-08 03:18:47.840] Starting Camera App
+[2024-08-08 03:18:47.972] Camera Configuration Complete
+[2024-08-08 03:18:47.972] Camera App : Connected to CommsCore App
+[2024-08-08 04:03:34.982] Log file generated
+[2024-08-08 04:03:34.983] Starting Camera App
+[2024-08-08 04:03:35.109] Camera Configuration Complete
+[2024-08-08 04:03:35.110] Camera App : Connected to CommsCore App
+[2024-08-08 04:03:38.685] Camera App : Requested camera activation
+[2024-08-08 04:03:39.688] Camera App : Requested camera activation
+[2024-08-08 04:03:40.189] Camera App : Requested camera activation
+[2024-08-08 04:03:40.690] Camera App : Requested camera activation
+[2024-08-08 04:03:41.693] Camera App : Requested camera activation
+[2024-08-08 04:03:42.195] Camera App : Requested camera activation
+[2024-08-08 04:03:42.714] Camera App : Requested camera activation
+[2024-08-08 04:03:43.215] Camera App : Requested camera activation
+[2024-08-08 04:03:43.716] Camera App : Requested camera activation
+[2024-08-08 04:03:44.218] Camera App : Requested camera activation
+[2024-08-08 04:03:44.719] Camera App : Requested camera activation
+[2024-08-08 04:03:45.220] Camera App : Requested camera activation
+[2024-08-08 04:03:45.722] Camera App : Requested camera activation
+[2024-08-08 04:03:46.223] Camera App : Requested camera activation
+[2024-08-08 04:03:46.725] Camera App : Requested camera activation
+[2024-08-08 04:03:47.226] Camera App : Requested camera activation
+[2024-08-08 04:03:48.230] Camera App : Requested camera activation
+[2024-08-08 04:03:48.731] Camera App : Requested camera activation
+[2024-08-08 04:03:49.233] Camera App : Requested camera activation
+[2024-08-08 04:03:49.734] Camera App : Requested camera activation
+[2024-08-08 04:03:50.235] Camera App : Requested camera activation
+[2024-08-08 04:03:50.737] Camera App : Requested camera activation
+[2024-08-08 04:03:51.238] Camera App : Requested camera activation
+[2024-08-08 04:03:51.740] Camera App : Requested camera activation
+[2024-08-08 04:03:52.241] Camera App : Requested camera activation
+[2024-08-08 04:03:52.742] Camera App : Requested camera activation
+[2024-08-08 04:03:53.244] Camera App : Requested camera activation
+[2024-08-08 04:04:08.294] Camera App : Requested camera activation
+[2024-08-08 04:04:08.796] Camera App : Requested camera activation
+[2024-08-08 04:04:09.297] Camera App : Requested camera activation
+[2024-08-08 04:04:09.799] Camera App : Requested camera activation
+[2024-08-08 04:04:10.301] Camera App : Requested camera activation
+[2024-08-08 04:04:10.802] Camera App : Requested camera activation
+[2024-08-08 04:04:11.303] Camera App : Requested camera activation
+[2024-08-08 04:04:11.804] Camera App : Requested camera activation
+[2024-08-08 04:04:12.305] Camera App : Requested camera activation
+[2024-08-08 04:04:12.805] Camera App : Requested camera activation
+[2024-08-08 04:04:13.306] Camera App : Requested camera activation
+[2024-08-08 04:04:13.807] Camera App : Requested camera activation
+[2024-08-08 04:04:14.308] Camera App : Requested camera activation
+[2024-08-08 04:04:14.809] Camera App : Requested camera activation
+[2024-08-08 04:04:15.310] Camera App : Requested camera activation
+[2024-08-08 04:04:15.812] Camera App : Requested camera activation
+[2024-08-08 04:04:16.313] Camera App : Requested camera activation
+[2024-08-08 04:04:16.814] Camera App : Requested camera activation
+[2024-08-08 04:04:17.315] Camera App : Requested camera activation
+[2024-08-08 04:04:17.817] Camera App : Requested camera activation
+[2024-08-08 04:04:18.318] Camera App : Requested camera activation
+[2024-08-08 04:04:18.820] Camera App : Requested camera activation
+[2024-08-08 04:04:19.321] Camera App : Requested camera activation
+[2024-08-08 04:04:19.822] Camera App : Requested camera activation
+[2024-08-08 04:04:20.323] Camera App : Requested camera activation
+[2024-08-08 04:04:20.825] Camera App : Requested camera activation
+[2024-08-08 04:04:21.325] Camera App : Requested camera activation
+[2024-08-08 04:04:21.827] Camera App : Requested camera activation
+[2024-08-08 04:04:22.328] Camera App : Requested camera activation
+[2024-08-08 04:04:23.331] Camera App : Requested camera activation
+[2024-08-08 04:04:23.832] Camera App : Requested camera activation
+[2024-08-08 04:04:24.332] Camera App : Requested camera activation
+[2024-08-08 04:04:24.833] Camera App : Requested camera activation
+[2024-08-08 04:04:25.335] Camera App : Requested camera activation
+[2024-08-08 04:04:25.836] Camera App : Requested camera activation
+[2024-08-08 04:04:26.337] Camera App : Requested camera activation
+[2024-08-08 04:04:27.841] Camera App : Requested camera activation
+[2024-08-08 04:04:28.844] Camera App : Requested camera activation
+[2024-08-08 04:04:29.345] Camera App : Requested camera activation
+[2024-08-08 04:04:29.846] Camera App : Requested camera activation
+[2024-08-08 04:04:30.348] Camera App : Requested camera activation
+[2024-08-08 04:04:30.849] Camera App : Requested camera activation
+[2024-08-08 04:04:31.351] Camera App : Requested camera activation
+[2024-08-08 04:04:31.852] Camera App : Requested camera activation
+[2024-08-08 04:04:32.353] Camera App : Requested camera activation
+[2024-08-08 04:04:32.855] Camera App : Requested camera activation
+[2024-08-08 04:04:33.356] Camera App : Requested camera activation
+[2024-08-08 04:04:33.857] Camera App : Requested camera activation
+[2024-08-08 04:04:34.359] Camera App : Requested camera activation
+[2024-08-08 04:04:34.860] Camera App : Requested camera activation
+[2024-08-08 04:04:35.362] Camera App : Requested camera activation
+[2024-08-08 04:04:35.863] Camera App : Requested camera activation
+[2024-08-08 04:04:36.365] Camera App : Requested camera activation
+[2024-08-08 04:04:36.866] Camera App : Requested camera activation
+[2024-08-08 04:04:37.367] Camera App : Requested camera activation
+[2024-08-08 04:04:37.869] Camera App : Requested camera activation
+[2024-08-08 04:04:38.370] Camera App : Requested camera activation
+[2024-08-08 04:04:38.871] Camera App : Requested camera activation
+[2024-08-08 04:04:39.373] Camera App : Requested camera activation
+[2024-08-08 04:04:39.875] Camera App : Requested camera activation
+[2024-08-08 04:04:40.377] Camera App : Requested camera activation
+[2024-08-08 04:04:40.878] Camera App : Requested camera activation
+[2024-08-08 04:04:41.379] Camera App : Requested camera activation
+[2024-08-08 04:04:41.881] Camera App : Requested camera activation
+[2024-08-08 04:04:42.382] Camera App : Requested camera activation
+[2024-08-08 04:04:42.884] Camera App : Requested camera activation
+[2024-08-08 04:04:43.385] Camera App : Requested camera activation
+[2024-08-08 04:04:43.886] Camera App : Requested camera activation
+[2024-08-08 04:04:44.388] Camera App : Requested camera activation
+[2024-08-08 04:04:45.391] Camera App : Requested camera activation
+[2024-08-08 04:04:45.892] Camera App : Requested camera activation
+[2024-08-08 04:04:46.393] Camera App : Requested camera activation
+[2024-08-08 04:04:46.895] Camera App : Requested camera activation
+[2024-08-08 04:04:47.396] Camera App : Requested camera activation
+[2024-08-08 04:04:47.898] Camera App : Requested camera activation
+[2024-08-08 04:04:48.399] Camera App : Requested camera activation
+[2024-08-08 04:04:48.901] Camera App : Requested camera activation
+[2024-08-08 04:04:49.403] Camera App : Requested camera activation
+[2024-08-08 04:04:50.406] Camera App : Requested camera activation
+[2024-08-08 04:04:51.409] Camera App : Requested camera activation
+[2024-08-08 04:04:51.910] Camera App : Requested camera activation
+[2024-08-08 04:04:52.412] Camera App : Requested camera activation
+[2024-08-08 04:04:52.913] Camera App : Requested camera activation
+[2024-08-08 04:04:53.415] Camera App : Requested camera activation
+[2024-08-08 04:04:53.916] Camera App : Requested camera activation
+[2024-08-08 04:04:54.417] Camera App : Requested camera activation
+[2024-08-08 04:04:54.918] Camera App : Requested camera activation
+[2024-08-08 04:04:55.420] Camera App : Requested camera activation
+[2024-08-08 04:04:55.921] Camera App : Requested camera activation
+[2024-08-08 04:04:56.422] Camera App : Requested camera activation
+[2024-08-08 04:04:56.924] Camera App : Requested camera activation
+[2024-08-08 04:04:57.425] Camera App : Requested camera activation
+[2024-08-08 04:04:57.926] Camera App : Requested camera activation
+[2024-08-08 04:04:58.428] Camera App : Requested camera activation
+[2024-08-08 04:04:58.929] Camera App : Requested camera activation
+[2024-08-08 04:04:59.431] Camera App : Requested camera activation
+[2024-08-08 04:04:59.932] Camera App : Requested camera activation
+[2024-08-08 04:05:00.434] Camera App : Requested camera activation
+[2024-08-08 04:05:00.935] Camera App : Requested camera activation
+[2024-08-08 04:05:01.437] Camera App : Requested camera activation
+[2024-08-08 04:05:01.938] Camera App : Requested camera activation
+[2024-08-08 04:05:02.440] Camera App : Requested camera activation
+[2024-08-08 04:05:04.445] Camera App : Requested camera activation
+[2024-08-08 04:05:04.946] Camera App : Requested camera activation
+[2024-08-08 04:05:05.447] Camera App : Requested camera activation
+[2024-08-08 04:05:05.949] Camera App : Requested camera activation
+[2024-08-08 04:05:06.450] Camera App : Requested camera activation
+[2024-08-08 04:05:06.952] Camera App : Requested camera activation
+[2024-08-08 04:05:07.454] Camera App : Requested camera activation
+[2024-08-08 04:05:07.955] Camera App : Requested camera activation
+[2024-08-08 04:05:08.457] Camera App : Requested camera activation
+[2024-08-08 04:05:08.959] Camera App : Requested camera activation
+[2024-08-08 04:05:09.460] Camera App : Requested camera activation
+[2024-08-08 04:05:09.961] Camera App : Requested camera activation
+[2024-08-08 04:05:10.462] Camera App : Requested camera activation
+[2024-08-08 04:05:10.964] Camera App : Requested camera activation
+[2024-08-08 04:05:11.465] Camera App : Requested camera activation
+[2024-08-08 04:05:12.467] Camera App : Requested camera activation
+[2024-08-08 04:05:12.969] Camera App : Requested camera activation
+[2024-08-08 04:05:13.470] Camera App : Requested camera activation
+[2024-08-08 04:05:13.971] Camera App : Requested camera activation
+[2024-08-08 04:05:14.472] Camera App : Requested camera activation
+[2024-08-08 04:05:14.973] Camera App : Requested camera activation
+[2024-08-08 04:05:15.475] Camera App : Requested camera activation
+[2024-08-08 04:05:15.976] Camera App : Requested camera activation
+[2024-08-08 04:05:16.477] Camera App : Requested camera activation
+[2024-08-08 04:05:16.978] Camera App : Requested camera activation
+[2024-08-08 04:05:17.480] Camera App : Requested camera activation
+[2024-08-08 04:05:18.482] Camera App : Requested camera activation
+[2024-08-08 04:05:18.984] Camera App : Requested camera activation
+[2024-08-08 04:05:19.485] Camera App : Requested camera activation
+[2024-08-08 04:05:19.987] Camera App : Requested camera activation
+[2024-08-08 04:05:20.488] Camera App : Requested camera activation
+[2024-08-08 04:05:21.490] Camera App : Requested camera activation
+[2024-08-08 04:05:21.991] Camera App : Requested camera activation
+[2024-08-08 04:05:22.494] Camera App : Requested camera activation
+[2024-08-08 04:05:22.994] Camera App : Requested camera activation
+[2024-08-08 04:05:23.496] Camera App : Requested camera activation
+[2024-08-08 04:05:24.499] Camera App : Requested camera activation
+[2024-08-08 04:05:25.502] Camera App : Requested camera activation
+[2024-08-08 04:05:26.505] Camera App : Requested camera activation
+[2024-08-08 04:09:52.295] Log file generated
+[2024-08-08 04:09:52.299] Starting Camera App
+[2024-08-08 04:09:52.494] Camera Configuration Complete
+[2024-08-08 04:09:52.501] Camera App : Connected to CommsCore App
+[2024-08-08 04:09:52.916] Camera App : Requested camera activation
+[2024-08-08 04:09:53.409] Camera App : Requested camera activation
+[2024-08-08 04:09:55.419] Camera App : Requested camera activation
+[2024-08-08 04:09:55.923] Camera App : Requested camera activation
+[2024-08-08 04:09:56.928] Camera App : Requested camera activation
+[2024-08-08 04:09:58.939] Camera App : Requested camera activation
+[2024-08-08 04:09:59.444] Camera App : Requested camera activation
+[2024-08-08 04:09:59.947] Camera App : Requested camera activation
+[2024-08-08 04:10:00.955] Camera App : Requested camera activation
+[2024-08-08 04:10:01.456] Camera App : Requested camera activation
+[2024-08-08 04:10:01.960] Camera App : Requested camera activation
+[2024-08-08 04:10:02.463] Camera App : Requested camera activation
+[2024-08-08 04:10:02.968] Camera App : Requested camera activation
+[2024-08-08 04:10:03.470] Camera App : Requested camera activation
+[2024-08-08 04:10:04.480] Camera App : Requested camera activation
+[2024-08-08 04:10:04.982] Camera App : Requested camera activation
+[2024-08-08 04:10:05.990] Camera App : Requested camera activation
+[2024-08-08 04:10:06.493] Camera App : Requested camera activation
+[2024-08-08 04:10:08.503] Camera App : Requested camera activation
+[2024-08-08 04:10:09.007] Camera App : Requested camera activation
+[2024-08-08 04:10:09.511] Camera App : Requested camera activation
+[2024-08-08 04:10:10.014] Camera App : Requested camera activation
+[2024-08-08 04:10:10.517] Camera App : Requested camera activation
+[2024-08-08 04:10:11.022] Camera App : Requested camera activation
+[2024-08-08 04:10:12.029] Camera App : Requested camera activation
+[2024-08-08 04:10:13.540] Camera App : Requested camera activation
+[2024-08-08 04:10:14.547] Camera App : Requested camera activation
+[2024-08-08 04:10:15.050] Camera App : Requested camera activation
+[2024-08-08 04:10:15.554] Camera App : Requested camera activation
+[2024-08-08 04:10:16.058] Camera App : Requested camera activation
+[2024-08-08 04:10:16.559] Camera App : Requested camera activation
+[2024-08-08 04:10:17.565] Camera App : Requested camera activation
+[2024-08-08 04:10:18.070] Camera App : Requested camera activation
+[2024-08-08 04:10:18.573] Camera App : Requested camera activation
+[2024-08-08 04:10:19.075] Camera App : Requested camera activation
+[2024-08-08 04:10:20.083] Camera App : Requested camera activation
+[2024-08-08 04:10:20.585] Camera App : Requested camera activation
+[2024-08-08 04:10:21.088] Camera App : Requested camera activation
+[2024-08-08 04:10:22.597] Camera App : Requested camera activation
+[2024-08-08 04:10:23.102] Camera App : Requested camera activation
+[2024-08-08 04:10:23.605] Camera App : Requested camera activation
+[2024-08-08 04:10:25.118] Camera App : Requested camera activation
+[2024-08-08 04:10:25.621] Camera App : Requested camera activation
+[2024-08-08 04:10:26.270] Camera App : Requested termination from main App
+[2024-08-08 04:10:26.270] Terminating Camera App
+[2024-08-08 04:10:26.270] Closing client socket
+[2024-08-08 04:12:35.078] Log file generated
+[2024-08-08 04:12:35.103] Starting Camera App
+[2024-08-08 04:12:35.268] Camera Configuration Complete
+[2024-08-08 04:12:35.269] Camera App : Connected to CommsCore App
+[2024-08-08 04:12:36.071] Camera App : Requested camera activation
+[2024-08-08 04:12:36.824] Camera App : Requested camera activation
+[2024-08-08 04:12:37.325] Camera App : Requested camera activation
+[2024-08-08 04:12:37.825] Camera App : Requested camera activation
+[2024-08-08 04:12:38.326] Camera App : Requested camera activation
+[2024-08-08 04:12:38.827] Camera App : Requested camera activation
+[2024-08-08 04:12:41.832] Camera App : Requested camera activation
+[2024-08-08 04:12:42.834] Camera App : Requested camera activation
+[2024-08-08 04:12:43.334] Camera App : Requested camera activation
+[2024-08-08 04:12:43.836] Camera App : Requested camera activation
+[2024-08-08 04:12:44.336] Camera App : Requested camera activation
+[2024-08-08 04:12:44.837] Camera App : Requested camera activation
+[2024-08-08 04:12:45.338] Camera App : Requested camera activation
+[2024-08-08 04:12:45.839] Camera App : Requested camera activation
+[2024-08-08 04:12:46.340] Camera App : Requested camera activation
+[2024-08-08 04:12:46.840] Camera App : Requested camera activation
+[2024-08-08 04:12:47.341] Camera App : Requested camera activation
+[2024-08-08 04:12:47.842] Camera App : Requested camera activation
+[2024-08-08 04:12:48.343] Camera App : Requested camera activation
+[2024-08-08 04:12:48.844] Camera App : Requested camera activation
+[2024-08-08 04:12:49.344] Camera App : Requested camera activation
+[2024-08-08 04:12:49.845] Camera App : Requested camera activation
+[2024-08-08 04:12:50.346] Camera App : Requested camera activation
+[2024-08-08 04:12:50.847] Camera App : Requested camera activation
+[2024-08-08 04:12:51.348] Camera App : Requested camera activation
+[2024-08-08 04:12:51.849] Camera App : Requested camera activation
+[2024-08-08 04:12:52.647] Camera App : Requested termination from main App
+[2024-08-08 04:12:52.647] Terminating Camera App
+[2024-08-08 04:12:52.647] Closing client socket
+[2024-08-08 04:15:47.103] Log file generated
+[2024-08-08 04:15:47.106] Starting Camera App
+[2024-08-08 04:15:47.189] Camera Configuration Complete
+[2024-08-08 04:15:47.190] Camera App Error : [Errno 111] Connection refused
+[2024-08-08 04:15:47.190] Terminating Camera App
+[2024-08-08 04:15:47.191] Closing client socket
+[2024-08-08 04:17:25.816] Log file generated
+[2024-08-08 04:17:25.818] Starting Camera App
+[2024-08-08 04:17:25.895] Camera Configuration Complete
+[2024-08-08 04:17:25.896] Camera App : Connected to CommsCore App
+[2024-08-08 04:17:26.019] Camera App : Requested camera activation
+[2024-08-08 04:17:26.520] Camera App : Requested camera activation
+[2024-08-08 04:17:27.021] Camera App : Requested camera activation
+[2024-08-08 04:17:28.022] Camera App : Requested camera activation
+[2024-08-08 04:17:28.522] Camera App : Requested camera activation
+[2024-08-08 04:17:29.023] Camera App : Requested camera activation
+[2024-08-08 04:17:29.523] Camera App : Requested camera activation
+[2024-08-08 04:17:30.024] Camera App : Requested camera activation
+[2024-08-08 04:17:30.525] Camera App : Requested camera activation
+[2024-08-08 04:17:31.026] Camera App : Requested camera activation
+[2024-08-08 04:17:31.527] Camera App : Requested camera activation
+[2024-08-08 04:17:32.027] Camera App : Requested camera activation
+[2024-08-08 04:17:32.528] Camera App : Requested camera activation
+[2024-08-08 04:17:33.029] Camera App : Requested camera activation
+[2024-08-08 04:17:35.533] Camera App : Requested camera activation
+[2024-08-08 04:17:36.034] Camera App : Requested camera activation
+[2024-08-08 04:17:36.535] Camera App : Requested camera activation
+[2024-08-08 04:17:37.036] Camera App : Requested camera activation
+[2024-08-08 04:17:37.536] Camera App : Requested camera activation
+[2024-08-08 04:17:38.037] Camera App : Requested camera activation
+[2024-08-08 04:17:39.039] Camera App : Requested camera activation
+[2024-08-08 04:17:39.541] Camera App : Requested camera activation
+[2024-08-08 04:17:41.042] Camera App : Requested camera activation
+[2024-08-08 04:17:41.543] Camera App : Requested camera activation
+[2024-08-08 04:17:42.044] Camera App : Requested camera activation
+[2024-08-08 04:17:42.859] Camera App : Requested termination from main App
+[2024-08-08 04:17:42.860] Terminating Camera App
+[2024-08-08 04:17:42.860] Closing client socket
+[2024-08-08 04:20:50.447] Log file generated
+[2024-08-08 04:20:50.449] Starting Camera App
+[2024-08-08 04:20:50.514] Camera Configuration Complete
+[2024-08-08 04:20:50.515] Camera App : Connected to CommsCore App
+[2024-08-08 04:20:51.447] Camera App : Requested camera activation
+[2024-08-08 04:20:51.949] Camera App : Requested camera activation
+[2024-08-08 04:20:52.450] Camera App : Requested camera activation
+[2024-08-08 04:20:52.952] Camera App : Requested camera activation
+[2024-08-08 04:20:54.457] Camera App : Requested camera activation
+[2024-08-08 04:20:54.959] Camera App : Requested camera activation
+[2024-08-08 04:20:56.769] Camera App : Requested termination from main App
+[2024-08-08 04:20:56.769] Terminating Camera App
+[2024-08-08 04:20:56.769] Closing client socket
+[2024-08-08 04:24:33.659] Log file generated
+[2024-08-08 04:24:33.662] Starting Camera App
+[2024-08-08 04:24:33.747] Camera Configuration Complete
+[2024-08-08 04:24:33.751] Camera App : Connected to CommsCore App
+[2024-08-08 04:24:34.043] Camera App : Requested camera activation
+[2024-08-08 04:24:36.546] Camera App : Requested camera activation
+[2024-08-08 04:24:37.046] Camera App : Requested camera activation
+[2024-08-08 04:24:37.547] Camera App : Requested camera activation
+[2024-08-08 04:24:38.048] Camera App : Requested camera activation
+[2024-08-08 04:24:38.549] Camera App : Requested camera activation
+[2024-08-08 04:24:39.050] Camera App : Requested camera activation
+[2024-08-08 04:24:39.550] Camera App : Requested camera activation
+[2024-08-08 04:24:40.051] Camera App : Requested camera activation
+[2024-08-08 04:24:40.552] Camera App : Requested camera activation
+[2024-08-08 04:24:41.053] Camera App : Requested camera activation
+[2024-08-08 04:24:41.554] Camera App : Requested camera activation
+[2024-08-08 04:24:42.556] Camera App : Requested camera activation
+[2024-08-08 04:24:43.056] Camera App : Requested camera activation
+[2024-08-08 04:24:43.557] Camera App : Requested camera activation
+[2024-08-08 04:24:44.058] Camera App : Requested camera activation
+[2024-08-08 04:24:44.558] Camera App : Requested camera activation
+[2024-08-08 04:24:45.059] Camera App : Requested camera activation
+[2024-08-08 04:24:45.559] Camera App : Requested camera activation
+[2024-08-08 04:24:46.060] Camera App : Requested camera activation
+[2024-08-08 04:24:46.560] Camera App : Requested camera activation
+[2024-08-08 04:24:47.061] Camera App : Requested camera activation
+[2024-08-08 04:24:49.064] Camera App : Requested camera activation
+[2024-08-08 04:24:51.067] Camera App : Requested camera activation
+[2024-08-08 04:24:52.068] Camera App : Requested camera activation
+[2024-08-08 04:24:52.569] Camera App : Requested camera activation
+[2024-08-08 04:24:53.070] Camera App : Requested camera activation
+[2024-08-08 04:24:53.571] Camera App : Requested camera activation
+[2024-08-08 04:24:54.573] Camera App : Requested camera activation
+[2024-08-08 04:24:56.576] Camera App : Requested camera activation
+[2024-08-08 04:24:57.578] Camera App : Requested camera activation
+[2024-08-08 04:24:58.078] Camera App : Requested camera activation
+[2024-08-08 04:24:58.579] Camera App : Requested camera activation
+[2024-08-08 04:24:59.581] Camera App : Requested camera activation
+[2024-08-08 04:25:00.081] Camera App : Requested camera activation
+[2024-08-08 04:25:00.582] Camera App : Requested camera activation
+[2024-08-08 04:25:01.083] Camera App : Requested camera activation
+[2024-08-08 04:25:04.258] Camera App : Requested termination from main App
+[2024-08-08 04:25:04.259] Terminating Camera App
+[2024-08-08 04:25:04.259] Closing client socket
+[2024-08-08 04:47:21.626] Log file generated
+[2024-08-08 04:47:21.630] Starting Camera App
+[2024-08-08 04:47:21.697] Camera Configuration Complete
+[2024-08-08 04:47:21.700] Camera App : Connected to CommsCore App
+[2024-08-08 04:47:23.270] Camera App : Requested camera activation
+[2024-08-08 04:52:12.019] Log file generated
+[2024-08-08 04:52:12.021] Starting Camera App
+[2024-08-08 04:52:12.161] Camera Configuration Complete
+[2024-08-08 04:52:12.162] Camera App : Connected to CommsCore App
+[2024-08-08 04:52:12.186] Camera App : Requested camera activation
+[2024-08-08 04:52:12.686] Camera App : Requested camera activation
+[2024-08-08 04:52:12.687] Camera App : Camera is already activated
+[2024-08-08 04:52:28.769] Camera App : Requested camera activation
+[2024-08-08 04:52:28.770] Camera App : Camera is already activated
+[2024-08-08 04:52:29.270] Camera App : Requested camera activation
+[2024-08-08 04:52:29.271] Camera App : Camera is already activated
+[2024-08-08 04:52:29.771] Camera App : Requested camera activation
+[2024-08-08 04:52:29.771] Camera App : Camera is already activated
+[2024-08-08 04:52:30.272] Camera App : Requested camera activation
+[2024-08-08 04:52:30.272] Camera App : Camera is already activated
+[2024-08-08 04:52:36.279] Camera App : Requested camera activation
+[2024-08-08 04:52:36.279] Camera App : Camera is already activated
+[2024-08-08 04:52:38.282] Camera App : Requested camera activation
+[2024-08-08 04:52:38.283] Camera App : Camera is already activated
+[2024-08-08 04:52:39.284] Camera App : Requested camera activation
+[2024-08-08 04:52:39.284] Camera App : Camera is already activated
+[2024-08-08 04:52:39.785] Camera App : Requested camera activation
+[2024-08-08 04:52:39.785] Camera App : Camera is already activated
+[2024-08-08 04:52:40.285] Camera App : Requested camera activation
+[2024-08-08 04:52:40.286] Camera App : Camera is already activated
+[2024-08-08 04:52:41.127] Camera App : Requested termination from main App
+[2024-08-08 04:52:41.128] Terminating Camera App
+[2024-08-08 04:52:41.128] Closing client socket
+[2024-08-08 04:57:34.161] Log file generated
+[2024-08-08 04:57:34.167] Starting Camera App
+[2024-08-08 04:57:34.247] Camera Configuration Complete
+[2024-08-08 04:57:34.252] Camera App : Connected to CommsCore App
+[2024-08-08 04:57:34.673] Camera App : Requested camera activation
+[2024-08-08 04:57:34.912] Camera App : Recording to ./videos/segment_000.h264
+[2024-08-08 04:57:35.178] Camera App : Requested camera activation
+[2024-08-08 04:57:35.178] Camera App : Camera is already activated
+[2024-08-08 04:57:35.679] Camera App : Requested camera activation
+[2024-08-08 04:57:35.680] Camera App : Camera is already activated
+[2024-08-08 04:57:36.180] Camera App : Requested camera activation
+[2024-08-08 04:57:36.181] Camera App : Camera is already activated
+[2024-08-08 04:57:37.682] Camera App : Requested camera activation
+[2024-08-08 04:57:37.682] Camera App : Camera is already activated
+[2024-08-08 04:57:39.965] Camera App : Finished recording to ./videos/segment_000.h264
+[2024-08-08 04:57:40.004] Camera App : Recording to ./videos/segment_001.h264
+[2024-08-08 04:57:40.687] Camera App : Requested camera activation
+[2024-08-08 04:57:40.688] Camera App : Camera is already activated
+[2024-08-08 04:57:43.692] Camera App : Requested camera activation
+[2024-08-08 04:57:43.693] Camera App : Camera is already activated
+[2024-08-08 04:57:44.694] Camera App : Requested camera activation
+[2024-08-08 04:57:44.694] Camera App : Camera is already activated
+[2024-08-08 04:57:45.037] Camera App : Finished recording to ./videos/segment_001.h264
+[2024-08-08 04:57:45.079] Camera App : Recording to ./videos/segment_002.h264
+[2024-08-08 04:57:45.695] Camera App : Requested camera activation
+[2024-08-08 04:57:45.696] Camera App : Camera is already activated
+[2024-08-08 04:57:46.196] Camera App : Requested camera activation
+[2024-08-08 04:57:46.197] Camera App : Camera is already activated
+[2024-08-08 04:57:47.198] Camera App : Requested camera activation
+[2024-08-08 04:57:47.199] Camera App : Camera is already activated
+[2024-08-08 04:57:47.699] Camera App : Requested camera activation
+[2024-08-08 04:57:47.700] Camera App : Camera is already activated
+[2024-08-08 04:57:48.701] Camera App : Requested camera activation
+[2024-08-08 04:57:48.701] Camera App : Camera is already activated
+[2024-08-08 04:57:49.702] Camera App : Requested camera activation
+[2024-08-08 04:57:49.703] Camera App : Camera is already activated
+[2024-08-08 04:57:50.117] Camera App : Finished recording to ./videos/segment_002.h264
+[2024-08-08 04:57:50.158] Camera App : Recording to ./videos/segment_003.h264
+[2024-08-08 04:57:50.203] Camera App : Requested camera activation
+[2024-08-08 04:57:50.204] Camera App : Camera is already activated
+[2024-08-08 04:57:50.703] Camera App : Requested camera activation
+[2024-08-08 04:57:50.704] Camera App : Camera is already activated
+[2024-08-08 04:57:51.204] Camera App : Requested camera activation
+[2024-08-08 04:57:51.206] Camera App : Camera is already activated
+[2024-08-08 04:57:51.704] Camera App : Requested camera activation
+[2024-08-08 04:57:51.705] Camera App : Camera is already activated
+[2024-08-08 04:57:52.708] Camera App : Requested camera activation
+[2024-08-08 04:57:52.709] Camera App : Camera is already activated
+[2024-08-08 04:57:53.710] Camera App : Requested camera activation
+[2024-08-08 04:57:53.711] Camera App : Camera is already activated
+[2024-08-08 04:57:54.711] Camera App : Requested camera activation
+[2024-08-08 04:57:54.712] Camera App : Camera is already activated
+[2024-08-08 04:57:55.194] Camera App : Finished recording to ./videos/segment_003.h264
+[2024-08-08 04:57:55.235] Camera App : Recording to ./videos/segment_004.h264
+[2024-08-08 04:57:55.713] Camera App : Requested camera activation
+[2024-08-08 04:57:55.713] Camera App : Camera is already activated
+[2024-08-08 04:57:56.334] Camera App : Requested termination from main App
+[2024-08-08 04:57:56.335] Terminating Camera App
+[2024-08-08 04:57:56.335] Closing client socket
+[2024-08-08 05:01:13.971] Log file generated
+[2024-08-08 05:01:13.973] Starting Camera App
+[2024-08-08 05:01:14.150] Camera Configuration Complete
+[2024-08-08 05:01:14.151] Camera App : Connected to CommsCore App
+[2024-08-08 05:01:18.603] Camera App : Camera is already activated
+[2024-08-08 05:01:18.607] Camera App : Recording to ./videos/segment_000.h264
+[2024-08-08 05:01:18.818] Camera App : Camera is already activated
+[2024-08-08 05:01:19.318] Camera App : Camera is already activated
+[2024-08-08 05:01:19.819] Camera App : Camera is already activated
+[2024-08-08 05:01:20.319] Camera App : Camera is already activated
+[2024-08-08 05:01:20.820] Camera App : Camera is already activated
+[2024-08-08 05:01:21.321] Camera App : Camera is already activated
+[2024-08-08 05:01:37.231] Camera App : Camera is already activated
+[2024-08-08 05:01:37.732] Camera App : Camera is already activated
+[2024-08-08 05:01:38.232] Camera App : Camera is already activated
+[2024-08-08 05:01:38.551] Camera App : Finished recording to ./videos/segment_000.h264
+[2024-08-08 05:01:38.591] Camera App : Recording to ./videos/segment_001.h264
+[2024-08-08 05:01:39.734] Camera App : Camera is already activated
+[2024-08-08 05:01:41.237] Camera App : Camera is already activated
+[2024-08-08 05:01:43.241] Camera App : Camera is already activated
+[2024-08-08 05:01:43.635] Camera App : Finished recording to ./videos/segment_001.h264
+[2024-08-08 05:01:43.682] Camera App : Recording to ./videos/segment_002.h264
+[2024-08-08 05:01:43.741] Camera App : Camera is already activated
+[2024-08-08 05:01:44.242] Camera App : Camera is already activated
+[2024-08-08 05:01:44.743] Camera App : Camera is already activated
+[2024-08-08 05:01:45.243] Camera App : Camera is already activated
+[2024-08-08 05:01:45.744] Camera App : Camera is already activated
+[2024-08-08 05:01:46.244] Camera App : Camera is already activated
+[2024-08-08 05:01:47.746] Camera App : Camera is already activated
+[2024-08-08 05:01:49.108] Camera App : Finished recording to ./videos/segment_002.h264
+[2024-08-08 05:01:49.434] Camera App : Recording to ./videos/segment_003.h264
+[2024-08-08 05:01:52.253] Camera App : Camera is already activated
+[2024-08-08 05:01:52.754] Camera App : Camera is already activated
+[2024-08-08 05:01:53.255] Camera App : Camera is already activated
+[2024-08-08 05:01:53.755] Camera App : Camera is already activated
+[2024-08-08 05:01:54.256] Camera App : Camera is already activated
+[2024-08-08 05:01:54.757] Camera App : Camera is already activated
+[2024-08-08 05:01:54.850] Camera App : Finished recording to ./videos/segment_003.h264
+[2024-08-08 05:01:55.164] Camera App : Recording to ./videos/segment_004.h264
+[2024-08-08 05:01:55.758] Camera App : Camera is already activated
+[2024-08-08 05:01:56.707] Camera App : Requested termination from main App
+[2024-08-08 05:01:56.708] Terminating Camera App
+[2024-08-08 05:01:56.708] Closing client socket
+[2024-08-08 05:06:13.215] Log file generated
+[2024-08-08 05:06:13.217] Starting Camera App
+[2024-08-08 05:06:13.290] Camera Configuration Complete
+[2024-08-08 05:06:13.291] Camera App : Connected to CommsCore App
+[2024-08-08 05:06:14.677] Camera App : Recording to ./videos/segment_000.h264
+[2024-08-08 05:06:14.963] Camera App : Camera is already activated
+[2024-08-08 05:06:15.463] Camera App : Camera is already activated
+[2024-08-08 05:06:15.964] Camera App : Camera is already activated
+[2024-08-08 05:06:16.464] Camera App : Camera is already activated
+[2024-08-08 05:06:16.965] Camera App : Camera is already activated
+[2024-08-08 05:06:18.467] Camera App : Camera is already activated
+[2024-08-08 05:06:18.969] Camera App : Camera is already activated
+[2024-08-08 05:06:19.722] Camera App : Finished recording to ./videos/segment_000.h264
+[2024-08-08 05:06:19.968] Camera App : Recording to ./videos/segment_001.h264
+[2024-08-08 05:06:19.970] Camera App : Camera is already activated
+[2024-08-08 05:06:20.471] Camera App : Camera is already activated
+[2024-08-08 05:06:21.274] Camera App : Requested termination from main App
+[2024-08-08 05:06:21.275] Terminating Camera App
+[2024-08-08 05:06:21.276] Closing client socket
+[2024-08-08 05:09:44.941] Log file generated
+[2024-08-08 05:09:44.942] Starting Camera App
+[2024-08-08 05:09:45.012] Camera Configuration Complete
+[2024-08-08 05:09:45.013] Camera App : Connected to CommsCore App
+[2024-08-08 05:09:45.638] Camera App : Recording to ./videos/segment_000.h264
+[2024-08-08 05:09:47.508] Camera App : Camera is already activated
+[2024-08-08 05:09:48.008] Camera App : Camera is already activated
+[2024-08-08 05:09:49.010] Camera App : Camera is already activated
+[2024-08-08 05:09:50.012] Camera App : Camera is already activated
+[2024-08-08 05:09:50.513] Camera App : Camera is already activated
+[2024-08-08 05:09:50.686] Camera App : Finished recording to ./videos/segment_000.h264
+[2024-08-08 05:09:50.725] Camera App : Recording to ./videos/segment_001.h264
+[2024-08-08 05:09:51.013] Camera App : Camera is already activated
+[2024-08-08 05:09:51.514] Camera App : Camera is already activated
+[2024-08-08 05:09:52.015] Camera App : Camera is already activated
+[2024-08-08 05:09:52.516] Camera App : Camera is already activated
+[2024-08-08 05:09:53.017] Camera App : Camera is already activated
+[2024-08-08 05:09:53.519] Camera App : Camera is already activated
+[2024-08-08 05:09:54.019] Camera App : Camera is already activated
+[2024-08-08 05:09:54.520] Camera App : Camera is already activated
+[2024-08-08 05:09:55.020] Camera App : Camera is already activated
+[2024-08-08 05:09:55.521] Camera App : Camera is already activated
+[2024-08-08 05:09:56.022] Camera App : Camera is already activated
+[2024-08-08 05:09:56.140] Camera App : Finished recording to ./videos/segment_001.h264
+[2024-08-08 05:09:56.177] Camera App : Recording to ./videos/segment_002.h264
+[2024-08-08 05:09:56.523] Camera App : Camera is already activated
+[2024-08-08 05:09:57.023] Camera App : Camera is already activated
+[2024-08-08 05:09:57.525] Camera App : Camera is already activated
+[2024-08-08 05:09:59.528] Camera App : Camera is already activated
+[2024-08-08 05:10:00.029] Camera App : Camera is already activated
+[2024-08-08 05:10:00.530] Camera App : Camera is already activated
+[2024-08-08 05:10:01.030] Camera App : Camera is already activated
+[2024-08-08 05:10:01.531] Camera App : Camera is already activated
+[2024-08-08 05:10:01.593] Camera App : Finished recording to ./videos/segment_002.h264
+[2024-08-08 05:10:01.630] Camera App : Recording to ./videos/segment_003.h264
+[2024-08-08 05:10:02.032] Camera App : Camera is already activated
+[2024-08-08 05:10:02.532] Camera App : Camera is already activated
+[2024-08-08 05:10:03.033] Camera App : Camera is already activated
+[2024-08-08 05:10:03.533] Camera App : Camera is already activated
+[2024-08-08 05:10:04.536] Camera App : Camera is already activated
+[2024-08-08 05:10:05.036] Camera App : Camera is already activated
+[2024-08-08 05:10:06.039] Camera App : Camera is already activated
+[2024-08-08 05:10:07.050] Camera App : Finished recording to ./videos/segment_003.h264
+[2024-08-08 05:10:07.093] Camera App : Recording to ./videos/segment_004.h264
+[2024-08-08 05:10:08.545] Camera App : Camera is already activated
+[2024-08-08 05:10:10.047] Camera App : Camera is already activated
+[2024-08-08 05:10:10.547] Camera App : Camera is already activated
+[2024-08-08 05:10:11.048] Camera App : Camera is already activated
+[2024-08-08 05:10:11.549] Camera App : Camera is already activated
+[2024-08-08 05:10:12.049] Camera App : Camera is already activated
+[2024-08-08 05:10:12.505] Camera App : Finished recording to ./videos/segment_004.h264
+[2024-08-08 05:10:12.550] Camera App : Camera is already activated
+[2024-08-08 05:10:12.827] Camera App : Recording to ./videos/segment_005.h264
+[2024-08-08 05:10:13.050] Camera App : Camera is already activated
+[2024-08-08 05:10:13.551] Camera App : Camera is already activated
+[2024-08-08 05:10:14.052] Camera App : Camera is already activated
+[2024-08-08 05:10:15.053] Camera App : Camera is already activated
+[2024-08-08 05:10:15.554] Camera App : Camera is already activated
+[2024-08-08 05:10:16.055] Camera App : Camera is already activated
+[2024-08-08 05:10:17.057] Camera App : Camera is already activated
+[2024-08-08 05:10:17.861] Camera App : Finished recording to ./videos/segment_005.h264
+[2024-08-08 05:10:17.901] Camera App : Recording to ./videos/segment_006.h264
+[2024-08-08 05:10:18.560] Camera App : Camera is already activated
+[2024-08-08 05:10:19.061] Camera App : Camera is already activated
+[2024-08-08 05:10:19.561] Camera App : Camera is already activated
+[2024-08-08 05:10:20.563] Camera App : Camera is already activated
+[2024-08-08 05:10:21.063] Camera App : Camera is already activated
+[2024-08-08 05:10:21.564] Camera App : Camera is already activated
+[2024-08-08 05:10:22.065] Camera App : Camera is already activated
+[2024-08-08 05:10:22.565] Camera App : Camera is already activated
+[2024-08-08 05:10:23.066] Camera App : Camera is already activated
+[2024-08-08 05:10:23.311] Camera App : Finished recording to ./videos/segment_006.h264
+[2024-08-08 05:10:23.348] Camera App : Recording to ./videos/segment_007.h264
+[2024-08-08 05:10:25.958] Camera App : Requested termination from main App
+[2024-08-08 05:10:25.958] Terminating Camera App
+[2024-08-08 05:10:25.959] Closing client socket
+[2024-08-08 05:11:15.131] Log file generated
+[2024-08-08 05:11:15.136] Starting Camera App
+[2024-08-08 05:11:15.212] Camera Configuration Complete
+[2024-08-08 05:11:15.213] Camera App Error : [Errno 111] Connection refused
+[2024-08-08 05:11:15.213] Terminating Camera App
+[2024-08-08 05:11:15.213] Closing client socket
+[2024-08-08 05:12:21.524] Log file generated
+[2024-08-08 05:12:21.526] Starting Camera App
+[2024-08-08 05:12:21.583] Camera Configuration Complete
+[2024-08-08 05:12:21.584] Camera App Error : [Errno 111] Connection refused
+[2024-08-08 05:12:21.584] Terminating Camera App
+[2024-08-08 05:12:21.585] Closing client socket
+[2024-08-08 05:13:10.366] Log file generated
+[2024-08-08 05:13:10.369] Starting Camera App
+[2024-08-08 05:13:10.438] Camera Configuration Complete
+[2024-08-08 05:13:10.438] Camera App : Connected to CommsCore App
+[2024-08-08 05:26:47.949] Log file generated
+[2024-08-08 05:26:47.952] Starting Camera App
+[2024-08-08 05:26:49.179] Camera Configuration Complete
+[2024-08-08 05:26:49.179] Camera App : Connected to CommsCore App
+[2024-08-08 05:26:50.278] Camera App : Camera is already activated
+[2024-08-08 05:26:50.746] Camera App : Recording to ./videos/segment_000.h264
+[2024-08-08 05:26:50.780] Camera App : Camera is already activated
+[2024-08-08 05:27:06.352] Camera App : Camera is already activated
+[2024-08-08 05:27:06.853] Camera App : Camera is already activated
+[2024-08-08 05:27:07.355] Camera App : Camera is already activated
+[2024-08-08 05:27:08.355] Camera App : Camera is already activated
+[2024-08-08 05:27:09.357] Camera App : Camera is already activated
+[2024-08-08 05:27:09.858] Camera App : Camera is already activated
+[2024-08-08 05:27:10.358] Camera App : Camera is already activated
+[2024-08-08 05:27:10.858] Camera App : Camera is already activated
+[2024-08-08 05:27:11.359] Camera App : Camera is already activated
+[2024-08-08 05:27:11.859] Camera App : Camera is already activated
+[2024-08-08 05:27:12.352] Camera App : Finished recording to ./videos/segment_000.h264
+[2024-08-08 05:27:12.360] Camera App : Camera is already activated
+[2024-08-08 05:27:12.395] Camera App : Recording to ./videos/segment_001.h264
+[2024-08-08 05:27:12.860] Camera App : Camera is already activated
+[2024-08-08 05:27:16.365] Camera App : Camera is already activated
+[2024-08-08 05:27:16.866] Camera App : Camera is already activated
+[2024-08-08 05:27:18.369] Camera App : Camera is already activated
+[2024-08-08 05:27:19.807] Camera App : Finished recording to ./videos/segment_001.h264
+[2024-08-08 05:27:19.851] Camera App : Recording to ./videos/segment_002.h264
+[2024-08-08 05:27:19.871] Camera App : Camera is already activated
+[2024-08-08 05:27:20.372] Camera App : Camera is already activated
+[2024-08-08 05:27:20.873] Camera App : Camera is already activated
+[2024-08-08 05:27:21.373] Camera App : Camera is already activated
+[2024-08-08 05:27:21.875] Camera App : Camera is already activated
+[2024-08-08 05:27:22.375] Camera App : Camera is already activated
+[2024-08-08 05:27:22.876] Camera App : Camera is already activated
+[2024-08-08 05:27:23.376] Camera App : Camera is already activated
+[2024-08-08 05:27:23.877] Camera App : Camera is already activated
+[2024-08-08 05:27:24.377] Camera App : Camera is already activated
+[2024-08-08 05:27:24.878] Camera App : Camera is already activated
+[2024-08-08 05:27:25.379] Camera App : Camera is already activated
+[2024-08-08 05:27:25.879] Camera App : Camera is already activated
+[2024-08-08 05:27:26.380] Camera App : Camera is already activated
+[2024-08-08 05:27:26.880] Camera App : Camera is already activated
+[2024-08-08 05:27:27.381] Camera App : Camera is already activated
+[2024-08-08 05:27:27.882] Camera App : Camera is already activated
+[2024-08-08 05:27:28.382] Camera App : Camera is already activated
+[2024-08-08 05:27:28.883] Camera App : Camera is already activated
+[2024-08-08 05:27:29.384] Camera App : Camera is already activated
+[2024-08-08 05:27:29.885] Camera App : Camera is already activated
+[2024-08-08 05:27:30.168] Camera App : Finished recording to ./videos/segment_002.h264
+[2024-08-08 05:27:30.210] Camera App : Recording to ./videos/segment_003.h264
+[2024-08-08 05:27:30.386] Camera App : Camera is already activated
+[2024-08-08 05:27:30.887] Camera App : Camera is already activated
+[2024-08-08 05:27:31.389] Camera App : Camera is already activated
+[2024-08-08 05:27:32.300] Camera App : Requested termination from main App
+[2024-08-08 05:27:32.300] Terminating Camera App
+[2024-08-08 05:27:32.300] Closing client socket
+[2024-08-08 05:31:29.204] Log file generated
+[2024-08-08 05:31:29.206] Starting Camera App
+[2024-08-08 05:31:29.273] Camera Configuration Complete
+[2024-08-08 05:31:29.274] Camera App : Connected to CommsCore App
+[2024-08-08 05:31:30.557] Camera App : Recording to ./videos/segment_000.h264
+[2024-08-08 05:31:30.920] Camera App : Camera is already activated
+[2024-08-08 05:31:33.425] Camera App : Camera is already activated
+[2024-08-08 05:31:34.428] Camera App : Camera is already activated
+[2024-08-08 05:31:37.594] Camera App : Finished recording to ./videos/segment_000.h264
+[2024-08-08 05:31:37.631] Camera App : Recording to ./videos/segment_001.h264
+[2024-08-08 05:31:39.049] Camera App : Requested termination from main App
+[2024-08-08 05:31:39.050] Terminating Camera App
+[2024-08-08 05:31:39.050] Closing client socket
+[2024-08-08 05:35:39.713] Log file generated
+[2024-08-08 05:35:39.721] Starting Camera App
+[2024-08-08 05:35:39.819] Camera Configuration Complete
+[2024-08-08 05:35:39.820] Camera App : Connected to CommsCore App
+[2024-08-08 05:35:40.347] Camera App : Recording to ./videos/segment_05:35:40.h264
+[2024-08-08 05:35:41.221] Camera App : Camera is already activated
+[2024-08-08 05:35:41.722] Camera App : Camera is already activated
+[2024-08-08 05:35:42.224] Camera App : Camera is already activated
+[2024-08-08 05:35:42.727] Camera App : Camera is already activated
+[2024-08-08 05:35:43.733] Camera App : Camera is already activated
+[2024-08-08 05:35:44.233] Camera App : Camera is already activated
+[2024-08-08 05:35:45.236] Camera App : Camera is already activated
+[2024-08-08 05:35:45.739] Camera App : Camera is already activated
+[2024-08-08 05:35:47.400] Camera App : Finished recording to ./videos/segment_05:35:40.h264
+[2024-08-08 05:35:47.444] Camera App : Recording to ./videos/segment_05:35:47.h264
+[2024-08-08 05:35:50.349] Camera App : Camera is already activated
+[2024-08-08 05:35:50.850] Camera App : Camera is already activated
+[2024-08-08 05:35:52.356] Camera App : Camera is already activated
+[2024-08-08 05:35:52.859] Camera App : Camera is already activated
+[2024-08-08 05:35:53.360] Camera App : Camera is already activated
+[2024-08-08 05:35:54.365] Camera App : Camera is already activated
+[2024-08-08 05:35:54.855] Camera App : Finished recording to ./videos/segment_05:35:47.h264
+[2024-08-08 05:35:54.895] Camera App : Recording to ./videos/segment_05:35:54.h264
+[2024-08-08 05:35:55.871] Camera App : Camera is already activated
+[2024-08-08 05:35:56.878] Camera App : Camera is already activated
+[2024-08-08 05:35:57.379] Camera App : Camera is already activated
+[2024-08-08 05:35:57.881] Camera App : Camera is already activated
+[2024-08-08 05:35:58.382] Camera App : Camera is already activated
+[2024-08-08 05:36:00.891] Camera App : Camera is already activated
+[2024-08-08 05:36:01.392] Camera App : Camera is already activated
+[2024-08-08 05:36:01.929] Camera App : Finished recording to ./videos/segment_05:35:54.h264
+[2024-08-08 05:36:01.979] Camera App : Recording to ./videos/segment_05:36:01.h264
+[2024-08-08 05:36:03.400] Camera App : Camera is already activated
+[2024-08-08 05:36:03.903] Camera App : Camera is already activated
+[2024-08-08 05:36:04.906] Camera App : Camera is already activated
+[2024-08-08 05:36:05.595] Camera App : Requested termination from main App
+[2024-08-08 05:36:05.596] Terminating Camera App
+[2024-08-08 05:36:05.596] Closing client socket
+[2024-08-08 05:38:25.078] Log file generated
+[2024-08-08 05:38:25.080] Starting Camera App
+[2024-08-08 05:38:25.201] Camera Configuration Complete
+[2024-08-08 05:38:25.202] Camera App : Connected to CommsCore App
+[2024-08-08 05:38:25.602] Camera App : Recording to ./videos/segment_05:38:25.h264
+[2024-08-08 05:38:25.893] Camera App : Camera is already activated
+[2024-08-08 05:38:26.394] Camera App : Camera is already activated
+[2024-08-08 05:38:26.896] Camera App : Camera is already activated
+[2024-08-08 05:38:27.396] Camera App : Camera is already activated
+[2024-08-08 05:38:28.398] Camera App : Camera is already activated
+[2024-08-08 05:38:29.400] Camera App : Camera is already activated
+[2024-08-08 05:38:30.402] Camera App : Camera is already activated
+[2024-08-08 05:38:30.903] Camera App : Camera is already activated
+[2024-08-08 05:38:31.406] Camera App : Camera is already activated
+[2024-08-08 05:38:32.408] Camera App : Camera is already activated
+[2024-08-08 05:38:32.635] Camera App : Finished recording to ./videos/segment_05:38:25.h264
+[2024-08-08 05:38:32.677] Camera App : Recording to ./videos/segment_05:38:32.h264
+[2024-08-08 05:38:32.909] Camera App : Camera is already activated
+[2024-08-08 05:38:33.409] Camera App : Camera is already activated
+[2024-08-08 05:38:33.910] Camera App : Camera is already activated
+[2024-08-08 05:38:34.411] Camera App : Camera is already activated
+[2024-08-08 05:38:34.912] Camera App : Camera is already activated
+[2024-08-08 05:38:35.413] Camera App : Camera is already activated
+[2024-08-08 05:38:36.414] Camera App : Camera is already activated
+[2024-08-08 05:38:36.915] Camera App : Camera is already activated
+[2024-08-08 05:38:37.416] Camera App : Camera is already activated
+[2024-08-08 05:38:37.917] Camera App : Camera is already activated
+[2024-08-08 05:38:53.084] Camera App : Camera is already activated
+[2024-08-08 05:38:53.586] Camera App : Camera is already activated
+[2024-08-08 05:38:54.086] Camera App : Camera is already activated
+[2024-08-08 05:38:54.378] Camera App : Finished recording to ./videos/segment_05:38:32.h264
+[2024-08-08 05:38:54.418] Camera App : Recording to ./videos/segment_05:38:54.h264
+[2024-08-08 05:38:54.587] Camera App : Camera is already activated
+[2024-08-08 05:38:55.088] Camera App : Camera is already activated
+[2024-08-08 05:38:55.589] Camera App : Camera is already activated
+[2024-08-08 05:38:56.091] Camera App : Camera is already activated
+[2024-08-08 05:38:57.093] Camera App : Camera is already activated
+[2024-08-08 05:38:58.094] Camera App : Camera is already activated
+[2024-08-08 05:38:59.097] Camera App : Camera is already activated
+[2024-08-08 05:39:00.100] Camera App : Camera is already activated
+[2024-08-08 05:39:00.602] Camera App : Camera is already activated
+[2024-08-08 05:39:01.102] Camera App : Camera is already activated
+[2024-08-08 05:39:01.455] Camera App : Finished recording to ./videos/segment_05:38:54.h264
+[2024-08-08 05:39:01.500] Camera App : Recording to ./videos/segment_05:39:01.h264
+[2024-08-08 05:39:02.105] Camera App : Camera is already activated
+[2024-08-08 05:39:02.606] Camera App : Camera is already activated
+[2024-08-08 05:39:03.107] Camera App : Camera is already activated
+[2024-08-08 05:39:03.608] Camera App : Camera is already activated
+[2024-08-08 05:39:04.109] Camera App : Camera is already activated
+[2024-08-08 05:39:05.110] Camera App : Camera is already activated
+[2024-08-08 05:39:05.611] Camera App : Camera is already activated
+[2024-08-08 05:39:06.112] Camera App : Camera is already activated
+[2024-08-08 05:39:06.613] Camera App : Camera is already activated
+[2024-08-08 05:39:08.881] Camera App : Camera is already activated
+[2024-08-08 05:39:08.915] Camera App : Finished recording to ./videos/segment_05:39:01.h264
+[2024-08-08 05:39:08.960] Camera App : Recording to ./videos/segment_05:39:08.h264
+[2024-08-08 05:39:10.885] Camera App : Camera is already activated
+[2024-08-08 05:39:11.386] Camera App : Camera is already activated
+[2024-08-08 05:39:11.887] Camera App : Camera is already activated
+[2024-08-08 05:39:12.389] Camera App : Camera is already activated
+[2024-08-08 05:39:12.890] Camera App : Camera is already activated
+[2024-08-08 05:39:13.391] Camera App : Camera is already activated
+[2024-08-08 05:39:13.892] Camera App : Camera is already activated
+[2024-08-08 05:39:14.393] Camera App : Camera is already activated
+[2024-08-08 05:39:14.895] Camera App : Camera is already activated
+[2024-08-08 05:39:15.396] Camera App : Camera is already activated
+[2024-08-08 05:39:15.897] Camera App : Camera is already activated
+[2024-08-08 05:39:15.999] Camera App : Finished recording to ./videos/segment_05:39:08.h264
+[2024-08-08 05:39:16.040] Camera App : Recording to ./videos/segment_05:39:16.h264
+[2024-08-08 05:39:16.398] Camera App : Camera is already activated
+[2024-08-08 05:39:16.899] Camera App : Camera is already activated
+[2024-08-08 05:39:17.400] Camera App : Camera is already activated
+[2024-08-08 05:39:17.901] Camera App : Camera is already activated
+[2024-08-08 05:39:18.402] Camera App : Camera is already activated
+[2024-08-08 05:39:18.903] Camera App : Camera is already activated
+[2024-08-08 05:39:19.404] Camera App : Camera is already activated
+[2024-08-08 05:39:19.905] Camera App : Camera is already activated
+[2024-08-08 05:39:21.408] Camera App : Camera is already activated
+[2024-08-08 05:39:22.411] Camera App : Camera is already activated
+[2024-08-08 05:39:22.912] Camera App : Camera is already activated
+[2024-08-08 05:39:23.413] Camera App : Camera is already activated
+[2024-08-08 05:39:23.455] Camera App : Finished recording to ./videos/segment_05:39:16.h264
+[2024-08-08 05:39:23.499] Camera App : Recording to ./videos/segment_05:39:23.h264
+[2024-08-08 05:39:23.914] Camera App : Camera is already activated
+[2024-08-08 05:39:25.921] Camera App : Camera is already activated
+[2024-08-08 05:39:26.422] Camera App : Camera is already activated
+[2024-08-08 05:39:26.924] Camera App : Camera is already activated
+[2024-08-08 05:39:27.426] Camera App : Camera is already activated
+[2024-08-08 05:39:28.428] Camera App : Camera is already activated
+[2024-08-08 05:39:30.535] Camera App : Finished recording to ./videos/segment_05:39:23.h264
+[2024-08-08 05:39:30.582] Camera App : Recording to ./videos/segment_05:39:30.h264
+[2024-08-08 05:39:30.936] Camera App : Camera is already activated
+[2024-08-08 05:39:31.437] Camera App : Camera is already activated
+[2024-08-08 05:39:31.938] Camera App : Camera is already activated
+[2024-08-08 05:39:32.439] Camera App : Camera is already activated
+[2024-08-08 05:39:32.941] Camera App : Camera is already activated
+[2024-08-08 05:39:34.947] Camera App : Camera is already activated
+[2024-08-08 05:39:35.951] Camera App : Camera is already activated
+[2024-08-08 05:39:36.451] Camera App : Camera is already activated
+[2024-08-08 05:39:37.454] Camera App : Camera is already activated
+[2024-08-08 05:39:37.610] Camera App : Finished recording to ./videos/segment_05:39:30.h264
+[2024-08-08 05:39:37.649] Camera App : Recording to ./videos/segment_05:39:37.h264
+[2024-08-08 05:39:37.955] Camera App : Camera is already activated
+[2024-08-08 05:39:38.456] Camera App : Camera is already activated
+[2024-08-08 05:39:39.458] Camera App : Camera is already activated
+[2024-08-08 05:39:39.959] Camera App : Camera is already activated
+[2024-08-08 05:39:43.468] Camera App : Camera is already activated
+[2024-08-08 05:39:43.969] Camera App : Camera is already activated
+[2024-08-08 05:39:44.472] Camera App : Camera is already activated
+[2024-08-08 05:39:44.692] Camera App : Finished recording to ./videos/segment_05:39:37.h264
+[2024-08-08 05:39:44.732] Camera App : Recording to ./videos/segment_05:39:44.h264
+[2024-08-08 05:39:44.972] Camera App : Camera is already activated
+[2024-08-08 05:39:45.974] Camera App : Camera is already activated
+[2024-08-08 05:41:06.163] Log file generated
+[2024-08-08 05:41:06.165] Starting Camera App
+[2024-08-08 05:41:06.324] Camera Configuration Complete
+[2024-08-08 05:41:06.324] Camera App : Connected to CommsCore App
+[2024-08-08 05:41:06.914] Camera App : Recording to ./videos/segment_05:41:06.h264
+[2024-08-08 05:41:07.209] Camera App : Camera is already activated
+[2024-08-08 05:41:09.716] Camera App : Camera is already activated
+[2024-08-08 05:41:11.221] Camera App : Camera is already activated
+[2024-08-08 05:41:11.722] Camera App : Camera is already activated
+[2024-08-08 05:41:12.222] Camera App : Camera is already activated
+[2024-08-08 05:41:12.723] Camera App : Camera is already activated
+[2024-08-08 05:41:14.175] Camera App : Finished recording to ./videos/segment_05:41:06.h264
+[2024-08-08 05:41:14.223] Camera App : Recording to ./videos/segment_05:41:14.h264
+[2024-08-08 05:41:15.134] Camera App : Camera is already activated
+[2024-08-08 05:41:15.636] Camera App : Camera is already activated
+[2024-08-08 05:41:16.136] Camera App : Camera is already activated
+[2024-08-08 05:41:16.638] Camera App : Camera is already activated
+[2024-08-08 05:41:17.140] Camera App : Camera is already activated
+[2024-08-08 05:41:17.640] Camera App : Camera is already activated
+[2024-08-08 05:41:18.644] Camera App : Camera is already activated
+[2024-08-08 05:41:19.145] Camera App : Camera is already activated
+[2024-08-08 05:41:20.149] Camera App : Camera is already activated
+[2024-08-08 05:41:21.151] Camera App : Camera is already activated
+[2024-08-08 05:41:21.255] Camera App : Finished recording to ./videos/segment_05:41:14.h264
+[2024-08-08 05:41:21.292] Camera App : Recording to ./videos/segment_05:41:21.h264
+[2024-08-08 05:42:30.893] Camera App : Camera is already activated
+[2024-08-08 05:42:31.394] Camera App : Camera is already activated
+[2024-08-08 05:42:31.895] Camera App : Camera is already activated
+[2024-08-08 05:42:32.396] Camera App : Camera is already activated
+[2024-08-08 05:42:32.897] Camera App : Camera is already activated
+[2024-08-08 05:42:33.399] Camera App : Camera is already activated
+[2024-08-08 05:42:33.899] Camera App : Camera is already activated
+[2024-08-08 05:42:34.400] Camera App : Camera is already activated
+[2024-08-08 05:42:35.402] Camera App : Camera is already activated
+[2024-08-08 05:42:35.903] Camera App : Camera is already activated
+[2024-08-08 05:42:36.404] Camera App : Camera is already activated
+[2024-08-08 05:42:36.906] Camera App : Camera is already activated
+[2024-08-08 05:42:37.407] Camera App : Camera is already activated
+[2024-08-08 05:42:37.942] Camera App : Finished recording to ./videos/segment_05:41:21.h264
+[2024-08-08 05:42:37.977] Camera App : Recording to ./videos/segment_05:42:37.h264
+[2024-08-08 05:42:38.409] Camera App : Camera is already activated
+[2024-08-08 05:42:38.910] Camera App : Camera is already activated
+[2024-08-08 05:42:39.912] Camera App : Camera is already activated
+[2024-08-08 05:42:40.414] Camera App : Camera is already activated
+[2024-08-08 05:42:41.917] Camera App : Camera is already activated
+[2024-08-08 05:42:42.418] Camera App : Camera is already activated
+[2024-08-08 05:42:42.920] Camera App : Camera is already activated
+[2024-08-08 05:42:43.421] Camera App : Camera is already activated
+[2024-08-08 05:42:44.425] Camera App : Camera is already activated
+[2024-08-08 05:42:45.010] Camera App : Finished recording to ./videos/segment_05:42:37.h264
+[2024-08-08 05:42:45.052] Camera App : Recording to ./videos/segment_05:42:45.h264
+[2024-08-08 05:42:45.430] Camera App : Camera is already activated
+[2024-08-08 05:42:47.435] Camera App : Camera is already activated
+[2024-08-08 05:42:47.935] Camera App : Camera is already activated
+[2024-08-08 05:42:48.437] Camera App : Camera is already activated
+[2024-08-08 05:42:48.938] Camera App : Camera is already activated
+[2024-08-08 05:42:49.439] Camera App : Camera is already activated
+[2024-08-08 05:42:50.441] Camera App : Camera is already activated
+[2024-08-08 05:42:50.942] Camera App : Camera is already activated
+[2024-08-08 05:42:51.443] Camera App : Camera is already activated
+[2024-08-08 05:42:52.446] Camera App : Camera is already activated
+[2024-08-08 05:42:52.466] Camera App : Finished recording to ./videos/segment_05:42:45.h264
+[2024-08-08 05:42:52.510] Camera App : Recording to ./videos/segment_05:42:52.h264
+[2024-08-08 05:42:52.947] Camera App : Camera is already activated
+[2024-08-08 05:42:53.449] Camera App : Camera is already activated
+[2024-08-08 05:42:53.949] Camera App : Camera is already activated
+[2024-08-08 05:42:54.450] Camera App : Camera is already activated
+[2024-08-08 05:42:55.452] Camera App : Camera is already activated
+[2024-08-08 05:42:56.454] Camera App : Camera is already activated
+[2024-08-08 05:42:56.955] Camera App : Camera is already activated
+[2024-08-08 05:42:57.456] Camera App : Camera is already activated
+[2024-08-08 05:42:58.458] Camera App : Camera is already activated
+[2024-08-08 05:42:58.960] Camera App : Camera is already activated
+[2024-08-08 05:42:59.460] Camera App : Camera is already activated
+[2024-08-08 05:42:59.916] Camera App : Finished recording to ./videos/segment_05:42:52.h264
+[2024-08-08 05:42:59.952] Camera App : Recording to ./videos/segment_05:42:59.h264
+[2024-08-08 05:42:59.960] Camera App : Camera is already activated
+[2024-08-08 05:43:00.461] Camera App : Camera is already activated
+[2024-08-08 05:43:01.463] Camera App : Camera is already activated
+[2024-08-08 05:43:02.466] Camera App : Camera is already activated
+[2024-08-08 05:43:02.966] Camera App : Camera is already activated
+[2024-08-08 05:43:03.469] Camera App : Camera is already activated
+[2024-08-08 05:43:04.470] Camera App : Camera is already activated
+[2024-08-08 05:43:05.475] Camera App : Camera is already activated
+[2024-08-08 05:43:05.976] Camera App : Camera is already activated
+[2024-08-08 05:43:06.478] Camera App : Camera is already activated
+[2024-08-08 05:43:06.987] Camera App : Finished recording to ./videos/segment_05:42:59.h264
+[2024-08-08 05:43:07.034] Camera App : Recording to ./videos/segment_05:43:06.h264
+[2024-08-08 05:43:07.479] Camera App : Camera is already activated
+[2024-08-08 05:43:07.981] Camera App : Camera is already activated
+[2024-08-08 05:43:08.482] Camera App : Camera is already activated
+[2024-08-08 05:43:08.983] Camera App : Camera is already activated
+[2024-08-08 05:43:09.484] Camera App : Camera is already activated
+[2024-08-08 05:43:10.300] Camera App : Camera is already activated
+[2024-08-08 05:43:12.806] Camera App : Camera is already activated
+[2024-08-08 05:43:13.307] Camera App : Camera is already activated
+[2024-08-08 05:43:14.070] Camera App : Finished recording to ./videos/segment_05:43:06.h264
+[2024-08-08 05:43:14.113] Camera App : Recording to ./videos/segment_05:43:14.h264
+[2024-08-08 05:43:15.313] Camera App : Camera is already activated
+[2024-08-08 05:43:16.315] Camera App : Camera is already activated
+[2024-08-08 05:43:16.816] Camera App : Camera is already activated
+[2024-08-08 05:43:17.317] Camera App : Camera is already activated
+[2024-08-08 05:43:17.818] Camera App : Camera is already activated
+[2024-08-08 05:43:18.318] Camera App : Camera is already activated
+[2024-08-08 05:43:19.821] Camera App : Camera is already activated
+[2024-08-08 05:43:20.322] Camera App : Camera is already activated
+[2024-08-08 05:43:20.823] Camera App : Camera is already activated
+[2024-08-08 05:43:21.153] Camera App : Finished recording to ./videos/segment_05:43:14.h264
+[2024-08-08 05:43:21.196] Camera App : Recording to ./videos/segment_05:43:21.h264
+[2024-08-08 05:43:21.324] Camera App : Camera is already activated
+[2024-08-08 05:43:21.826] Camera App : Camera is already activated
+[2024-08-08 05:43:22.327] Camera App : Camera is already activated
+[2024-08-08 05:43:22.828] Camera App : Camera is already activated
+[2024-08-08 05:43:23.329] Camera App : Camera is already activated
+[2024-08-08 05:43:23.831] Camera App : Camera is already activated
+[2024-08-08 05:43:24.332] Camera App : Camera is already activated
+[2024-08-08 05:43:24.833] Camera App : Camera is already activated
+[2024-08-08 05:43:25.334] Camera App : Camera is already activated
+[2024-08-08 05:43:25.835] Camera App : Camera is already activated
+[2024-08-08 05:43:26.336] Camera App : Camera is already activated
+[2024-08-08 05:43:26.837] Camera App : Camera is already activated
+[2024-08-08 05:43:27.338] Camera App : Camera is already activated
+[2024-08-08 05:43:27.840] Camera App : Camera is already activated
+[2024-08-08 05:43:28.234] Camera App : Finished recording to ./videos/segment_05:43:21.h264
+[2024-08-08 05:43:28.272] Camera App : Recording to ./videos/segment_05:43:28.h264
+[2024-08-08 05:43:28.341] Camera App : Camera is already activated
+[2024-08-08 05:43:28.842] Camera App : Camera is already activated
+[2024-08-08 05:43:29.343] Camera App : Camera is already activated
+[2024-08-08 05:43:29.846] Camera App : Camera is already activated
+[2024-08-08 05:43:31.664] Camera App : Camera is already activated
+[2024-08-08 05:43:32.166] Camera App : Camera is already activated
+[2024-08-08 05:43:32.666] Camera App : Camera is already activated
+[2024-08-08 05:43:53.026] Log file generated
+[2024-08-08 05:43:53.029] Starting Camera App
+[2024-08-08 05:43:53.153] Camera Configuration Complete
+[2024-08-08 05:43:53.153] Camera App : Connected to CommsCore App
+[2024-08-08 05:44:54.083] Log file generated
+[2024-08-08 05:44:54.085] Starting Camera App
+[2024-08-08 05:44:54.210] Camera Configuration Complete
+[2024-08-08 05:44:54.211] Camera App : Connected to CommsCore App
+[2024-08-08 05:45:04.932] Camera App : Recording to ./videos/segment_05:45:04.h264
+[2024-08-08 05:45:05.664] Camera App : Camera is already activated
+[2024-08-08 05:45:06.666] Camera App : Camera is already activated
+[2024-08-08 05:45:07.167] Camera App : Camera is already activated
+[2024-08-08 05:45:07.668] Camera App : Camera is already activated
+[2024-08-08 05:45:08.169] Camera App : Camera is already activated
+[2024-08-08 05:45:08.670] Camera App : Camera is already activated
+[2024-08-08 05:45:09.171] Camera App : Camera is already activated
+[2024-08-08 05:45:09.672] Camera App : Camera is already activated
+[2024-08-08 05:45:10.173] Camera App : Camera is already activated
+[2024-08-08 05:45:10.674] Camera App : Camera is already activated
+[2024-08-08 05:45:11.676] Camera App : Camera is already activated
+[2024-08-08 05:45:11.974] Camera App : Finished recording to ./videos/segment_05:45:04.h264
+[2024-08-08 05:45:12.022] Camera App : Recording to ./videos/segment_05:45:11.h264
+[2024-08-08 05:45:12.177] Camera App : Camera is already activated
+[2024-08-08 05:45:12.678] Camera App : Camera is already activated
+[2024-08-08 05:45:13.681] Camera App : Camera is already activated
+[2024-08-08 05:45:14.182] Camera App : Camera is already activated
+[2024-08-08 05:45:14.683] Camera App : Camera is already activated
+[2024-08-08 05:45:15.183] Camera App : Camera is already activated
+[2024-08-08 05:45:15.684] Camera App : Camera is already activated
+[2024-08-08 05:45:16.185] Camera App : Camera is already activated
+[2024-08-08 05:45:16.686] Camera App : Camera is already activated
+[2024-08-08 05:45:17.688] Camera App : Camera is already activated
+[2024-08-08 05:45:18.690] Camera App : Camera is already activated
+[2024-08-08 05:45:19.057] Camera App : Finished recording to ./videos/segment_05:45:11.h264
+[2024-08-08 05:45:19.099] Camera App : Recording to ./videos/segment_05:45:19.h264
+[2024-08-08 05:45:19.692] Camera App : Camera is already activated
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [2024-08-08 05:44:53.741] Log file generated
+[2024-08-08 05:44:53.743] Starting Camera App
+[2024-08-08 05:44:53.863] Camera Configuration Complete
+[2024-08-08 05:44:53.863] Camera App : Connected to CommsCore App
+[2024-08-08 05:53:59.493] Log file generated
+[2024-08-08 05:53:59.495] Starting Camera App
+[2024-08-08 05:53:59.578] Camera Configuration Complete
+[2024-08-08 05:53:59.583] Camera App : Connected to CommsCore App
+[2024-08-08 14:18:40.581] Camera App : Recording to ./videos/segment_14:18:40.h264
+[2024-08-08 14:18:44.388] Camera App : Camera is already activated
+[2024-08-08 14:18:45.391] Camera App : Camera is already activated
+[2024-08-08 14:18:45.892] Camera App : Camera is already activated
+[2024-08-08 14:18:46.393] Camera App : Camera is already activated
+[2024-08-08 14:18:47.641] Camera App : Finished recording to ./videos/segment_14:18:40.h264
+[2024-08-08 14:18:47.682] Camera App : Recording to ./videos/segment_14:18:47.h264
+[2024-08-08 14:18:48.399] Camera App : Camera is already activated
+[2024-08-08 14:18:50.908] Camera App : Camera is already activated
+[2024-08-08 14:18:51.912] Camera App : Camera is already activated
+[2024-08-08 14:18:52.915] Camera App : Camera is already activated
+[2024-08-08 14:18:53.416] Camera App : Camera is already activated
+[2024-08-08 14:18:54.714] Camera App : Finished recording to ./videos/segment_14:18:47.h264
+[2024-08-08 14:18:54.755] Camera App : Recording to ./videos/segment_14:18:54.h264
+[2024-08-08 14:18:54.921] Camera App : Camera is already activated
+[2024-08-08 14:18:55.421] Camera App : Camera is already activated
+[2024-08-08 14:18:55.923] Camera App : Camera is already activated
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          [2024-08-08 14:18:30.620] Log file generated
+[2024-08-08 14:18:30.621] Starting Camera App
+[2024-08-08 14:18:30.743] Camera Configuration Complete
+[2024-08-08 14:18:30.744] Camera App : Connected to CommsCore App
+[2024-08-08 14:26:03.393] Camera App : Recording to ./videos/segment_14:26:03.h264
+[2024-08-08 14:26:04.161] Camera App : Camera is already activated
+[2024-08-08 14:26:04.662] Camera App : Camera is already activated
+[2024-08-08 14:26:05.163] Camera App : Camera is already activated
+[2024-08-08 14:26:05.664] Camera App : Camera is already activated
+[2024-08-08 14:26:06.165] Camera App : Camera is already activated
+[2024-08-08 14:26:06.666] Camera App : Camera is already activated
+[2024-08-08 14:26:07.167] Camera App : Camera is already activated
+[2024-08-08 14:26:07.668] Camera App : Camera is already activated
+[2024-08-08 14:26:08.169] Camera App : Camera is already activated
+[2024-08-08 14:26:08.670] Camera App : Camera is already activated
+[2024-08-08 14:26:09.673] Camera App : Camera is already activated
+[2024-08-08 14:26:10.432] Camera App : Finished recording to ./videos/segment_14:26:03.h264
+[2024-08-08 14:26:10.471] Camera App : Recording to ./videos/segment_14:26:10.h264
+[2024-08-08 14:26:10.675] Camera App : Camera is already activated
+[2024-08-08 14:26:11.176] Camera App : Camera is already activated
+[2024-08-08 14:26:11.678] Camera App : Camera is already activated
+[2024-08-08 14:26:14.685] Camera App : Camera is already activated
+[2024-08-08 14:26:15.188] Camera App : Camera is already activated
+[2024-08-08 14:26:16.189] Camera App : Camera is already activated
+[2024-08-08 14:26:16.691] Camera App : Camera is already activated
+[2024-08-08 14:26:17.192] Camera App : Camera is already activated
+[2024-08-08 14:26:17.693] Camera App : Camera is already activated
+[2024-08-08 14:26:17.887] Camera App : Finished recording to ./videos/segment_14:26:10.h264
+[2024-08-08 14:26:17.931] Camera App : Recording to ./videos/segment_14:26:17.h264
+[2024-08-08 14:26:18.194] Camera App : Camera is already activated
+[2024-08-08 14:26:18.695] Camera App : Camera is already activated
+[2024-08-08 14:26:19.196] Camera App : Camera is already activated
+[2024-08-08 14:26:19.698] Camera App : Camera is already activated
+[2024-08-08 14:26:20.199] Camera App : Camera is already activated
+[2024-08-08 14:26:20.700] Camera App : Camera is already activated
+[2024-08-08 14:26:21.201] Camera App : Camera is already activated
+[2024-08-08 14:26:21.704] Camera App : Camera is already activated
+[2024-08-08 14:26:22.204] Camera App : Camera is already activated
+[2024-08-08 14:26:22.706] Camera App : Camera is already activated
+[2024-08-08 14:26:23.207] Camera App : Camera is already activated
+[2024-08-08 14:26:23.709] Camera App : Camera is already activated
+[2024-08-08 14:26:24.210] Camera App : Camera is already activated
+[2024-08-08 14:26:24.712] Camera App : Camera is already activated
+[2024-08-08 14:26:25.212] Camera App : Camera is already activated
+[2024-08-08 14:26:25.339] Camera App : Finished recording to ./videos/segment_14:26:17.h264
+[2024-08-08 14:26:25.375] Camera App : Recording to ./videos/segment_14:26:25.h264
+[2024-08-08 14:26:25.713] Camera App : Camera is already activated
+[2024-08-08 14:26:26.214] Camera App : Camera is already activated
+[2024-08-08 14:26:26.715] Camera App : Camera is already activated
+[2024-08-08 14:26:27.217] Camera App : Camera is already activated
+[2024-08-08 14:26:28.721] Camera App : Camera is already activated
+[2024-08-08 14:26:29.223] Camera App : Camera is already activated
+[2024-08-08 14:26:30.225] Camera App : Camera is already activated
+[2024-08-08 14:26:30.726] Camera App : Camera is already activated
+[2024-08-08 14:26:31.227] Camera App : Camera is already activated
+[2024-08-08 14:26:31.729] Camera App : Camera is already activated
+[2024-08-08 14:26:32.229] Camera App : Camera is already activated
+[2024-08-08 14:26:32.730] Camera App : Camera is already activated
+[2024-08-08 14:26:32.783] Camera App : Finished recording to ./videos/segment_14:26:25.h264
+[2024-08-08 14:26:32.820] Camera App : Recording to ./videos/segment_14:26:32.h264
+[2024-08-08 14:26:33.232] Camera App : Camera is already activated
+[2024-08-08 14:26:33.734] Camera App : Camera is already activated
+[2024-08-08 14:26:36.742] Camera App : Camera is already activated
+[2024-08-08 14:26:37.246] Camera App : Camera is already activated
+[2024-08-08 14:26:38.248] Camera App : Camera is already activated
+[2024-08-08 14:26:39.250] Camera App : Camera is already activated
+[2024-08-08 14:26:39.751] Camera App : Camera is already activated
+[2024-08-08 14:26:40.227] Camera App : Finished recording to ./videos/segment_14:26:32.h264
+[2024-08-08 14:26:40.263] Camera App : Camera is already activated
+[2024-08-08 14:26:40.263] Camera App : Recording to ./videos/segment_14:26:40.h264
+[2024-08-08 14:26:40.753] Camera App : Camera is already activated
+[2024-08-08 14:26:41.254] Camera App : Camera is already activated
+[2024-08-08 14:26:41.755] Camera App : Camera is already activated
+[2024-08-08 14:26:43.431] Camera App : Camera is already activated
+[2024-08-08 14:26:43.933] Camera App : Camera is already activated
+[2024-08-08 14:26:44.935] Camera App : Camera is already activated
+[2024-08-08 14:26:45.436] Camera App : Camera is already activated
+[2024-08-08 14:26:47.679] Camera App : Finished recording to ./videos/segment_14:26:40.h264
+[2024-08-08 14:26:47.722] Camera App : Recording to ./videos/segment_14:26:47.h264
+[2024-08-08 14:26:47.942] Camera App : Camera is already activated
+[2024-08-08 14:26:48.443] Camera App : Camera is already activated
+[2024-08-08 14:26:48.945] Camera App : Camera is already activated
+[2024-08-08 14:26:49.446] Camera App : Camera is already activated
+[2024-08-08 14:26:49.948] Camera App : Camera is already activated
+[2024-08-08 14:26:50.952] Camera App : Camera is already activated
+[2024-08-08 14:26:51.453] Camera App : Camera is already activated
+[2024-08-08 14:26:52.456] Camera App : Camera is already activated
+[2024-08-08 14:26:52.957] Camera App : Camera is already activated
+[2024-08-08 14:26:53.458] Camera App : Camera is already activated
+[2024-08-08 14:26:53.959] Camera App : Camera is already activated
+[2024-08-08 14:26:55.136] Camera App : Finished recording to ./videos/segment_14:26:47.h264
+[2024-08-08 14:26:55.178] Camera App : Recording to ./videos/segment_14:26:55.h264
+[2024-08-08 14:26:55.964] Camera App : Camera is already activated
+[2024-08-08 14:26:56.466] Camera App : Camera is already activated
+[2024-08-08 14:26:56.967] Camera App : Camera is already activated
+[2024-08-08 14:26:57.969] Camera App : Camera is already activated
+[2024-08-08 14:26:58.471] Camera App : Camera is already activated
+[2024-08-08 14:26:58.971] Camera App : Camera is already activated
+[2024-08-08 14:26:59.472] Camera App : Camera is already activated
+[2024-08-08 14:27:00.475] Camera App : Camera is already activated
+[2024-08-08 14:27:00.975] Camera App : Camera is already activated
+[2024-08-08 14:27:01.476] Camera App : Camera is already activated
+[2024-08-08 14:27:02.208] Camera App : Finished recording to ./videos/segment_14:26:55.h264
+[2024-08-08 14:27:02.246] Camera App : Recording to ./videos/segment_14:27:02.h264
+[2024-08-08 14:27:02.980] Camera App : Camera is already activated
+[2024-08-08 14:27:03.481] Camera App : Camera is already activated
+[2024-08-08 14:27:03.983] Camera App : Camera is already activated
+[2024-08-08 14:27:04.484] Camera App : Camera is already activated
+[2024-08-08 14:27:04.985] Camera App : Camera is already activated
+[2024-08-08 14:27:05.486] Camera App : Camera is already activated
+[2024-08-08 14:27:05.987] Camera App : Camera is already activated
+[2024-08-08 14:27:06.990] Camera App : Camera is already activated
+[2024-08-08 14:27:07.491] Camera App : Camera is already activated
+[2024-08-08 14:27:07.992] Camera App : Camera is already activated
+[2024-08-08 14:27:08.994] Camera App : Camera is already activated
+[2024-08-08 14:27:09.282] Camera App : Finished recording to ./videos/segment_14:27:02.h264
+[2024-08-08 14:27:09.321] Camera App : Recording to ./videos/segment_14:27:09.h264
+[2024-08-08 14:27:09.496] Camera App : Camera is already activated
+[2024-08-08 14:27:09.997] Camera App : Camera is already activated
+[2024-08-08 14:27:10.498] Camera App : Camera is already activated
+[2024-08-08 14:27:12.002] Camera App : Camera is already activated
+[2024-08-08 14:27:14.007] Camera App : Camera is already activated
+[2024-08-08 14:27:15.009] Camera App : Camera is already activated
+[2024-08-08 14:27:15.510] Camera App : Camera is already activated
+[2024-08-08 14:27:16.011] Camera App : Camera is already activated
+[2024-08-08 14:27:16.513] Camera App : Camera is already activated
+[2024-08-08 14:27:16.751] Camera App : Finished recording to ./videos/segment_14:27:09.h264
+[2024-08-08 14:27:16.797] Camera App : Recording to ./videos/segment_14:27:16.h264
+[2024-08-08 14:27:17.516] Camera App : Camera is already activated
+[2024-08-08 14:27:19.020] Camera App : Camera is already activated
+[2024-08-08 14:27:20.023] Camera App : Camera is already activated
+[2024-08-08 14:27:20.524] Camera App : Camera is already activated
+[2024-08-08 14:27:21.025] Camera App : Camera is already activated
+[2024-08-08 14:27:21.527] Camera App : Camera is already activated
+[2024-08-08 14:27:22.028] Camera App : Camera is already activated
+[2024-08-08 14:27:22.529] Camera App : Camera is already activated
+[2024-08-08 14:27:23.030] Camera App : Camera is already activated
+[2024-08-08 14:27:23.531] Camera App : Camera is already activated
+[2024-08-08 14:27:23.830] Camera App : Finished recording to ./videos/segment_14:27:16.h264
+[2024-08-08 14:27:23.872] Camera App : Recording to ./videos/segment_14:27:23.h264
+[2024-08-08 14:27:24.033] Camera App : Camera is already activated
+[2024-08-08 14:27:24.534] Camera App : Camera is already activated
+[2024-08-08 14:27:25.036] Camera App : Camera is already activated
+[2024-08-08 14:27:25.537] Camera App : Camera is already activated
+[2024-08-08 14:27:26.038] Camera App : Camera is already activated
+[2024-08-08 14:27:27.040] Camera App : Camera is already activated
+[2024-08-08 14:27:27.541] Camera App : Camera is already activated
+[2024-08-08 14:27:28.042] Camera App : Camera is already activated
+[2024-08-08 14:27:28.543] Camera App : Camera is already activated
+[2024-08-08 14:27:29.545] Camera App : Camera is already activated
+[2024-08-08 14:27:30.046] Camera App : Camera is already activated
+[2024-08-08 14:27:30.547] Camera App : Camera is already activated
+[2024-08-08 14:27:31.048] Camera App : Camera is already activated
+[2024-08-08 14:27:31.281] Camera App : Finished recording to ./videos/segment_14:27:23.h264
+[2024-08-08 14:27:31.316] Camera App : Recording to ./videos/segment_14:27:31.h264
+[2024-08-08 14:27:32.051] Camera App : Camera is already activated
+[2024-08-08 14:27:32.551] Camera App : Camera is already activated
+[2024-08-08 14:27:33.053] Camera App : Camera is already activated
+[2024-08-08 14:27:33.554] Camera App : Camera is already activated
+[2024-08-08 14:27:34.055] Camera App : Camera is already activated
+[2024-08-08 14:27:34.556] Camera App : Camera is already activated
+[2024-08-08 14:27:38.065] Camera App : Camera is already activated
+[2024-08-08 14:27:38.566] Camera App : Camera is already activated
+[2024-08-08 14:27:38.731] Camera App : Finished recording to ./videos/segment_14:27:31.h264
+[2024-08-08 14:27:38.771] Camera App : Recording to ./videos/segment_14:27:38.h264
+[2024-08-08 14:27:39.067] Camera App : Camera is already activated
+[2024-08-08 14:27:39.568] Camera App : Camera is already activated
+[2024-08-08 14:27:40.070] Camera App : Camera is already activated
+[2024-08-08 14:27:40.571] Camera App : Camera is already activated
+[2024-08-08 14:27:41.072] Camera App : Camera is already activated
+[2024-08-08 14:27:43.077] Camera App : Camera is already activated
+[2024-08-08 14:27:44.079] Camera App : Camera is already activated
+[2024-08-08 14:27:45.584] Camera App : Camera is already activated
+[2024-08-08 14:27:46.083] Camera App : Camera is already activated
+[2024-08-08 14:27:46.181] Camera App : Finished recording to ./videos/segment_14:27:38.h264
+[2024-08-08 14:27:46.218] Camera App : Recording to ./videos/segment_14:27:46.h264
+[2024-08-08 14:27:46.584] Camera App : Camera is already activated
+[2024-08-08 14:27:47.085] Camera App : Camera is already activated
+[2024-08-08 14:27:47.586] Camera App : Camera is already activated
+[2024-08-08 14:27:48.087] Camera App : Camera is already activated
+[2024-08-08 14:27:48.589] Camera App : Camera is already activated
+[2024-08-08 14:27:49.089] Camera App : Camera is already activated
+[2024-08-08 14:27:50.092] Camera App : Camera is already activated
+[2024-08-08 14:27:52.096] Camera App : Camera is already activated
+[2024-08-08 14:27:53.599] Camera App : Camera is already activated
+[2024-08-08 14:27:53.628] Camera App : Finished recording to ./videos/segment_14:27:46.h264
+[2024-08-08 14:27:53.669] Camera App : Recording to ./videos/segment_14:27:53.h264
+[2024-08-08 14:27:54.100] Camera App : Camera is already activated
+[2024-08-08 14:27:54.602] Camera App : Camera is already activated
+[2024-08-08 14:27:55.103] Camera App : Camera is already activated
+[2024-08-08 14:27:55.604] Camera App : Camera is already activated
+[2024-08-08 14:27:56.105] Camera App : Camera is already activated
+[2024-08-08 14:27:56.606] Camera App : Camera is already activated
+[2024-08-08 14:27:57.608] Camera App : Camera is already activated
+[2024-08-08 14:27:58.109] Camera App : Camera is already activated
+[2024-08-08 14:27:59.113] Camera App : Camera is already activated
+[2024-08-08 14:28:00.616] Camera App : Camera is already activated
+[2024-08-08 14:28:01.084] Camera App : Finished recording to ./videos/segment_14:27:53.h264
+[2024-08-08 14:28:01.117] Camera App : Camera is already activated
+[2024-08-08 14:28:01.131] Camera App : Recording to ./videos/segment_14:28:01.h264
+[2024-08-08 14:28:02.621] Camera App : Camera is already activated
+[2024-08-08 14:28:03.123] Camera App : Camera is already activated
+[2024-08-08 14:28:03.624] Camera App : Camera is already activated
+[2024-08-08 14:28:04.125] Camera App : Camera is already activated
+[2024-08-08 14:28:04.626] Camera App : Camera is already activated
+[2024-08-08 14:28:05.628] Camera App : Camera is already activated
+[2024-08-08 14:28:06.128] Camera App : Camera is already activated
+[2024-08-08 14:28:06.630] Camera App : Camera is already activated
+[2024-08-08 14:28:07.131] Camera App : Camera is already activated
+[2024-08-08 14:28:07.632] Camera App : Camera is already activated
+[2024-08-08 14:28:08.145] Camera App : Camera is already activated
+[2024-08-08 14:28:08.543] Camera App : Finished recording to ./videos/segment_14:28:01.h264
+[2024-08-08 14:28:08.593] Camera App : Recording to ./videos/segment_14:28:08.h264
+[2024-08-08 14:28:09.135] Camera App : Camera is already activated
+[2024-08-08 14:28:09.638] Camera App : Camera is already activated
+[2024-08-08 14:28:12.143] Camera App : Camera is already activated
+[2024-08-08 14:28:12.644] Camera App : Camera is already activated
+[2024-08-08 14:28:13.145] Camera App : Camera is already activated
+[2024-08-08 14:28:13.646] Camera App : Camera is already activated
+[2024-08-08 14:28:14.147] Camera App : Camera is already activated
+[2024-08-08 14:28:14.648] Camera App : Camera is already activated
+[2024-08-08 14:28:15.999] Camera App : Finished recording to ./videos/segment_14:28:08.h264
+[2024-08-08 14:28:16.035] Camera App : Recording to ./videos/segment_14:28:15.h264
+[2024-08-08 14:28:17.153] Camera App : Camera is already activated
+[2024-08-08 14:28:17.655] Camera App : Camera is already activated
+[2024-08-08 14:28:18.156] Camera App : Camera is already activated
+[2024-08-08 14:28:18.657] Camera App : Camera is already activated
+[2024-08-08 14:28:19.660] Camera App : Camera is already activated
+[2024-08-08 14:28:20.662] Camera App : Camera is already activated
+[2024-08-08 14:28:21.163] Camera App : Camera is already activated
+[2024-08-08 14:28:21.664] Camera App : Camera is already activated
+[2024-08-08 14:28:22.165] Camera App : Camera is already activated
+[2024-08-08 14:28:22.667] Camera App : Camera is already activated
+[2024-08-08 14:28:23.168] Camera App : Camera is already activated
+[2024-08-08 14:28:23.464] Camera App : Finished recording to ./videos/segment_14:28:15.h264
+[2024-08-08 14:28:23.507] Camera App : Recording to ./videos/segment_14:28:23.h264
+[2024-08-08 14:28:23.669] Camera App : Camera is already activated
+[2024-08-08 14:28:24.170] Camera App : Camera is already activated
+[2024-08-08 14:28:24.671] Camera App : Camera is already activated
+[2024-08-08 14:28:25.172] Camera App : Camera is already activated
+[2024-08-08 14:28:25.673] Camera App : Camera is already activated
+[2024-08-08 14:28:26.675] Camera App : Camera is already activated
+[2024-08-08 14:28:27.176] Camera App : Camera is already activated
+[2024-08-08 14:28:27.677] Camera App : Camera is already activated
+[2024-08-08 14:28:28.180] Camera App : Camera is already activated
+[2024-08-08 14:28:28.679] Camera App : Camera is already activated
+[2024-08-08 14:28:29.180] Camera App : Camera is already activated
+[2024-08-08 14:28:29.681] Camera App : Camera is already activated
+[2024-08-08 14:28:30.182] Camera App : Camera is already activated
+[2024-08-08 14:28:30.540] Camera App : Finished recording to ./videos/segment_14:28:23.h264
+[2024-08-08 14:28:30.580] Camera App : Recording to ./videos/segment_14:28:30.h264
+[2024-08-08 14:28:30.683] Camera App : Camera is already activated
+[2024-08-08 14:28:31.184] Camera App : Camera is already activated
+[2024-08-08 14:28:31.686] Camera App : Camera is already activated
+[2024-08-08 14:28:32.186] Camera App : Camera is already activated
+[2024-08-08 14:28:32.688] Camera App : Camera is already activated
+[2024-08-08 14:28:33.689] Camera App : Camera is already activated
+[2024-08-08 14:28:34.190] Camera App : Camera is already activated
+[2024-08-08 14:28:34.692] Camera App : Camera is already activated
+[2024-08-08 14:28:35.192] Camera App : Camera is already activated
+[2024-08-08 14:28:35.695] Camera App : Camera is already activated
+[2024-08-08 14:28:36.195] Camera App : Camera is already activated
+[2024-08-08 14:28:36.696] Camera App : Camera is already activated
+[2024-08-08 14:28:37.197] Camera App : Camera is already activated
+[2024-08-08 14:28:37.698] Camera App : Camera is already activated
+[2024-08-08 14:28:37.990] Camera App : Finished recording to ./videos/segment_14:28:30.h264
+[2024-08-08 14:28:38.027] Camera App : Recording to ./videos/segment_14:28:37.h264
+[2024-08-08 14:28:38.199] Camera App : Camera is already activated
+[2024-08-08 14:28:38.700] Camera App : Camera is already activated
+[2024-08-08 14:28:39.201] Camera App : Camera is already activated
+[2024-08-08 14:28:39.702] Camera App : Camera is already activated
+[2024-08-08 14:28:40.203] Camera App : Camera is already activated
+[2024-08-08 14:28:40.704] Camera App : Camera is already activated
+[2024-08-08 14:28:41.707] Camera App : Camera is already activated
+[2024-08-08 14:28:42.709] Camera App : Camera is already activated
+[2024-08-08 14:28:43.210] Camera App : Camera is already activated
+[2024-08-08 14:28:43.711] Camera App : Camera is already activated
+[2024-08-08 14:28:44.714] Camera App : Camera is already activated
+[2024-08-08 14:28:45.062] Camera App : Finished recording to ./videos/segment_14:28:37.h264
+[2024-08-08 14:28:45.104] Camera App : Recording to ./videos/segment_14:28:45.h264
+[2024-08-08 14:28:45.716] Camera App : Camera is already activated
+[2024-08-08 14:28:46.217] Camera App : Camera is already activated
+[2024-08-08 14:28:46.718] Camera App : Camera is already activated
+[2024-08-08 14:28:47.219] Camera App : Camera is already activated
+[2024-08-08 14:28:48.222] Camera App : Camera is already activated
+[2024-08-08 14:28:48.724] Camera App : Camera is already activated
+[2024-08-08 14:28:49.726] Camera App : Camera is already activated
+[2024-08-08 14:28:50.227] Camera App : Camera is already activated
+[2024-08-08 14:28:50.730] Camera App : Camera is already activated
+[2024-08-08 14:28:51.733] Camera App : Camera is already activated
+[2024-08-08 14:28:52.137] Camera App : Finished recording to ./videos/segment_14:28:45.h264
+[2024-08-08 14:28:52.177] Camera App : Recording to ./videos/segment_14:28:52.h264
+[2024-08-08 14:28:52.233] Camera App : Camera is already activated
+[2024-08-08 14:28:52.734] Camera App : Camera is already activated
+[2024-08-08 14:28:54.239] Camera App : Camera is already activated
+[2024-08-08 14:28:54.740] Camera App : Camera is already activated
+[2024-08-08 14:28:55.241] Camera App : Camera is already activated
+[2024-08-08 14:28:55.742] Camera App : Camera is already activated
+[2024-08-08 14:28:56.243] Camera App : Camera is already activated
+[2024-08-08 14:28:56.744] Camera App : Camera is already activated
+[2024-08-08 14:28:57.246] Camera App : Camera is already activated
+[2024-08-08 14:28:57.747] Camera App : Camera is already activated
+[2024-08-08 14:28:58.248] Camera App : Camera is already activated
+[2024-08-08 14:28:59.591] Camera App : Finished recording to ./videos/segment_14:28:52.h264
+[2024-08-08 14:28:59.632] Camera App : Recording to ./videos/segment_14:28:59.h264
+[2024-08-08 14:29:01.757] Camera App : Camera is already activated
+[2024-08-08 14:29:02.258] Camera App : Camera is already activated
+[2024-08-08 14:29:02.760] Camera App : Camera is already activated
+[2024-08-08 14:29:03.262] Camera App : Camera is already activated
+[2024-08-08 14:29:03.763] Camera App : Camera is already activated
+[2024-08-08 14:29:04.264] Camera App : Camera is already activated
+[2024-08-08 14:29:04.765] Camera App : Camera is already activated
+[2024-08-08 14:29:05.266] Camera App : Camera is already activated
+[2024-08-08 14:29:05.767] Camera App : Camera is already activated
+[2024-08-08 14:29:06.268] Camera App : Camera is already activated
+[2024-08-08 14:29:06.769] Camera App : Camera is already activated
+[2024-08-08 14:29:07.045] Camera App : Finished recording to ./videos/segment_14:28:59.h264
+[2024-08-08 14:29:07.087] Camera App : Recording to ./videos/segment_14:29:07.h264
+[2024-08-08 14:29:07.270] Camera App : Camera is already activated
+[2024-08-08 14:29:07.859] Camera App : Camera is already activated
+[2024-08-08 14:29:08.360] Camera App : Camera is already activated
+[2024-08-08 14:29:08.861] Camera App : Camera is already activated
+[2024-08-08 14:29:09.362] Camera App : Camera is already activated
+[2024-08-08 14:29:09.863] Camera App : Camera is already activated
+[2024-08-08 14:29:10.364] Camera App : Camera is already activated
+[2024-08-08 14:29:10.865] Camera App : Camera is already activated
+[2024-08-08 14:29:11.366] Camera App : Camera is already activated
+[2024-08-08 14:29:11.867] Camera App : Camera is already activated
+[2024-08-08 14:29:12.368] Camera App : Camera is already activated
+[2024-08-08 14:29:12.869] Camera App : Camera is already activated
+[2024-08-08 14:29:13.370] Camera App : Camera is already activated
+[2024-08-08 14:29:13.872] Camera App : Camera is already activated
+[2024-08-08 14:29:14.130] Camera App : Finished recording to ./videos/segment_14:29:07.h264
+[2024-08-08 14:29:14.172] Camera App : Recording to ./videos/segment_14:29:14.h264
+[2024-08-08 14:29:14.373] Camera App : Camera is already activated
+[2024-08-08 14:29:14.874] Camera App : Camera is already activated
+[2024-08-08 14:29:15.375] Camera App : Camera is already activated
+[2024-08-08 14:29:15.876] Camera App : Camera is already activated
+[2024-08-08 14:29:16.377] Camera App : Camera is already activated
+[2024-08-08 14:29:16.879] Camera App : Camera is already activated
+[2024-08-08 14:29:17.379] Camera App : Camera is already activated
+[2024-08-08 14:29:18.030] Camera App : Camera is already activated
+[2024-08-08 14:29:18.532] Camera App : Camera is already activated
+[2024-08-08 14:29:19.033] Camera App : Camera is already activated
+[2024-08-08 14:29:19.534] Camera App : Camera is already activated
+[2024-08-08 14:29:20.035] Camera App : Camera is already activated
+[2024-08-08 14:29:20.537] Camera App : Camera is already activated
+[2024-08-08 14:29:21.038] Camera App : Camera is already activated
+[2024-08-08 14:29:21.206] Camera App : Finished recording to ./videos/segment_14:29:14.h264
+[2024-08-08 14:29:21.245] Camera App : Recording to ./videos/segment_14:29:21.h264
+[2024-08-08 14:29:21.539] Camera App : Camera is already activated
+[2024-08-08 14:29:22.041] Camera App : Camera is already activated
+[2024-08-08 14:29:22.542] Camera App : Camera is already activated
+[2024-08-08 14:29:23.043] Camera App : Camera is already activated
+[2024-08-08 14:29:23.544] Camera App : Camera is already activated
+[2024-08-08 14:29:24.046] Camera App : Camera is already activated
+[2024-08-08 14:29:24.546] Camera App : Camera is already activated
+[2024-08-08 14:29:25.047] Camera App : Camera is already activated
+[2024-08-08 14:29:25.549] Camera App : Camera is already activated
+[2024-08-08 14:29:26.050] Camera App : Camera is already activated
+[2024-08-08 14:29:27.052] Camera App : Camera is already activated
+[2024-08-08 14:29:28.556] Camera App : Camera is already activated
+[2024-08-08 14:29:28.658] Camera App : Finished recording to ./videos/segment_14:29:21.h264
+[2024-08-08 14:29:28.700] Camera App : Recording to ./videos/segment_14:29:28.h264
+[2024-08-08 14:29:29.057] Camera App : Camera is already activated
+[2024-08-08 14:29:32.064] Camera App : Camera is already activated
+[2024-08-08 14:29:32.565] Camera App : Camera is already activated
+[2024-08-08 14:29:33.066] Camera App : Camera is already activated
+[2024-08-08 14:29:33.566] Camera App : Camera is already activated
+[2024-08-08 14:29:34.067] Camera App : Camera is already activated
+[2024-08-08 14:29:34.568] Camera App : Camera is already activated
+[2024-08-08 14:29:35.069] Camera App : Camera is already activated
+[2024-08-08 14:29:36.071] Camera App : Camera is already activated
+[2024-08-08 14:29:36.110] Camera App : Finished recording to ./videos/segment_14:29:28.h264
+[2024-08-08 14:29:36.151] Camera App : Recording to ./videos/segment_14:29:36.h264
+[2024-08-08 14:29:36.573] Camera App : Camera is already activated
+[2024-08-08 14:29:37.074] Camera App : Camera is already activated
+[2024-08-08 14:29:37.575] Camera App : Camera is already activated
+[2024-08-08 14:29:38.578] Camera App : Camera is already activated
+[2024-08-08 14:29:39.080] Camera App : Camera is already activated
+[2024-08-08 14:29:40.082] Camera App : Camera is already activated
+[2024-08-08 14:29:40.583] Camera App : Camera is already activated
+[2024-08-08 14:29:41.084] Camera App : Camera is already activated
+[2024-08-08 14:29:42.086] Camera App : Camera is already activated
+[2024-08-08 14:29:42.587] Camera App : Camera is already activated
+[2024-08-08 14:29:43.089] Camera App : Camera is already activated
+[2024-08-08 14:29:43.564] Camera App : Finished recording to ./videos/segment_14:29:36.h264
+[2024-08-08 14:29:43.608] Camera App : Recording to ./videos/segment_14:29:43.h264
+[2024-08-08 14:29:44.091] Camera App : Camera is already activated
+[2024-08-08 14:29:45.094] Camera App : Camera is already activated
+[2024-08-08 14:29:46.096] Camera App : Camera is already activated
+[2024-08-08 14:29:46.597] Camera App : Camera is already activated
+[2024-08-08 14:29:47.098] Camera App : Camera is already activated
+[2024-08-08 14:29:47.599] Camera App : Camera is already activated
+[2024-08-08 14:29:48.101] Camera App : Camera is already activated
+[2024-08-08 14:29:48.602] Camera App : Camera is already activated
+[2024-08-08 14:29:49.102] Camera App : Camera is already activated
+[2024-08-08 14:29:49.604] Camera App : Camera is already activated
+[2024-08-08 14:29:50.104] Camera App : Camera is already activated
+[2024-08-08 14:29:50.606] Camera App : Camera is already activated
+[2024-08-08 14:29:51.021] Camera App : Finished recording to ./videos/segment_14:29:43.h264
+[2024-08-08 14:29:51.063] Camera App : Recording to ./videos/segment_14:29:51.h264
+[2024-08-08 14:29:51.106] Camera App : Camera is already activated
+[2024-08-08 14:29:51.607] Camera App : Camera is already activated
+[2024-08-08 14:29:52.109] Camera App : Camera is already activated
+[2024-08-08 14:29:52.609] Camera App : Camera is already activated
+[2024-08-08 14:29:53.110] Camera App : Camera is already activated
+[2024-08-08 14:29:53.613] Camera App : Camera is already activated
+[2024-08-08 14:29:54.114] Camera App : Camera is already activated
+[2024-08-08 14:29:54.614] Camera App : Camera is already activated
+[2024-08-08 14:29:55.116] Camera App : Camera is already activated
+[2024-08-08 14:29:55.617] Camera App : Camera is already activated
+[2024-08-08 14:29:56.118] Camera App : Camera is already activated
+[2024-08-08 14:29:57.120] Camera App : Camera is already activated
+[2024-08-08 14:29:57.621] Camera App : Camera is already activated
+[2024-08-08 14:29:58.122] Camera App : Camera is already activated
+[2024-08-08 14:29:58.479] Camera App : Finished recording to ./videos/segment_14:29:51.h264
+[2024-08-08 14:29:58.525] Camera App : Recording to ./videos/segment_14:29:58.h264
+[2024-08-08 14:29:58.623] Camera App : Camera is already activated
+[2024-08-08 14:29:59.124] Camera App : Camera is already activated
+[2024-08-08 14:30:00.127] Camera App : Camera is already activated
+[2024-08-08 14:30:00.628] Camera App : Camera is already activated
+[2024-08-08 14:30:01.128] Camera App : Camera is already activated
+[2024-08-08 14:30:02.130] Camera App : Camera is already activated
+[2024-08-08 14:30:03.132] Camera App : Camera is already activated
+[2024-08-08 14:30:03.632] Camera App : Camera is already activated
+[2024-08-08 14:30:05.135] Camera App : Camera is already activated
+[2024-08-08 14:30:05.930] Camera App : Finished recording to ./videos/segment_14:29:58.h264
+[2024-08-08 14:30:05.968] Camera App : Recording to ./videos/segment_14:30:05.h264
+[2024-08-08 14:30:06.136] Camera App : Camera is already activated
+[2024-08-08 14:30:06.637] Camera App : Camera is already activated
+[2024-08-08 14:30:07.138] Camera App : Camera is already activated
+[2024-08-08 14:30:07.639] Camera App : Camera is already activated
+[2024-08-08 14:30:08.375] Camera App : Camera is already activated
+[2024-08-08 14:30:08.876] Camera App : Camera is already activated
+[2024-08-08 14:30:09.377] Camera App : Camera is already activated
+[2024-08-08 14:30:09.878] Camera App : Camera is already activated
+[2024-08-08 14:30:10.380] Camera App : Camera is already activated
+[2024-08-08 14:30:10.880] Camera App : Camera is already activated
+[2024-08-08 14:30:11.383] Camera App : Camera is already activated
+[2024-08-08 14:30:12.385] Camera App : Camera is already activated
+[2024-08-08 14:30:13.384] Camera App : Finished recording to ./videos/segment_14:30:05.h264
+[2024-08-08 14:30:13.388] Camera App : Camera is already activated
+[2024-08-08 14:30:13.428] Camera App : Recording to ./videos/segment_14:30:13.h264
+[2024-08-08 14:30:14.891] Camera App : Camera is already activated
+[2024-08-08 14:30:15.393] Camera App : Camera is already activated
+[2024-08-08 14:30:15.894] Camera App : Camera is already activated
+[2024-08-08 14:30:16.395] Camera App : Camera is already activated
+[2024-08-08 14:30:16.896] Camera App : Camera is already activated
+[2024-08-08 14:30:17.898] Camera App : Camera is already activated
+[2024-08-08 14:30:18.902] Camera App : Camera is already activated
+[2024-08-08 14:30:19.904] Camera App : Camera is already activated
+[2024-08-08 14:30:20.405] Camera App : Camera is already activated
+[2024-08-08 14:30:20.462] Camera App : Finished recording to ./videos/segment_14:30:13.h264
+[2024-08-08 14:30:20.503] Camera App : Recording to ./videos/segment_14:30:20.h264
+[2024-08-08 14:30:20.906] Camera App : Camera is already activated
+[2024-08-08 14:30:21.407] Camera App : Camera is already activated
+[2024-08-08 14:30:21.908] Camera App : Camera is already activated
+[2024-08-08 14:30:22.910] Camera App : Camera is already activated
+[2024-08-08 14:30:23.412] Camera App : Camera is already activated
+[2024-08-08 14:30:23.913] Camera App : Camera is already activated
+[2024-08-08 14:30:24.414] Camera App : Camera is already activated
+[2024-08-08 14:30:24.915] Camera App : Camera is already activated
+[2024-08-08 14:30:25.418] Camera App : Camera is already activated
+[2024-08-08 14:30:25.918] Camera App : Camera is already activated
+[2024-08-08 14:30:26.419] Camera App : Camera is already activated
+[2024-08-08 14:30:27.538] Camera App : Finished recording to ./videos/segment_14:30:20.h264
+[2024-08-08 14:30:27.578] Camera App : Recording to ./videos/segment_14:30:27.h264
+[2024-08-08 14:30:28.425] Camera App : Camera is already activated
+[2024-08-08 14:30:30.932] Camera App : Camera is already activated
+[2024-08-08 14:30:31.433] Camera App : Camera is already activated
+[2024-08-08 14:30:31.934] Camera App : Camera is already activated
+[2024-08-08 14:30:32.936] Camera App : Camera is already activated
+[2024-08-08 14:30:33.437] Camera App : Camera is already activated
+[2024-08-08 14:30:34.940] Camera App : Camera is already activated
+[2024-08-08 14:30:34.987] Camera App : Finished recording to ./videos/segment_14:30:27.h264
+[2024-08-08 14:30:35.023] Camera App : Recording to ./videos/segment_14:30:34.h264
+[2024-08-08 14:30:35.441] Camera App : Camera is already activated
+[2024-08-08 14:30:35.942] Camera App : Camera is already activated
+[2024-08-08 14:30:36.443] Camera App : Camera is already activated
+[2024-08-08 14:30:36.944] Camera App : Camera is already activated
+[2024-08-08 14:30:37.445] Camera App : Camera is already activated
+[2024-08-08 14:30:38.447] Camera App : Camera is already activated
+[2024-08-08 14:30:38.948] Camera App : Camera is already activated
+[2024-08-08 14:30:39.450] Camera App : Camera is already activated
+[2024-08-08 14:30:39.951] Camera App : Camera is already activated
+[2024-08-08 14:30:40.452] Camera App : Camera is already activated
+[2024-08-08 14:30:40.953] Camera App : Camera is already activated
+[2024-08-08 14:30:41.454] Camera App : Camera is already activated
+[2024-08-08 14:30:41.956] Camera App : Camera is already activated
+[2024-08-08 14:30:42.061] Camera App : Finished recording to ./videos/segment_14:30:34.h264
+[2024-08-08 14:30:42.104] Camera App : Recording to ./videos/segment_14:30:42.h264
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       [2024-08-08 14:29:57.438] Log file generated
+[2024-08-08 14:29:57.439] Starting Camera App
+[2024-08-08 14:29:57.586] Camera Configuration Complete
+[2024-08-08 14:29:57.618] Camera App : Connected to CommsCore App
+[2024-08-08 14:59:09.823] Camera App : Recording to ./videos/segment_14:59:09.h264
+[2024-08-08 14:59:11.100] Camera App : Camera is already activated
+[2024-08-08 14:59:11.602] Camera App : Camera is already activated
+[2024-08-08 14:59:12.102] Camera App : Camera is already activated
+[2024-08-08 14:59:12.605] Camera App : Camera is already activated
+[2024-08-08 14:59:13.106] Camera App : Camera is already activated
+[2024-08-08 14:59:13.607] Camera App : Camera is already activated
+[2024-08-08 14:59:15.117] Camera App : Camera is already activated
+[2024-08-08 14:59:15.620] Camera App : Camera is already activated
+[2024-08-08 14:59:16.122] Camera App : Camera is already activated
+[2024-08-08 14:59:16.869] Camera App : Finished recording to ./videos/segment_14:59:09.h264
+[2024-08-08 14:59:16.916] Camera App : Recording to ./videos/segment_14:59:16.h264
+[2024-08-08 14:59:18.127] Camera App : Camera is already activated
+[2024-08-08 14:59:18.630] Camera App : Camera is already activated
+[2024-08-08 14:59:20.132] Camera App : Camera is already activated
+[2024-08-08 14:59:21.636] Camera App : Camera is already activated
+[2024-08-08 14:59:22.137] Camera App : Camera is already activated
+[2024-08-08 14:59:22.638] Camera App : Camera is already activated
+[2024-08-08 14:59:23.139] Camera App : Camera is already activated
+[2024-08-08 14:59:23.640] Camera App : Camera is already activated
+[2024-08-08 14:59:24.909] Camera App : Finished recording to ./videos/segment_14:59:16.h264
+[2024-08-08 14:59:24.946] Camera App : Recording to ./videos/segment_14:59:24.h264
+[2024-08-08 14:59:25.878] Camera App : Camera is already activated
+[2024-08-08 14:59:26.379] Camera App : Camera is already activated
+[2024-08-08 14:59:27.882] Camera App : Camera is already activated
+[2024-08-08 14:59:28.385] Camera App : Camera is already activated
+[2024-08-08 14:59:28.886] Camera App : Camera is already activated
+[2024-08-08 14:59:29.387] Camera App : Camera is already activated
+[2024-08-08 14:59:29.888] Camera App : Camera is already activated
+[2024-08-08 14:59:30.389] Camera App : Camera is already activated
+[2024-08-08 14:59:30.890] Camera App : Camera is already activated
+[2024-08-08 14:59:31.391] Camera App : Camera is already activated
+[2024-08-08 14:59:31.893] Camera App : Camera is already activated
+[2024-08-08 14:59:31.980] Camera App : Finished recording to ./videos/segment_14:59:24.h264
+[2024-08-08 14:59:32.022] Camera App : Recording to ./videos/segment_14:59:31.h264
+[2024-08-08 14:59:32.394] Camera App : Camera is already activated
+[2024-08-08 14:59:32.895] Camera App : Camera is already activated
+[2024-08-08 14:59:33.397] Camera App : Camera is already activated
+[2024-08-08 14:59:33.898] Camera App : Camera is already activated
+[2024-08-08 14:59:34.399] Camera App : Camera is already activated
+[2024-08-08 14:59:34.901] Camera App : Camera is already activated
+[2024-08-08 14:59:35.903] Camera App : Camera is already activated
+[2024-08-08 14:59:37.907] Camera App : Camera is already activated
+[2024-08-08 14:59:39.060] Camera App : Finished recording to ./videos/segment_14:59:31.h264
+[2024-08-08 14:59:39.098] Camera App : Recording to ./videos/segment_14:59:39.h264
+[2024-08-08 14:59:40.915] Camera App : Camera is already activated
+[2024-08-08 14:59:41.416] Camera App : Camera is already activated
+[2024-08-08 14:59:41.917] Camera App : Camera is already activated
+[2024-08-08 14:59:42.418] Camera App : Camera is already activated
+[2024-08-08 14:59:42.919] Camera App : Camera is already activated
+[2024-08-08 14:59:43.420] Camera App : Camera is already activated
+[2024-08-08 14:59:43.921] Camera App : Camera is already activated
+[2024-08-08 14:59:44.422] Camera App : Camera is already activated
+[2024-08-08 14:59:46.133] Camera App : Finished recording to ./videos/segment_14:59:39.h264
+[2024-08-08 14:59:46.170] Camera App : Recording to ./videos/segment_14:59:46.h264
+[2024-08-08 14:59:46.427] Camera App : Camera is already activated
+[2024-08-08 14:59:46.928] Camera App : Camera is already activated
+[2024-08-08 14:59:47.429] Camera App : Camera is already activated
+[2024-08-08 14:59:48.932] Camera App : Camera is already activated
+[2024-08-08 14:59:49.433] Camera App : Camera is already activated
+[2024-08-08 14:59:49.934] Camera App : Camera is already activated
+[2024-08-08 14:59:50.435] Camera App : Camera is already activated
+[2024-08-08 14:59:50.936] Camera App : Camera is already activated
+[2024-08-08 14:59:51.437] Camera App : Camera is already activated
+[2024-08-08 14:59:51.938] Camera App : Camera is already activated
+[2024-08-08 14:59:52.439] Camera App : Camera is already activated
+[2024-08-08 14:59:52.940] Camera App : Camera is already activated
+[2024-08-08 14:59:53.208] Camera App : Finished recording to ./videos/segment_14:59:46.h264
+[2024-08-08 14:59:53.249] Camera App : Recording to ./videos/segment_14:59:53.h264
+[2024-08-08 14:59:53.442] Camera App : Camera is already activated
+[2024-08-08 14:59:53.943] Camera App : Camera is already activated
+[2024-08-08 14:59:54.445] Camera App : Camera is already activated
+[2024-08-08 14:59:54.946] Camera App : Camera is already activated
+[2024-08-08 14:59:55.448] Camera App : Camera is already activated
+[2024-08-08 14:59:55.949] Camera App : Camera is already activated
+[2024-08-08 14:59:56.450] Camera App : Camera is already activated
+[2024-08-08 14:59:56.951] Camera App : Camera is already activated
+[2024-08-08 14:59:57.452] Camera App : Camera is already activated
+[2024-08-08 14:59:58.454] Camera App : Camera is already activated
+[2024-08-08 14:59:58.955] Camera App : Camera is already activated
+[2024-08-08 14:59:59.456] Camera App : Camera is already activated
+[2024-08-08 14:59:59.958] Camera App : Camera is already activated
+[2024-08-08 15:00:00.290] Camera App : Finished recording to ./videos/segment_14:59:53.h264
+[2024-08-08 15:00:00.332] Camera App : Recording to ./videos/segment_15:00:00.h264
+[2024-08-08 15:00:00.961] Camera App : Camera is already activated
+[2024-08-08 15:00:01.462] Camera App : Camera is already activated
+[2024-08-08 15:00:01.963] Camera App : Camera is already activated
+[2024-08-08 15:00:02.465] Camera App : Camera is already activated
+[2024-08-08 15:00:02.966] Camera App : Camera is already activated
+[2024-08-08 15:00:03.968] Camera App : Camera is already activated
+[2024-08-08 15:00:04.970] Camera App : Camera is already activated
+[2024-08-08 15:00:05.471] Camera App : Camera is already activated
+[2024-08-08 15:00:05.973] Camera App : Camera is already activated
+[2024-08-08 15:00:06.474] Camera App : Camera is already activated
+[2024-08-08 15:00:06.975] Camera App : Camera is already activated
+[2024-08-08 15:00:07.372] Camera App : Finished recording to ./videos/segment_15:00:00.h264
+[2024-08-08 15:00:07.419] Camera App : Recording to ./videos/segment_15:00:07.h264
+[2024-08-08 15:00:07.476] Camera App : Camera is already activated
+[2024-08-08 15:00:07.977] Camera App : Camera is already activated
+[2024-08-08 15:00:08.979] Camera App : Camera is already activated
+[2024-08-08 15:00:09.480] Camera App : Camera is already activated
+[2024-08-08 15:00:09.981] Camera App : Camera is already activated
+[2024-08-08 15:00:10.483] Camera App : Camera is already activated
+[2024-08-08 15:00:10.984] Camera App : Camera is already activated
+[2024-08-08 15:00:11.484] Camera App : Camera is already activated
+[2024-08-08 15:00:11.985] Camera App : Camera is already activated
+[2024-08-08 15:00:12.486] Camera App : Camera is already activated
+[2024-08-08 15:00:12.987] Camera App : Camera is already activated
+[2024-08-08 15:00:14.489] Camera App : Camera is already activated
+[2024-08-08 15:00:14.829] Camera App : Finished recording to ./videos/segment_15:00:07.h264
+[2024-08-08 15:00:14.877] Camera App : Recording to ./videos/segment_15:00:14.h264
+[2024-08-08 15:00:14.991] Camera App : Camera is already activated
+[2024-08-08 15:00:15.492] Camera App : Camera is already activated
+[2024-08-08 15:00:15.995] Camera App : Camera is already activated
+[2024-08-08 15:00:16.996] Camera App : Camera is already activated
+[2024-08-08 15:00:17.998] Camera App : Camera is already activated
+[2024-08-08 15:00:19.000] Camera App : Camera is already activated
+[2024-08-08 15:00:20.002] Camera App : Camera is already activated
+[2024-08-08 15:00:20.503] Camera App : Camera is already activated
+[2024-08-08 15:00:21.004] Camera App : Camera is already activated
+[2024-08-08 15:00:21.505] Camera App : Camera is already activated
+[2024-08-08 15:00:21.913] Camera App : Finished recording to ./videos/segment_15:00:14.h264
+[2024-08-08 15:00:21.955] Camera App : Recording to ./videos/segment_15:00:21.h264
+[2024-08-08 15:00:22.007] Camera App : Camera is already activated
+[2024-08-08 15:00:22.508] Camera App : Camera is already activated
+[2024-08-08 15:00:23.010] Camera App : Camera is already activated
+[2024-08-08 15:00:23.510] Camera App : Camera is already activated
+[2024-08-08 15:00:24.011] Camera App : Camera is already activated
+[2024-08-08 15:00:24.512] Camera App : Camera is already activated
+[2024-08-08 15:00:25.013] Camera App : Camera is already activated
+[2024-08-08 15:00:25.514] Camera App : Camera is already activated
+[2024-08-08 15:00:26.015] Camera App : Camera is already activated
+[2024-08-08 15:00:26.516] Camera App : Camera is already activated
+[2024-08-08 15:00:27.018] Camera App : Camera is already activated
+[2024-08-08 15:00:27.518] Camera App : Camera is already activated
+[2024-08-08 15:00:28.020] Camera App : Camera is already activated
+[2024-08-08 15:00:28.521] Camera App : Camera is already activated
+[2024-08-08 15:00:28.991] Camera App : Finished recording to ./videos/segment_15:00:21.h264
+[2024-08-08 15:00:29.033] Camera App : Recording to ./videos/segment_15:00:28.h264
+[2024-08-08 15:00:31.030] Camera App : Camera is already activated
+[2024-08-08 15:00:31.531] Camera App : Camera is already activated
+[2024-08-08 15:00:32.032] Camera App : Camera is already activated
+[2024-08-08 15:00:32.533] Camera App : Camera is already activated
+[2024-08-08 15:00:33.034] Camera App : Camera is already activated
+[2024-08-08 15:00:33.535] Camera App : Camera is already activated
+[2024-08-08 15:00:34.037] Camera App : Camera is already activated
+[2024-08-08 15:00:34.537] Camera App : Camera is already activated
+[2024-08-08 15:00:35.038] Camera App : Camera is already activated
+[2024-08-08 15:00:35.539] Camera App : Camera is already activated
+[2024-08-08 15:00:36.051] Camera App : Camera is already activated
+[2024-08-08 15:00:36.071] Camera App : Finished recording to ./videos/segment_15:00:28.h264
+[2024-08-08 15:00:36.116] Camera App : Recording to ./videos/segment_15:00:36.h264
+[2024-08-08 15:00:36.541] Camera App : Camera is already activated
+[2024-08-08 15:00:37.042] Camera App : Camera is already activated
+[2024-08-08 15:00:37.544] Camera App : Camera is already activated
+[2024-08-08 15:00:38.045] Camera App : Camera is already activated
+[2024-08-08 15:00:38.546] Camera App : Camera is already activated
+[2024-08-08 15:00:39.047] Camera App : Camera is already activated
+[2024-08-08 15:00:39.549] Camera App : Camera is already activated
+[2024-08-08 15:00:40.552] Camera App : Camera is already activated
+[2024-08-08 15:00:41.053] Camera App : Camera is already activated
+[2024-08-08 15:00:41.554] Camera App : Camera is already activated
+[2024-08-08 15:00:42.055] Camera App : Camera is already activated
+[2024-08-08 15:00:43.525] Camera App : Finished recording to ./videos/segment_15:00:36.h264
+[2024-08-08 15:00:43.563] Camera App : Camera is already activated
+[2024-08-08 15:00:43.564] Camera App : Recording to ./videos/segment_15:00:43.h264
+[2024-08-08 15:00:44.059] Camera App : Camera is already activated
+[2024-08-08 15:00:44.560] Camera App : Camera is already activated
+[2024-08-08 15:00:45.061] Camera App : Camera is already activated
+[2024-08-08 15:00:45.561] Camera App : Camera is already activated
+[2024-08-08 15:00:46.062] Camera App : Camera is already activated
+[2024-08-08 15:00:46.563] Camera App : Camera is already activated
+[2024-08-08 15:00:47.065] Camera App : Camera is already activated
+[2024-08-08 15:00:47.566] Camera App : Camera is already activated
+[2024-08-08 15:00:48.067] Camera App : Camera is already activated
+[2024-08-08 15:00:48.568] Camera App : Camera is already activated
+[2024-08-08 15:00:49.069] Camera App : Camera is already activated
+[2024-08-08 15:00:50.071] Camera App : Camera is already activated
+[2024-08-08 15:00:50.975] Camera App : Finished recording to ./videos/segment_15:00:43.h264
+[2024-08-08 15:00:51.020] Camera App : Recording to ./videos/segment_15:00:50.h264
+[2024-08-08 15:00:51.074] Camera App : Camera is already activated
+[2024-08-08 15:00:51.575] Camera App : Camera is already activated
+[2024-08-08 15:00:52.076] Camera App : Camera is already activated
+[2024-08-08 15:00:52.577] Camera App : Camera is already activated
+[2024-08-08 15:00:53.580] Camera App : Camera is already activated
+[2024-08-08 15:00:54.083] Camera App : Camera is already activated
+[2024-08-08 15:00:54.584] Camera App : Camera is already activated
+[2024-08-08 15:00:55.086] Camera App : Camera is already activated
+[2024-08-08 15:00:55.587] Camera App : Camera is already activated
+[2024-08-08 15:00:56.088] Camera App : Camera is already activated
+[2024-08-08 15:00:56.589] Camera App : Camera is already activated
+[2024-08-08 15:00:58.056] Camera App : Finished recording to ./videos/segment_15:00:50.h264
+[2024-08-08 15:00:58.097] Camera App : Recording to ./videos/segment_15:00:58.h264
+[2024-08-08 15:00:58.098] Camera App : Camera is already activated
+[2024-08-08 15:00:58.594] Camera App : Camera is already activated
+[2024-08-08 15:00:59.096] Camera App : Camera is already activated
+[2024-08-08 15:00:59.597] Camera App : Camera is already activated
+[2024-08-08 15:01:00.098] Camera App : Camera is already activated
+[2024-08-08 15:01:00.599] Camera App : Camera is already activated
+[2024-08-08 15:01:02.604] Camera App : Camera is already activated
+[2024-08-08 15:01:03.105] Camera App : Camera is already activated
+[2024-08-08 15:01:04.107] Camera App : Camera is already activated
+[2024-08-08 15:01:04.609] Camera App : Camera is already activated
+[2024-08-08 15:01:05.114] Camera App : Camera is already activated
+[2024-08-08 15:01:05.135] Camera App : Finished recording to ./videos/segment_15:00:58.h264
+[2024-08-08 15:01:05.176] Camera App : Recording to ./videos/segment_15:01:05.h264
+[2024-08-08 15:01:05.611] Camera App : Camera is already activated
+[2024-08-08 15:01:06.112] Camera App : Camera is already activated
+[2024-08-08 15:01:07.114] Camera App : Camera is already activated
+[2024-08-08 15:01:07.616] Camera App : Camera is already activated
+[2024-08-08 15:01:11.626] Camera App : Camera is already activated
+[2024-08-08 15:01:12.127] Camera App : Camera is already activated
+[2024-08-08 15:01:12.585] Camera App : Finished recording to ./videos/segment_15:01:05.h264
+[2024-08-08 15:01:12.623] Camera App : Recording to ./videos/segment_15:01:12.h264
+[2024-08-08 15:01:12.628] Camera App : Camera is already activated
+[2024-08-08 15:01:13.129] Camera App : Camera is already activated
+[2024-08-08 15:01:15.134] Camera App : Camera is already activated
+[2024-08-08 15:01:16.638] Camera App : Camera is already activated
+[2024-08-08 15:01:17.641] Camera App : Camera is already activated
+[2024-08-08 15:01:18.143] Camera App : Camera is already activated
+[2024-08-08 15:01:18.644] Camera App : Camera is already activated
+[2024-08-08 15:01:19.145] Camera App : Camera is already activated
+[2024-08-08 15:01:19.646] Camera App : Camera is already activated
+[2024-08-08 15:01:20.034] Camera App : Finished recording to ./videos/segment_15:01:12.h264
+[2024-08-08 15:01:20.081] Camera App : Recording to ./videos/segment_15:01:20.h264
+[2024-08-08 15:01:20.147] Camera App : Camera is already activated
+[2024-08-08 15:01:20.648] Camera App : Camera is already activated
+[2024-08-08 15:01:21.149] Camera App : Camera is already activated
+[2024-08-08 15:01:21.650] Camera App : Camera is already activated
+[2024-08-08 15:01:22.151] Camera App : Camera is already activated
+[2024-08-08 15:01:22.653] Camera App : Camera is already activated
+[2024-08-08 15:01:23.154] Camera App : Camera is already activated
+[2024-08-08 15:01:23.655] Camera App : Camera is already activated
+[2024-08-08 15:01:24.156] Camera App : Camera is already activated
+[2024-08-08 15:01:25.158] Camera App : Camera is already activated
+[2024-08-08 15:01:25.659] Camera App : Camera is already activated
+[2024-08-08 15:01:27.494] Camera App : Finished recording to ./videos/segment_15:01:20.h264
+[2024-08-08 15:01:27.535] Camera App : Recording to ./videos/segment_15:01:27.h264
+[2024-08-08 15:01:28.165] Camera App : Camera is already activated
+[2024-08-08 15:01:28.666] Camera App : Camera is already activated
+[2024-08-08 15:01:29.166] Camera App : Camera is already activated
+[2024-08-08 15:01:29.667] Camera App : Camera is already activated
+[2024-08-08 15:01:30.168] Camera App : Camera is already activated
+                                                                                                                                                                                                                                                                            [2024-08-08 15:01:42.132] Log file generated
+[2024-08-08 15:01:42.134] Starting Camera App
+[2024-08-08 15:01:42.294] Camera Configuration Complete
+[2024-08-08 15:01:42.294] Camera App : Connected to CommsCore App
